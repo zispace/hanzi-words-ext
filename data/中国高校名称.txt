@@ -1,0 +1,4245 @@
+# 中国高校名称
+# 来自教育部门，包括部分曾用名
+#
+# 学校名称	英文名称
+
+七台河职业学院	Qitaihe Vocational College
+三亚中瑞酒店管理职业学院	Hospitality Institute of Sanya
+三亚城市职业学院	Sanya City College / Sanya City Vocational College
+三亚学院	Sanya University / University of Sanya
+三亚护理职业学院	Sanya International College of Nursing
+三亚理工职业学院	Sanya Institute of Technology / Sanya Institute of Technology
+三亚航空旅游职业学院	Sanya Aviation and Tourism College
+三峡大学	China Three Gorges University
+三峡大学科技学院	College of Science and Technology of China Three Gorges University
+三峡旅游职业技术学院	Three Gorges Tourism Polytechnic College
+三峡电力职业学院	Three Gorges Vocational College of Electric Power
+三明医学科技职业学院	Sanming Medical and Polytechnic Vocational College
+三明学院	Sanming University
+三明职业技术学院	
+三江学院	Sanjiang University
+三门峡社会管理职业学院	Sanmenxia College of Social Administration / Sanmenxia Vocational College of Social Management
+三门峡职业技术学院	Sanmenxia Polytechnic
+上海东海职业技术学院	Shanghai Donghai Vocational and Technical College
+上海中侨职业技术大学	Shanghai Zhongqiao Vocational and Technical University
+上海中医药大学	Shanghai University of Traditional Chinese Medicine
+上海中华职业技术学院	Shanghai Zhonghua College
+上海交通大学	Shanghai Jiao Tong University
+上海交通职业技术学院	Shanghai Communications Polytechnic
+上海体育大学	Shanghai University of Sport
+上海体育学院	
+上海体育职业学院	
+上海健康医学院	Shanghai University of Medicine and Health Sciences
+上海健康职业技术学院	
+上海公安学院	Shanghai Police College
+上海公安高等专科学校	
+上海兴伟学院	Shanghai Xingwei College / XingWei College
+上海兴韦信息技术职业学院	
+上海农林职业技术学院	Shanghai Vocational College of Agriculture and Forestry
+上海出版印刷高等专科学校	Shanghai Publishing and Printing College
+上海医疗器械高等专科学校	
+上海医药职工大学	
+上海医药高等专科学校	
+上海南湖职业技术学院	Shanghai Nanhu Vocational and Technical College
+上海商学院	Shanghai Business School
+上海城市管理职业技术学院	
+上海城建职业学院	Shanghai Urban Construction Vocational College
+上海外国语大学	Shanghai International Studies University
+上海外国语大学贤达经济人文学院	Xianda College of Economics & Humanities Shanghai International Studies University
+上海大学	Shanghai University
+上海对外经贸大学	Shanghai University of International Business and Economics
+上海对外贸易学院	
+上海工会管理职业学院	Shanghai Vocational College of Trade Union
+上海工商外国语职业学院	Shanghai Institute of Commerce & Foreign Languages
+上海工商学院	
+上海工商职业技术学院	Shanghai Industrial and Commercial Polytechnic
+上海工程技术大学	Shanghai University of Engineering Science
+上海工艺美术职业学院	Shanghai Art & Design Academy
+上海市卢湾区业余大学	
+上海市宝山区业余大学	
+上海市广播电视大学	
+上海市徐汇区业余大学	
+上海市普陀区业余大学	
+上海市杨浦区业余大学	
+上海市经济管理干部学院	
+上海市虹口区业余大学	
+上海市长宁区业余大学	
+上海市静安区业余大学	
+上海市黄浦区业余大学	
+上海师范大学	Shanghai Normal University
+上海师范大学天华学院	Shanghai Normal University TIANHUA College / Shanghai Normal University Tianhua College
+上海应用技术大学	Shanghai Institute of Technology
+上海应用技术学院	
+上海建峰职业技术学院	
+上海建桥学院	Shanghai Jianqiao University
+上海建设管理职业技术学院	Shanghai Construction Management Vocational College
+上海开放大学	
+上海思博职业技术学院	Shanghai Si Po Polytechnic / Shanghai Sipo Polytechnic
+上海戏剧学院	Shanghai Theatre Academy
+上海托普信息技术职业学院	
+上海政法学院	Shanghai University of Political Science and Law / Shanghai University of Politic Science and Law
+上海新侨职业技术学院	
+上海旅游高等专科学校	Shanghai Institute of Tourism
+上海机电工业职工大学	
+上海杉达学院	Shanghai Sanda University / Sanda University
+上海欧华职业技术学院	Shanghai Ouhua College
+上海民航职业技术学院	Shanghai Civil Aviation College
+上海民远职业技术学院	Shanghai Minyuan Vocational College
+上海水产大学	
+上海济光职业技术学院	Shanghai Jiguang Polytechnic College
+上海浦东职业技术学院	Shanghai Pudong Vocational & Technical College
+上海海事大学	Shanghai Maritime University
+上海海事职业技术学院	Shanghai Maritime Academy
+上海海关学院	Shanghai Customs College
+上海海洋大学	Shanghai Ocean University
+上海现代化工职业学院	Shanghai Modern Chemical Industry Vocational College
+上海理工大学	University of Shanghai for Science and Technology
+上海电力大学	Shanghai University of Electric Power
+上海电子信息职业技术学院	Shanghai Technical Institute of Electronics Information / Shanghai Technical Institute of Electronics & Information
+上海电影艺术职业学院	Shanghai Film Art Academy
+上海电机学院	Shanghai Dianji University
+上海科创职业技术学院	Shanghai Technology and Innovation Vocational College
+上海科学技术职业学院	Shanghai Vocational College of Science and Technology
+上海科技大学	ShanghaiTech University
+上海科技管理干部学院	
+上海立信会计学院	Shanghai Lixin University of Commerce
+上海立信会计金融学院	Shanghai Lixin University of Accounting and Finance
+上海立达学院	Shanghai Lida University / Shanghai lida University
+上海第二工业大学	Shanghai Polytechnic University
+上海纺织工业职工大学	
+上海纽约大学	New York University Shanghai / NYU Shanghai
+上海职工体育运动技术学院	
+上海职工医学院	
+上海行健职业学院	Shanghai Xingjian College
+上海视觉艺术学院	Shanghai Institute of Visual Art / Shanghai Institute of Visual Arts
+上海财政税务职工大学	
+上海财经大学	Shanghai University of Finance and Economics
+上海财经大学浙江学院	Shanghai University of Finance and Economics Zhejiang College
+上海邦德职业技术学院	Shanghai Bangde College
+上海金融学院	Shanghai Finance University
+上海闵行职业技术学院	Shanghai Minhang Polytechnic
+上海震旦职业学院	Shanghai Aurora College
+上海青年管理干部学院	
+上海音乐学院	Shanghai Conservatory of Music
+上饶卫生健康职业学院	Shangrao Health Vocational College
+上饶师范学院	Shangrao Normal University
+上饶幼儿师范高等专科学校	Shangrao Preschool Education College
+上饶职业技术学院	Shangrao Vocational & Technical College / Shangrao Vocational Technical College
+东北农业大学	Northeast Agricultural University
+东北大学	Northeastern University
+东北师范大学	Northeast Normal University
+东北师范大学人文学院	College of Humanities and Sciences of Northeast Normal University
+东北林业大学	Northeast Forestry University
+东北电力大学	Northeast Electric Power University
+东北石油大学	Northeast Petroleum University
+东北财经大学	Dongbei University of Finance and Economics
+东华大学	Donghua University
+东华理工大学	East China University of Technology
+东华理工大学长江学院	
+东南大学	Southeast University
+东南大学成贤学院	Southeast University Chengxian College
+东莞南博职业技术学院	
+东莞城市学院	
+东莞理工学院	Dongguan University of Technology
+东莞理工学院城市学院	
+东莞职业技术学院	Dongguan Polytechnic
+东营科技职业学院	Dongying Vocational College of Science＆Technology / Dongying Vocational College of Science & Technology
+东营职业学院	Dongying Vocational Institute
+中北大学	North University of China
+中北大学信息商务学院	
+中华女子学院	China Women's University
+中南大学	Central South University
+中南林业科技大学	Central South University of Forestry and Technology
+中南林业科技大学涉外学院	Swan college, Central South University of Forestry and Technology / Swan College, Central South University of Forestry and Technology
+中南民族大学	South-central University for Nationalities / South-Central Minzu University
+中南海业余大学	
+中南财经政法大学	Zhongnan University of Economics and Law
+中原工学院	Zhongyuan University of Technology
+中原工学院信息商务学院	
+中原科技学院	
+中国人民公安大学	People's Public Security University of China
+中国人民大学	Renmin University of China
+中国人民武装警察部队后勤学院	
+中国人民武装警察部队士官学校	Noncommissioned Officer Academy of PAP
+中国人民武装警察部队工程大学	
+中国人民武装警察部队指挥学院	PAP Command College
+中国人民武装警察部队海警学院	China Coast Guard Academy
+中国人民武装警察部队特种警察学院	
+中国人民武装警察部队警官学院	Officers College of PAP
+中国人民解放军国防大学	PLA National Defence University
+中国人民解放军国防科技大学	National University of Defense Technology
+中国人民解放军战略支援部队信息工程大学	Information Engineering University
+中国人民解放军战略支援部队航天工程大学	Space Engineering University
+中国人民解放军海军军医大学	Naval Medical University
+中国人民解放军海军勤务学院	Naval Logistics Academy
+中国人民解放军海军士官学校	Chinese People's Liberation Army Naval Non commissioned Officer School
+中国人民解放军海军大连舰艇学院	
+中国人民解放军海军工程大学	
+中国人民解放军海军指挥学院	
+中国人民解放军海军潜艇学院	PLA Naval Submarine Academy
+中国人民解放军海军航空大学	Naval Aviation University
+中国人民解放军火箭军士官学校	Chinese People's Liberation Army Rocket Sergeant School
+中国人民解放军火箭军工程大学	Rocket Force University of Engineering
+中国人民解放军火箭军指挥学院	Smf command college of PLA
+中国人民解放军空军军医大学	Air Force Medical University
+中国人民解放军空军勤务学院	
+中国人民解放军空军哈尔滨飞行学院	People's Liberation Army Air Force Harbin Flight Academy
+中国人民解放军空军工程大学	
+中国人民解放军空军指挥学院	Chinese people's Liberation Army Air Force Command College
+中国人民解放军空军石家庄飞行学院	Air Force Engineering University
+中国人民解放军空军航空大学	
+中国人民解放军空军西安飞行学院	
+中国人民解放军空军通信士官学校	Air Force Communication NCO Academy
+中国人民解放军空军预警学院	
+中国人民解放军陆军军事交通学院	
+中国人民解放军陆军军医大学	Army Medical University
+中国人民解放军陆军勤务学院	Army Logistics Academy
+中国人民解放军陆军工程大学	Army Engineering University of PLA
+中国人民解放军陆军指挥学院	
+中国人民解放军陆军步兵学院	
+中国人民解放军陆军炮兵防空兵学院	
+中国人民解放军陆军特种作战学院	Special Operation College of PLA
+中国人民解放军陆军航空兵学院	
+中国人民解放军陆军装甲兵学院	
+中国人民解放军陆军边海防学院	Army Academy of Border and Coastal Defense
+中国人民解放军陆军防化学院	Institute of NBC Defence, PLA Army
+中国人民警察大学	China People's Police University
+中国传媒大学	Communication University of China
+中国传媒大学南广学院	
+中国农业大学	China Agricultural University
+中国刑事警察学院	Criminal Investigation Police University of China
+中国劳动关系学院	China University of Labor Relations
+中国医科大学	China Medical University / China Medical University (Shenyang)
+中国医科大学临床医药学院	
+中国地质大学（北京）	China University of Geosciences Beijing / China University of Geosciences, Beijing
+中国地质大学（武汉）	China University of Geosciences
+中国工程物理研究院职工工学院	
+中国戏曲学院	National Academy of Chinese Theatre Arts
+中国政法大学	China University of Political Science and Law
+中国民用航空飞行学院	Civil Aviation Flight University of China
+中国民航大学	Civil Aviation University of China
+中国海洋大学	Ocean University of China
+中国消防救援学院	China Fire and Rescue Institute
+中国环境管理干部学院	
+中国石油大学胜利学院	
+中国石油大学（北京）	China University of Petroleum-Beijing / China University of Petroleum, Beijing
+中国石油大学（华东）	China University of Petroleum (East China) / China University of Petroleum
+中国矿业大学	China University of Mining and Technology
+中国矿业大学徐海学院	Xuhai College, China University of Mining and Technology
+中国矿业大学银川学院	
+中国矿业大学（北京）	China University of Mining and Technology-Beijing
+中国社会科学院大学	University of Chinese Academy of Social Sciences
+中国科学技术大学	University of Science and Technology of China
+中国科学院大学	University of Chinese Academy of Sciences
+中国科学院成都分院职工大学	
+中国科学院管理干部学院	
+中国美术学院	China Academy of Art
+中国药科大学	China Pharmaceutical University
+中国计量大学	China Jiliang University
+中国计量大学现代科技学院	China Jiliang University College of Modern Science and Technology
+中国计量学院	
+中国计量学院现代科技学院	
+中国记协职工新闻学院	
+中国青年政治学院	China Youth University of Political Studies
+中国音乐学院	China Conservatory of Music
+中央党校继续教育学院	
+中央司法警官学院	The National Police University for Criminal Justice
+中央广播电视大学	
+中央戏剧学院	The Central Academy of Drama
+中央民族大学	Minzu University of China
+中央美术学院	Central Academy of Fine Arts
+中央财经大学	Central University of Finance and Economics
+中央音乐学院	Central Conservatory of Music
+中山大学	Sun Yat-sen University
+中山大学南方学院	Nanfang College of Sun Yat-sen University
+中山大学新华学院	Xinhua College of Sun Yat-sen University
+中山火炬职业技术学院	Zhongshan Torch Polytechnic
+中山职业技术学院	Zhongshan Polytechnic
+中州大学	
+中钢集团衡阳重机职工大学	
+临夏现代职业学院	Linxia Modern Vocational College
+临汾职业技术学院	Linfen Vocational and Technical College
+临沂大学	Linyi University
+临沂师范学院	
+临沂科技职业学院	Linyi Vocational University of Science and Technology
+临沂职业学院	Linyi Vocational College
+临沧师范高等专科学校	
+临沧职业学院	Lincang Vocational College
+丹江口工程管理局职工大学	
+丽水学院	Lishui University
+丽水职业技术学院	Lishui Vocational and Technical College
+丽江师范学院	Lijiang Teachers College
+丽江师范高等专科学校	Lijiang Teachers College
+丽江文化旅游学院	Lijiang Culture and Tourism College
+丽江职业技术学院	Lijiang Vocational and Technical College
+义乌工商职业技术学院	Yiwu Industrial & Commercial College
+乌兰察布医学高等专科学校	Wulanchabu Medical College / Ulanqab Medical College
+乌兰察布职业学院	Ulanqab Vocational College
+乌海职业技术学院	Wuhai Vocational and Technical College
+乌鲁木齐成人教育学院	
+乌鲁木齐职业大学	Urumqi Vocational University
+乌鲁木齐职业技术学院	Urumqi Vocational College
+乐山师范学院	Leshan Normal University
+乐山职业技术学院	Leshan Vocational and Technical College
+九州职业技术学院	Jiuzhou Polytechnic
+九江学院	Jiujiang University
+九江理工职业学院	Jiujiang Insititute of Technology / Jiujiang Institute of Technology
+九江职业大学	Jiujiang Vocational University
+九江职业技术学院	Jiujiang Vocational and Technical College
+云南三鑫职业技术学院	Yunnan Sanxin Vocational and Technical College
+云南中医药大学	Yunnan University of Chinese Medicine
+云南交通职业技术学院	Yunnan Communications Vocational and Technical College
+云南交通运输职业学院	Yunnan Vocational College of Transportation
+云南体育运动职业技术学院	Yunnan Physical Science and Sports Professional College
+云南农业大学	Yunnan Agricultural University
+云南农业职业技术学院	Yunnan Vocational and Technical College of Agriculture
+云南北美职业学院	
+云南医学高等专科学校	
+云南医药健康职业学院	Yunnan Medical Health College
+云南司法警官职业学院	Yunnan Vocational College of Judicial Police
+云南商务职业学院	Yunnan Business Vocational College
+云南国土资源职业学院	Yunnan Land and Resources Vocational College / Yunnan Land and Resourcesvocational College
+云南国防工业职业技术学院	Yunnan National Defense Industry Vocational and Technical College / Yunnan Vocational and Technical College of Industry for National Defence
+云南城市建设职业学院	Yunnan Urban Construction Vocational College
+云南外事外语职业学院	Yunnan College of Foreign Affairs & Foreign Language
+云南大学	Yunnan University
+云南大学旅游文化学院	
+云南大学滇池学院	Dianchi College of Yunnan University
+云南工业信息职业学院	Yunnan Industrial and Information Vocational College
+云南工商学院	Yunnan Technology and Business University
+云南工程职业学院	Yunnan Engineering Vocational College
+云南工贸职业技术学院	Yunnan Industry & Trade Vocational College
+云南师范大学	Yunnan Normal University
+云南师范大学商学院	
+云南师范大学文理学院	
+云南广播电视大学	
+云南开放大学	
+云南文化艺术职业学院	Yunnan Vocational College of Culture and Art
+云南新兴职业学院	Yunnan Xinxing Occupations Institute
+云南旅游职业学院	Yunnan College of Tourism Vocation
+云南机电职业技术学院	Yunnan Vocational College of Mechanical and Electrical Technology
+云南林业职业技术学院	Yunnan Forestry Technological College
+云南民族大学	Yunnan Minzu University
+云南水利水电职业学院	Yunnan Waterresources and Hydropower Vocational College / Yunnan Water Resources and Hydropower Vocational College
+云南热带作物职业学院	
+云南爱因森软件职业学院	
+云南特殊教育职业学院	Yunnan Vocational College of Special Education
+云南现代职业技术学院	Yunnan Modern Vocational Technology College
+云南理工职业学院	Yunnan Polytechnic College
+云南科技信息职业学院	Yunnan Vocational College of Science and Technology Information / Yunnan Institute of Technology and Information
+云南经济管理学院	Yunnan University of Business Management
+云南经济管理职业学院	
+云南经贸外事职业学院	Yunnan Economics Trade and Foreign Affairs College
+云南能源职业技术学院	Yunnan Vocational Institute of Energy Technology
+云南艺术学院	Yunnan Arts University
+云南艺术学院文华学院	Wenhua College of Yunnan Arts University / Wenhua College of YAU
+云南警官学院	Yunnan Police College
+云南财经大学	Yunnan University of Finance and Economics
+云南财经职业学院	Yunnan College of Finance and Economics
+云南轻纺职业学院	Yunnan Light and Textile Industry Vocationalcollege / Yunnan Light and Textile Industry Vocational College
+云南锡业职业技术学院	Yunnan Tin Vocation&Technical College / Yunnan Tin Vocational & Technical College
+五邑大学	xG / Wuyi University
+井冈山大学	Jinggangshan University
+井冈山学院	
+亳州学院	Bozhou University
+亳州师范高等专科学校	
+亳州职业技术学院	Bozhou Vocational and Technical College
+仙桃职业学院	Xiantao Vocational College
+仰恩大学	Yang-En University
+仲恺农业工程学院	Zhongkai University of Agriculture and Engineering
+仲恺农业技术学院	
+伊春市职工大学	
+伊春职业学院	Yichun Vocational College
+伊犁师范大学	Yili Normal University
+伊犁职业技术学院	Yili Vocational and Technical College
+佛山大学	
+佛山科学技术学院	Foshan University
+佛山职业技术学院	Foshan Polytechnic
+佳木斯大学	Jiamusi University
+佳木斯市教育学院	
+佳木斯市联合职工大学	
+佳木斯职业学院	Jiamusi Vocational College
+保定学院	Baoding University
+保定幼儿师范高等专科学校	Baoding Preschool Teachers College
+保定理工学院	Baoding University of Technology
+保定电力职业技术学院	Baoding Technical College of Electric Power / Baoding Electric Power Voc. & Tech. College
+保定科技职业学院	
+保定职业技术学院	Baoding Vocational and Technical College
+保山中医药高等专科学校	Baoshan College of Traditional Chinese Medicine
+保山学院	Baoshan University
+保山师范高等专科学校	
+保山职业学院	Baoshan Vocational College
+保险职业学院	Insurance Professional College
+信阳农业高等专科学校	
+信阳农林学院	Xinyang Agriculture and Forestry University
+信阳学院	Xinyang University
+信阳工程职业学院	Xinyang Engineering Vocational College
+信阳师范大学	
+信阳师范学院	
+信阳师范学院华锐学院	
+信阳涉外职业技术学院	Xinyang International College of Vocation and Technology / Xinyang International Vocation Institute
+信阳科技职业学院	Xinyang Vocational College of Science and Technology
+信阳职业技术学院	Xinyang Vocational and Technical College
+信阳航空职业学院	Xinyang Aviation Vocational College
+信阳艺术职业学院	Xinyang Vocational College of Art
+健雄职业技术学院	
+克孜勒苏职业技术学院	Kizilsu Vocational Technical College
+克拉玛依职业技术学院	Karamay Vocational & Technical College
+兖州矿区职工大学	
+公安海警学院	
+公安海警高等专科学校	
+公安消防部队高等专科学校	Public Security Fire Forces College / Public Security Fire Force College
+公安边防部队高等专科学校	
+公安部管理干部学院	
+六安职业技术学院	Lu’An Vocational Technical College / Lu'an Vocational Technical College
+六盘水师范学院	Liupanshui Normal College / Liupanshui Normal University
+六盘水师范高等专科学校	
+六盘水幼儿师范高等专科学校	Liupanshui Preschool Educatlon College / Liupanshui Preschool Education College
+六盘水职业技术学院	Liupanshui Vocational and Technical College
+兰州交通大学	Lanzhou Jiaotong University
+兰州交通大学博文学院	
+兰州信息科技学院	
+兰州博文科技学院	
+兰州商学院	
+兰州城市学院	Lanzhou City University
+兰州外语职业学院	Lanzhou Foreign Languages Vocational College / Lanzhou College of Foreign Studies
+兰州大学	Lanzhou University
+兰州工业学院	Lanzhou Institute of Technology
+兰州工业高等专科学校	
+兰州工商学院	
+兰州教育学院	
+兰州文理学院	Lanzhou University of Arts and Science
+兰州服装职工大学	
+兰州现代职业学院	Lanzhou Modern Vocational College
+兰州理工大学	Lanzhou University of Technology
+兰州理工大学技术工程学院	College of Technology and Engineering.LUT
+兰州石化职业技术大学	Lanzhou Petrochemical University of Vocational Technology
+兰州石化职业技术学院	
+兰州科技职业学院	Lanzhou Vocational College of Science&Technology / Lanzhou Vocational College of Science & Technology
+兰州职业技术学院	Lanzhou Vocational Technical College
+兰州航空工业职工大学	
+兰州航空职业技术学院	Lanzhou Aviation Technology College
+兰州财经大学	Lanzhou University of Finance and Economics
+兰州财经大学长青学院	
+兰州财经大学陇桥学院	Longqiao College of Lanzhou University of Finance and Economics
+兰州资源环境职业技术大学	Lanzhou Resources & Environment Voc-Tech University
+兰州资源环境职业技术学院	
+兰州铁路工程职工大学	
+兰考三农职业学院	Lankao Vocational College of San Nong / Lankao Vocational and Technical College of Agriculture
+共青科技职业学院	Gongqing Institute of Science and Technology
+兴义民族师范学院	Xingyi Normal University for Nationalities
+兴安职业技术学院	Xingan Vocational and Technical College / Xing An Vocational and Technical College
+冀中职业学院	Jizhong Vocational College
+内江卫生与健康职业学院	Neijiang Health Vocational College
+内江师范学院	Neijiang Normal University
+内江职业技术学院	Neijiang Vocational&Technical College / Neijiang Vocational & Technical College
+内蒙古丰州职业学院	Inner Mongolia Fengzhou Vocational College
+内蒙古交通职业技术学院	Inner Mongolia Vocational and Technical College of Communications / Inner Mongolia Jiaotong Vocational and Technical College of Communication
+内蒙古体育职业学院	Inner Mongolia Vocational College of Physical Education
+内蒙古农业大学	Inner Mongolia Agricultural University
+内蒙古化工职业学院	Inner Mongolia Vocational College of Chemical Engineering
+内蒙古北方职业技术学院	Inner Mongolia Northern Occupation Technique College
+内蒙古医学院	
+内蒙古医科大学	Inner Mongolia Medical University
+内蒙古商贸职业学院	Inner Mongolia Business Vocational College / Inner Mongolia Business & Trade Vocational College
+内蒙古大学	Inner Mongolia University
+内蒙古大学创业学院	Pioneer College, Inner Mongolia University
+内蒙古工业大学	Inner Mongolia University of Technology
+内蒙古工业职业学院	Inner Mongolia Industrial College
+内蒙古师范大学	Inner Mongolia Normal University
+内蒙古师范大学鸿德学院	Honder College of Inner Mongolia Normal University
+内蒙古建筑职业技术学院	Inner Mongola Techical College of Construction / Inner Mongolia Technical College of Construction
+内蒙古开放大学	
+内蒙古机电职业技术学院	Inner Mongolia Technical College of Mechanics and Electrics
+内蒙古民族大学	Inner Mongolia University for Nationalities / Inner Mongolia Minzu University
+内蒙古民族幼儿师范高等专科学校	Inner Mongolia Preschool Normal College / Inner Mongolia Preschool Teachers College
+内蒙古民族高等专科学校	
+内蒙古电子信息职业技术学院	Inner Mongolia Electronic Information Vocational Technical College
+内蒙古科技大学	Inner Mongolia University of Science & Technology
+内蒙古科技大学包头医学院	Baotou Medical College
+内蒙古科技大学包头师范学院	Baotou Teachers' College
+内蒙古科技职业学院	Inner Mongolia Technical and Vocational College
+内蒙古经贸外语职业学院	Inner Mongolia Vocational Institute of Economy, Trade & Foreign Languages
+内蒙古美术职业学院	The Art Vocational University Inner Mongolia / Inner Mongolia Art Vocational College
+内蒙古能源职业学院	Inner Mongolia Energy Vocational College
+内蒙古自治区广播电视大学	
+内蒙古艺术学院	Inner Mongolia Arts University
+内蒙古警察职业学院	Inner Mongolia Police Professional College
+内蒙古财税职业学院	
+内蒙古财经大学	Inner Mongolia University of Finance and Economics
+内蒙古财经学院	
+内蒙古轩元职业学院	
+内蒙古鸿德文理学院	Southwest University of Science and Technology / Inner Mongolia Honder College of Arts and Sciences
+农业部乡镇企业管理干部学院	
+凯里学院	Kaili University
+包头市职工大学	
+包头职业技术学院	Baotou Vocational & Technical College
+包头轻工职业技术学院	Baotou Light Industry Vocational Technical College
+包头钢铁职业技术学院	Baotou Iron and Steel Vocational Technical College
+包头铁道职业技术学院	Baotou Railway Vocational & Technical College
+北京中医药大学	Beijing University of Chinese Medicine
+北京中医药大学东方学院	Beijing University of Chinese Medicine Dongfang College
+北京交通大学	Beijing Jiaotong University
+北京交通大学海滨学院	Beijing Jiaotong University Haibin College
+北京交通职业技术学院	Beijing Jiaotong Vocational Technical College
+北京交通运输职业学院	Beijing Vocational Transportation College
+北京京北职业技术学院	Beijing Jingbei Vocational College / Northern Beijing Vocational Education Institute
+北京体育大学	Beijing Sport University
+北京体育职业学院	Beijing College of Sports
+北京信息工程学院	
+北京信息科技大学	Beijing Information Science & Technology University
+北京信息职业技术学院	Beijing information Technology College / Beijing Information Technology College
+北京农业职业学院	Beijing Vocational College of Agriculture
+北京农学院	Beijing University of Agriculture
+北京劳动保障职业学院	Beijing Vocational College of Labour and Social Security
+北京化工大学	Beijing University of Chemical Technology
+北京北大方正软件职业技术学院	Peking University Founder Technology College
+北京医药职工大学	
+北京医药集团职工大学	
+北京协和医学院	Peking Union Medical College
+北京卫生职业学院	Beijing Health Vocational College
+北京印刷学院	Beijing Institute of Graphic Communication
+北京吉利大学	
+北京吉利学院	Beijing Geely University
+北京城市学院	Beijing City University
+北京培黎职业学院	Beijing Bailie University
+北京外国语大学	Beijing Foreign Studies University
+北京大学	Peking University
+北京宣武红旗业余大学	
+北京工业大学	Beijing University of Technology
+北京工业大学耿丹学院	Gengdan Institute of Beijing University of Technology
+北京工业职业技术学院	Beijing Polytechnic College
+北京工商大学	Beijing Technology and Business University
+北京工商大学嘉华学院	Canvard College, Beijing Technology and Business University
+北京市东城区职工业余大学	
+北京市丰台区职工大学	
+北京市农工商联合总公司职工大学	
+北京市崇文区职工大学	
+北京市建设职工大学	
+北京市总工会职工大学	
+北京市房地产职工大学	
+北京市朝阳区职工大学	
+北京市机械工业局职工大学	
+北京市汽车工业总公司职工大学	
+北京市海淀区职工大学	
+北京市石景山区业余大学	
+北京市职工体育运动技术学院	
+北京市西城经济科学大学	
+北京师范大学	Beijing Normal University
+北京师范大学-香港浸会大学联合国际学院	Beijing Normal University-Hong Kong Baptist University United International College
+北京师范大学珠海分校	Beijing Normal University, Zhuhai
+北京广播电视大学	
+北京建筑大学	Beijing University of Civil Engineering and Architecture
+北京建筑工程学院	
+北京开放大学	
+北京戏曲艺术职业学院	Beijing Opera and Arts College / Beijing Opera Art's College
+北京政法职业学院	Beijing College of Politics and Law
+北京教育学院	
+北京新圆明职业学院	
+北京服装学院	Beijing Institute of Fashion Technology
+北京机械工业学院	
+北京林业大学	Beijing Forestry University
+北京汇佳职业学院	Beijing Huijia Vocational College
+北京物资学院	Beijing Wuzi University
+北京现代职业技术学院	
+北京理工大学	Beijing Institute of Technology
+北京理工大学珠海学院	Beijing Institute of Technology, Zhuhai
+北京电子科技学院	Beijing Electronic Science and Technology Institute
+北京电子科技职业学院	Beijing Polytechnic
+北京电影学院	Beijing Film Academy
+北京电影学院现代创意媒体学院	Beijing Film Academy Modern Creative Media College
+北京石油化工学院	Beijing Institute of Petrochemical Technology
+北京社会管理职业学院	Beijing College of Social Administration
+北京科技大学	University of Science and Technology Beijing
+北京科技大学天津学院	Tianjin college, University of Science and Technology Beijing
+北京科技经营管理学院	Beijing Science Technology and Management College
+北京科技职业学院	University for Science & Technology, Beijing / University For Science & Technology,Beijing
+北京第二外国语学院	Beijing International Studies University
+北京第二外国语学院中瑞酒店管理学院	Beijing Hospitality Institute
+北京经济技术职业学院	Beijing Institute of Business and Technology
+北京经济管理职业学院	Beijing Institute of Economics and Management
+北京经贸职业学院	Beijing Professional Business Institute
+北京网络职业学院	Beijing College of Internet Engineering
+北京联合大学	Beijing Union University
+北京舞蹈学院	Beijing Dance Academy
+北京航空航天大学	Beihang University
+北京航空航天大学北海学院	Beihai College of Beihang University
+北京艺术传媒职业学院	Beijing Arts and Media Vocational College / Beijing Art and Media Vocational College
+北京警察学院	Beijing Police College
+北京语言大学	Beijing Language and Culture University
+北京财贸职业学院	Beijing College of Finance and Commerce
+北京邮电大学	Beijing University of Posts and Telecommunications
+北京邮电大学世纪学院	Century College, Beijing University of Posts and Telecommunications
+北京金融科技学院	
+北京锡华国际经贸职业学院	
+北京青年政治学院	Beijing Youth Politics College
+北华大学	Beihua University
+北华航天工业学院	North China Institute of Aerospace Engineering
+北岳职业技术学院	
+北方工业大学	North China University of Technology
+北方民族大学	North Minzu University
+北海宏源足球职业学院	
+北海康养职业学院	Beihai Vocational of Wellness
+北海职业学院	Beihai Vocational College
+北海艺术设计学院	Beihai College of art and design / Beihai University of Art and Design
+北海艺术设计职业学院	
+北部湾大学	Beibu Gulf University
+十堰教育学院	
+十堰职业技术学院	
+华东交通大学	East China Jiaotong University
+华东交通大学理工学院	
+华东师范大学	East China Normal University
+华东政法大学	East China University of Political Science and Law
+华东理工大学	East China University of Science and Technology
+华中农业大学	Huazhong Agricultural University
+华中师范大学	Central China Normal University
+华中师范大学武汉传媒学院	
+华中电业联合职工大学	
+华中科技大学	Huazhong University of Science and Technology
+华侨大学	Huaqiao University
+华北水利水电大学	North China University of Water Resources and Electric Power
+华北水利水电学院	
+华北煤炭医学院	
+华北理工大学	North China University of Science and Technology
+华北理工大学冀唐学院	Jitang College of North China University of Science and Technology / Jitang College North China University of Science and Technology
+华北理工大学轻工学院	Qinggong College, North China University of Science and Technology / Qinggong college, North China University of Science and Technology
+华北电业联合职工大学	
+华北电力大学	North China Electric Power University
+华北电力大学科技学院	
+华北电力大学（保定）	
+华北科技学院	North China Institute of Science and Technology
+华南农业大学	South China Agricultural University
+华南农业大学珠江学院	Zhujiang College, South China Agriculture University / Zhujiang College, South China Agricultural University
+华南师范大学	South China Normal University
+华南热带农业大学	
+华南理工大学	South China University of Technology
+华南理工大学广州学院	Guangzhou College of South China University of Technology
+南京中医药大学	Nanjing University of Chinese Medicine
+南京中医药大学翰林学院	Nanjing University of Chinese Medicine Hanlin College
+南京交通职业技术学院	Nanjing Vocational Institute of Transport Technology / Nanjing Communications Institute of Technology
+南京人口管理干部学院	
+南京传媒学院	Communication University of China, Nanjing
+南京体育学院	Nanjing Sport Institute
+南京信息工程大学	Nanjing University of Information Science & Technology
+南京信息工程大学滨江学院	
+南京信息职业技术学院	Nanjing Vocational College of Information Technology
+南京农业大学	Nanjing Agricultural University
+南京化工职业技术学院	
+南京医科大学	Nanjing Medical University
+南京医科大学康达学院	Kangda College of Nanjing Medical University
+南京城市职业学院	Nanjing City Vocational College
+南京大学	Nanjing University
+南京大学金陵学院	Nanjing University Jinling College
+南京审计大学	Nanjing Audit University
+南京审计大学金审学院	Nanjing Audit University Jinshen College
+南京审计学院	
+南京审计学院金审学院	
+南京工业大学	Nanjing Tech University
+南京工业大学浦江学院	Nanjing Tech University Pujiang Institute
+南京工业职业技术大学	Nanjing Vocational University of Industry Technology
+南京工程学院	Nanjing Institute of Technology
+南京市广播电视大学	
+南京市职工大学	
+南京师范大学	Nanjing Normal University
+南京师范大学中北学院	Nanjing Normal University Zhongbei College
+南京师范大学泰州学院	Nanjing Normal University Taizhou College
+南京开放大学	
+南京旅游职业学院	Nanjing Institute of Tourism & Hospitality
+南京晓庄学院	Nanjing XiaoZhuang University / Nanjing Xiaozhuang University
+南京机电职业技术学院	Nanjing Vocational Institute of Mechatronic Technology
+南京林业大学	Nanjing Forestry University
+南京森林公安高等专科学校	
+南京森林警察学院	Nanjing Forestpolice College
+南京特殊教育师范学院	Nanjing Normal University of Special Education
+南京特殊教育职业技术学院	
+南京理工大学	Nanjing University of Science and Technology
+南京理工大学泰州科技学院	Taizhou Institute of Sci.&Tech., NJUST.
+南京理工大学紫金学院	Nanjing University of Science and Technology ZiJin College / Nanjing University of Science and Technology Zijin College
+南京科技职业学院	Nanjing Polytechnic Institute
+南京联合职工大学	
+南京航空航天大学	Nanjing University of Aeronautics and Astronautics
+南京航空航天大学金城学院	Nanhang Jincheng College
+南京艺术学院	Nanjing Arts University / Nanjing University of the Arts
+南京视觉艺术职业学院	Nanjing Institute of Visual Arts
+南京警察学院	Nanjing Police University
+南京财经大学	Nanjing University of Finance & Economics
+南京财经大学红山学院	Nanjing University of Finance and Economics Hongshan College
+南京邮电大学	Nanjing University of Posts and Telecommunications
+南京邮电大学通达学院	Tongda College of Nanjing University of Posts and Telecommunications
+南京金陵旅馆管理干部学院	
+南京铁道职业技术学院	Nanjing Vocational Institute of Railway Technology / Nanjing Institute of Railway Technology
+南充市职工大学	
+南充文化旅游职业学院	Nanchong Vocational College of Culture and Tourism
+南充电影工业职业学院	Nanchong Film Industry Vocational Academy
+南充科技职业学院	Nanchong Vocational College of Science and Technology
+南充职业技术学院	Nanchong Vocational and Technical College
+南华大学	University of South China
+南华大学船山学院	Chuanshan College, University of South China
+南宁地区教育学院	
+南宁学院	Nanning University
+南宁师范大学	Nanning Normal University
+南宁师范大学师园学院	Shiyuan College of Nanning Normal University
+南宁师范高等专科学校	
+南宁理工学院	
+南宁职业技术大学	Nanning College For Vocational Technology
+南宁职业技术学院	Nanning College for Vocational Technology
+南开大学	Nankai University
+南开大学滨海学院	Nankai University Binhai College
+南方动力机械公司职工工学院	
+南方医科大学	Southern Medical University
+南方电力职工大学	
+南方科技大学	Southern University of Science and Technology
+南昌交通学院	
+南昌健康职业技术学院	Nanchang Academy of Health Sciences
+南昌医学院	
+南昌大学	Nanchang University
+南昌大学共青学院	Gongqing College of Nanchang University
+南昌大学科学技术学院	Nanchang University College of Science and Technology
+南昌工学院	Nanchang Institute of Science and Technology
+南昌工程学院	xD / Nanchang Institute of Technology
+南昌市业余大学	
+南昌市职工科技大学	
+南昌师范学院	Nanchang Normal University
+南昌师范高等专科学校	
+南昌应用技术师范学院	Nanchang Normal College of Applied Technology
+南昌影视传播职业学院	Nanchang Vocational Institute of Film and Television Communication / Nanchang Vocational Instttute of Film and Televsion Covmunication
+南昌教育学院	
+南昌理工学院	xD / Nanchang Institute of Technology
+南昌职业大学	Nanchang Vocational University
+南昌航空大学	Nanchang Hangkong University
+南昌航空大学科技学院	Science and Technology College of NCHU
+南昌钢铁有限责任公司职工大学	
+南海东软信息技术职业学院	
+南海成人学院	
+南通农业职业技术学院	
+南通大学	Nantong University
+南通大学杏林学院	Nantong University Xinglin College
+南通市工人业余大学	
+南通师范高等专科学校	Nantong Normal College
+南通理工学院	Nantong Institute of Technology
+南通科技职业学院	Nantong College of Science and Technology
+南通纺织职业技术学院	
+南通职业大学	Nantong Vocational University
+南阳农业职业学院	Nanyang Vocational College of Agriculture
+南阳医学高等专科学校	Nanyang Medical College
+南阳工艺美术职业学院	Nanyang Arts and Crafts Vocational College
+南阳师范学院	Nanyang Normal University
+南阳理工学院	Nanyang Institute of Technology
+南阳科技职业学院	Nanyang Vocational College of Science and Technology
+南阳职业学院	Nanyang Vocational College
+博尔塔拉职业技术学院	Bortala Polytechnic / Boertala Polytechnic
+厦门东海职业技术学院	Xiamen Donghai Institute
+厦门兴才职业技术学院	Xiamen Xingcai Vocational&Technical College / Xiamen Xingcai Vocational & Technical College
+厦门医学院	Xiamen Medical College
+厦门医学高等专科学校	
+厦门华厦学院	Xiamen Huaxia University
+厦门华厦职业学院	
+厦门华夏职业学院	
+厦门华天涉外职业技术学院	Xiamen Huatian International Vocation Institute / Xiamen Huatian Foreign Institute
+厦门南洋职业学院	Xiamen Nanyang University
+厦门城市职业学院	Xiamen City University
+厦门大学	Xiamen University
+厦门大学嘉庚学院	Xiamen University Tan Kah Kee College
+厦门安防科技职业学院	Xiamen Security Science and Technology College
+厦门工学院	Xiamen Institute of Technology
+厦门市广播电视大学	
+厦门开放大学	
+厦门海洋职业技术学院	Xiamen Ocean Vocational College
+厦门演艺职业学院	The Xiamen Academy For Performing Arts / The Xiamen Academy for Performing Arts
+厦门理工学院	Xiamen University of Technology
+厦门软件职业技术学院	Xiamen Institute of Software Technology
+双河职业技术学院	Shuanghe Vocational and Technical College
+可克达拉职业技术学院	Cocodala Vocational and Technical College
+台州学院	wk / Taizhou University
+台州科技职业学院	Taizhou Vocational College of Science & Technology
+台州职业技术学院	Taizhou Vocational and Technical College
+右江民族医学院	Youjiang Medical University for Nationalities
+合作民族师范高等专科学校	
+合肥信息技术职业学院	Hefei Information Technology University
+合肥共达职业技术学院	Hefei Gongda Vocational and Technical College
+合肥城市学院	
+合肥大学	Hefei University
+合肥学院	Hefei University
+合肥工业大学	Hefei University of Technology
+合肥市职工大学	
+合肥师范学院	Hefei Normal University
+合肥幼儿师范高等专科学校	Hefei Preschool Education College
+合肥理工学院	
+合肥科技职业学院	Hefei Science and Technology College
+合肥经济学院	
+合肥职业技术学院	Hefei Technology College
+合肥职工科技大学	
+合肥通用职业技术学院	Hefei Institute of General Professional Technology
+吉利学院	Beijing Geely University
+吉安幼儿师范高等专科学校	Ji'an Preschool Education College
+吉安职业技术学院	Ji'an College / Ji'An College
+吉林交通职业技术学院	Jilin Communications Polytechnic
+吉林体育学院	Jilin Sport University / Jilin Institute of Physical Education
+吉林公安高等专科学校	
+吉林农业大学	Jilin Agricultural University
+吉林农业工程职业技术学院	
+吉林农业科技学院	Jilin Agricultural Science and Technology University
+吉林动画学院	Jilin Animation Institute
+吉林化学工业公司职工大学	
+吉林化工学院	Jilin Institute of Chemical Technology
+吉林医药学院	Jilin Medical College / Jilin Medical University
+吉林司法警官职业学院	Jilin Justice Officer Academy / The Judicial Jilin Police College
+吉林城市职业技术学院	Jilin Institute of Urban Vocational Technology
+吉林外国语大学	Jilin International Studies University
+吉林大学	Jilin University
+吉林大学珠海学院	Zhuhai College of Jilin University
+吉林对外经贸职业学院	
+吉林工业职业技术学院	Jilin Vocational College of Industry and Technology
+吉林工商学院	Jilin Business and Technology College
+吉林工程技术师范学院	Jilin Engineering Normal University
+吉林工程职业学院	Jilin Engineering Vocational College
+吉林市职工大学	
+吉林师范大学	Jilin Normal University
+吉林师范大学博达学院	Boda College of Jilin Normal University
+吉林广播电视大学	
+吉林建筑大学	Jilin Jianzhu University
+吉林建筑工程学院	
+吉林建筑科技学院	Jilin University of Architecture and Technology
+吉林开放大学	
+吉林水利电力职业学院	Jilin Polytechnic of Water Resources and Electric Engineering
+吉林电子信息职业技术学院	Jilin College of Electronic Information / Jilin Technology College of Electronic Information
+吉林省教育学院	
+吉林省经济管理干部学院	
+吉林省行政管理干部学院	
+吉林科技职业技术学院	Jilin Science and Technology Vocational College
+吉林职业技术学院	Jilin Vocational and Technical College
+吉林职工医科大学	
+吉林艺术学院	Jilin University of Arts
+吉林警察学院	Jilin Police College
+吉林财经大学	Jilin University of Finance and Economics
+吉林通用航空职业技术学院	Jilin General Aviation Vocational and Technical College
+吉林铁道职业技术学院	Jilin Railway Technology College
+吉首大学	Jishou University
+吉首大学张家界学院	Jishou University Zhangjiajie College
+同济大学	Tongji University
+同济大学浙江学院	Tongji Zhejiang College / TongJi ZheJiang College
+吐鲁番职业技术学院	Turpan Vocational and Technical College / Tulufan Vocational Technical College
+吕梁学院	Luliang University
+吕梁师范高等专科学校	Lvliang Teachers College
+吕梁职业技术学院	Lvliang Polytechnic Institute / Lvliang Vocational and Technical College
+吕梁高等专科学校	
+周口城市职业学院	Zhoukou City Vocational College
+周口师范学院	Zhoukou Normal University
+周口文理职业学院	Zhoukou Vocational College of Arts and Science
+周口理工职业学院	Zhoukou Polytechnic Vocational College
+周口职业技术学院	Zhoukou Vocational and Technical College
+呼伦贝尔学院	Hulunbuir University
+呼伦贝尔职业技术学院	Hulunbeier Vocational Technical College / Hulunbuir Vocational Technical College
+呼和浩特民族学院	Hohhot Minzu College
+呼和浩特职业学院	Hohhot Vocational College
+和君职业学院	Hejun College
+和田地区教育学院	
+和田师范专科学校	Hetian Normal College
+和田职业技术学院	Hetian Polytechnic
+咸宁学院	
+咸宁职业技术学院	Xianning Vocational Technical College
+咸阳师范学院	Xianyang Normal University
+咸阳职业技术学院	Xianyang Vocational Technical College
+哈密职业技术学院	Hami Polytechnic
+哈尔滨传媒职业学院	Media Professional College of Harbin
+哈尔滨体育学院	Harbin Sport University
+哈尔滨信息工程学院	Harbin Institute of Information Technology
+哈尔滨剑桥学院	Harbin Cambridge University
+哈尔滨北方航空职业技术学院	Harbin Northern Vocational Institute of Aviation
+哈尔滨医科大学	Harbin Medical University
+哈尔滨华夏计算机职业技术学院	
+哈尔滨华德学院	Harbin Huade University
+哈尔滨商业大学	Harbin University of Commerce
+哈尔滨城市职业学院	Harbin City Vocational College
+哈尔滨学院	Harbin University
+哈尔滨工业大学	Harbin Institute of Technology
+哈尔滨工业大学（威海）	
+哈尔滨工程大学	Harbin Engineering University
+哈尔滨工程技术职业学院	
+哈尔滨市广播电视大学	
+哈尔滨市职工医学院	
+哈尔滨市职工大学	
+哈尔滨师范大学	Harbin Normal University
+哈尔滨幼儿师范高等专科学校	Harbin Preschool Teachers College
+哈尔滨广厦学院	Harbin Guangsha College / Harbin Guangxia University
+哈尔滨应用职业技术学院	Harbin Institute of Vocational and Technical Applications / Harbin Applied Vocational and Technical College
+哈尔滨开放大学	
+哈尔滨德强商务学院	
+哈尔滨江南职业技术学院	
+哈尔滨现代公共关系职业学院	
+哈尔滨理工大学	Harbin University of Science and Technology
+哈尔滨电力职业技术学院	Harbin Electric Power Vocational Technology College / Harbin Power Vocational Technology College
+哈尔滨石油学院	Harbin Institute of Petroleum
+哈尔滨科学技术职业学院	Harbin Vocational College of Science and Technology
+哈尔滨职业技术大学	Harbin Vocational & Technical College
+哈尔滨职业技术学院	Harbin Vocational & Technical College
+哈尔滨航空职工大学	
+哈尔滨轻型车厂职工大学	
+哈尔滨远东理工学院	Harbin Far East Institute of Technology
+哈尔滨金融学院	Harbin Finance University
+哈尔滨金融高等专科学校	
+哈尔滨铁道职业技术学院	Harbin Railway Technical College
+哈尔滨音乐学院	Harbin Conservatory of Music
+唐山学院	Tangshan College
+唐山工业职业技术大学	Tangshan Polytechnic College
+唐山工业职业技术学院	Tangshan Polytechnic College
+唐山师范学院	Tangshan Normal University
+唐山幼儿师范高等专科学校	Tangshan Preschool Teachers College
+唐山海运职业学院	Tangshan Maritime College / Tangshan Maritime Institute
+唐山科技职业技术学院	Tangshan Vocational College of Science and Technology
+唐山职业技术学院	Tangshan Vocational & Technical College
+商丘医学高等专科学校	Shangqiu Medical College
+商丘学院	Shangqiu University
+商丘工学院	Shangqiu Institute of Technology / Shangqiu University of Technology
+商丘师范学院	Shangqiu Normal University
+商丘幼儿师范高等专科学校	Shangqiu Preschool Education College
+商丘科技职业学院	
+商丘职业技术学院	Shangqiu Polytechnic
+商洛学院	Shangluo University
+商洛职业技术学院	Shangluo Vocational and Technical College
+喀什大学	Kashi University
+喀什师范学院	
+喀什教育学院	
+喀什理工职业技术学院	Kashi Polytechnic Vocational and Technical College
+喀什职业技术学院	Kashgar Vocational and Technical College / Kashi Vocational Technical College
+嘉兴南洋职业技术学院	Jiaxing Nanyang Polytechnic Institute
+嘉兴南湖学院	
+嘉兴大学	Jiaxing University
+嘉兴学院	Jiaxing University
+嘉兴学院南湖学院	
+嘉兴职业技术学院	Jiaxing Vocational & Technical College
+嘉应学院	Jiaying University
+四川三河职业学院	Sichuan Sanhe College of Professionals
+四川中医药高等专科学校	Sichuan College of Traditional Chinese Medicine
+四川交通职业技术学院	Sichuan Vocational and Technical College of Communications
+四川传媒学院	Sichuan University of Media and Communications
+四川体育职业学院	Sichuan Sports College
+四川信息职业技术学院	Sichuan Information Technology College
+四川农业大学	Sichuan Agricultural University
+四川农业管理干部学院	
+四川化工职业技术学院	Sichuan Vocational College of Chemical Technology
+四川医科大学	
+四川华新现代职业学院	Sichuan Huaxin Modern Vocational College
+四川卫生康复职业学院	Sichuan Vocational College of Health and Rehabilitation
+四川司法警官职业学院	Sichuan Judicial and Police Officers Professional College
+四川商务职业学院	Sichuan Business Vocational College
+四川国际标榜职业学院	Polus International College
+四川城市职业学院	Urban Vocational College of Sichuan
+四川外国语大学	Sichuan International Studies University
+四川外国语大学成都学院	Chengdu Institute Sichuan International Studies University
+四川外国语大学重庆南方翻译学院	Chongqing Nanfang Translators College of SISU
+四川外语学院	
+四川大学	Sichuan University
+四川大学锦城学院	
+四川大学锦江学院	Sichuan University Jinjiang College
+四川工业科技学院	Sichuan Institute of Industrial Technology
+四川工业管理职业学院	
+四川工商学院	Sichuan Technology and Business University
+四川工商职业技术学院	Sichuan Technology & Business College
+四川工程职业技术大学	Sichuan Engineering Technical College
+四川工程职业技术学院	Sichuan Engineering Technical College
+四川师范大学	Sichuan Normal University
+四川希望汽车职业学院	Sichuan Hope Automobile Vocational College / Sichuan Hope Automotive Vocational College
+四川幼儿师范高等专科学校	Sichuan Preschool Educators College
+四川广播电视大学	
+四川应用技术职业学院	Sichuan College of Applied Sciences
+四川建筑职业技术学院	Sichuan College of Architectural Technology
+四川开放大学	
+四川托普信息技术职业学院	Sichuan Top IT Vocational Institute / Sichuan Top It Vocational Institute
+四川护理职业学院	Sichuan Nursing Vocational College
+四川教育学院	
+四川文化产业职业学院	Sichuan Vocational College of Cultural Industries
+四川文化传媒职业学院	Sichuan Vocational College of Culture & Communication
+四川文化艺术学院	Sichuan College of Culture and Arts
+四川文理学院	Sichuan University of Arts and Science
+四川文轩职业学院	Sichuan Winshare Vocational College
+四川旅游学院	Sichuan Tourism University
+四川机电职业技术学院	Sichuan Electromechanical Institute of Vocation and Technology
+四川核工业职工大学	
+四川民族学院	Sichuan University for Nationalities / Sichuan Minzu College
+四川水利职业技术学院	Sichuan Water Conservancy Vocational College
+四川汽车职业技术学院	Sichuan Automotive Vocational and Technical College
+四川烹饪高等专科学校	
+四川现代职业学院	Sichuan Modern Vocational College
+四川电力职业技术学院	Sichuan Electric Vocational and Technical College
+四川电子机械职业技术学院	Sichuan Elictronic Machinery Vocationai and Technical College / Sichuan Electronic and Mechanic Vocational College
+四川电影电视学院	Sichuan Film and Television College / Sichuan Film and Television University
+四川电影电视职业学院	
+四川省东方动力职工大学	
+四川省农业管理干部学院	
+四川省化工职工大学	
+四川省广播电视大学	
+四川省职工运动技术学院	
+四川省计划生育管理干部学院	
+四川科技职业学院	Sichuan University of Science and Technology
+四川科技职工大学	
+四川经济管理干部学院	
+四川美术学院	Sichuan Fine Arts Institute
+四川职业技术学院	Sichuan Vocational and Technical College
+四川航天职业技术学院	Sichuan Aerospace Vocational College
+四川艺术职业学院	Sichuan Vocational College of Art
+四川西南航空职业学院	Sichuan Southwest Vocational College of Civil Aviation
+四川警安职业学院	
+四川警察学院	Sichuan Police College
+四川财经职业学院	Sichuan Vocational College of Finance and Economics / Sichuan Vocational College of Finance and Economics
+四川轻化工大学	Sichuan University of Science and Engineering
+四川邮电职业技术学院	Sichuan Post and Telecommunication College
+四川铁道职业学院	Sichuan Railway College
+四川长江职业学院	Sichuan Changjiang Vocational College
+四川音乐学院	Sichuan Conservatory of Music
+四平农村成人高等专科学校	
+四平职业大学	Siping Professional College / Siping Vocational College
+国家开放大学	
+国家开放大学（中央广播电视大学）	
+国家检察官学院	
+国家法官学院	
+国营涪江机器厂职工大学	
+国防大学	
+国防科技大学	
+国际关系学院	University of International Relations
+图木舒克职业技术学院	Tumushuke Vocational and Technical College
+培黎职业学院	Bailie Vocational College / Peili Vocational College
+塔城职业技术学院	Tacheng Vocational Technical College / Tacheng Vocational and Technical College
+塔里木大学	Tarim University
+塔里木职业技术学院	Talimu Vocational Technical College / Talimu Vocational and Technical College
+复旦大学	Fudan University
+外交学院	China Foreign Affairs University
+大兴安岭职业学院	Vocational College Daxing'An Mountains / Daxing'anling Vocational College
+大冶钢厂职工大学	
+大同师范高等专科学校	Datong Normal College
+大同煤炭职业技术学院	Datong Vocational and Technical College of Coal
+大庆医学高等专科学校	Daqing Medical College
+大庆师范学院	Daqing Normal University
+大庆石油化工总厂职工大学	
+大庆石油学院	
+大庆职业学院	Daqing Vocational College
+大理农林职业技术学院	Dali Vocational and Technical College of Agriculture and Forestry
+大理大学	Dali University
+大理学院	
+大理护理职业学院	Dali Nursing Vocational College
+大连东软信息学院	Dalian Neusoft University of Information
+大连东软信息技术职业学院	
+大连交通大学	Dalian Jiaotong University
+大连医科大学	Dalian Medical University
+大连医科大学中山学院	Zhongshan College of Dalian Medical University
+大连商务职业学院	Dalian Business Vocational College
+大连外国语大学	Dalian University of Foreign Languages
+大连外国语学院	
+大连大学	Dalian University
+大连工业大学	Dalian Polytechnic University
+大连工业大学艺术与信息工程学院	College of Arts and Information Engineering, Dalian Polytechnic University
+大连工人大学	
+大连市广播电视大学	
+大连市教育学院	
+大连开放大学	
+大连枫叶职业技术学院	Dalian Maple Leaf College of Technology
+大连民族大学	Dalian Minzu University
+大连民族学院	
+大连水产学院	
+大连汽车职业技术学院	Dalian Autovocational Technical Institute / Dalian Auto Vocational Technical Institute
+大连海事大学	Dalian Maritime University
+大连海洋大学	Dalian Ocean University
+大连理工大学	Dalian University of Technology
+大连理工大学城市学院	City Institute, Dalian University of Technology
+大连科技学院	Dalian University of Science and Technology
+大连翻译职业学院	Dalian Translation and Interpretation College
+大连职业技术学院	Dalian Vocational Technical College / Dalian Vocational & Technical College
+大连职工大学	
+大连航运职业技术学院	Dalian Shipping College
+大连艺术学院	Dalian Art College
+大连艺术职业学院	
+大连装备制造职业技术学院	Dalian Equipment Technical College / Dalian Equipment Manufacturing College
+大连财经学院	Dalian University of Finance and Economics
+大连软件职业学院	Dalian Software Vocational University
+天府新区信息职业学院	Tianfu Information Vocational College
+天府新区航空旅游职业学院	Tianfu New Area Aviation & Tourism College
+天府新区通用航空职业学院	Tianfu New Area General Aviation Profession Academy
+天水师范学院	Tianshui Normal University
+天津中医药大学	Tianjin University of Traditional Chinese Medicine
+天津中德应用技术大学	Tianjin Sino-German University of Applied Sciences
+天津中德职业技术学院	
+天津交通职业学院	Tianjin Transportation Vocational College / Tianjin Transportation Technical College
+天津仁爱学院	
+天津传媒学院	
+天津体育学院	Tianjin University of Sport
+天津体育学院运动与文化艺术学院	Art & Culture of Tianjin University of Sport
+天津体育职业学院	Tianjin Vocational College of Sports
+天津公安警官职业学院	Tianjin Public Security Profession College
+天津农学院	Tianjin Agricultural University
+天津医学高等专科学校	Tianjin Medical College
+天津医科大学	Tianjin Medical University
+天津医科大学临床医学院	Clinical Medical College of Tianjin Medical University
+天津商业大学	Tianjin University of Commerce
+天津商业大学宝德学院	Tianjin University of Commerce Boustead of College / Tianjin University of Commerce Boustead College
+天津商务职业学院	Tianjin College of Commerce
+天津国土资源和房屋职业学院	Tianjin Land Resources and House Vocational College
+天津城市建设学院	
+天津城市建设管理职业技术学院	Tianjin Urban Construction Management & Vocation / Tianjin Urban Construction Management & Vocation Technology College
+天津城市职业学院	Tianjin City Vocational College
+天津城建大学	Tianjin Chengjian University
+天津外国语大学	Tianjin Foreign Studies University
+天津外国语大学滨海外事学院	BinHai School of Foreign Affairs of Tianjin Foreign Studies University / Binhai School of Foreign Affairs of Tianjin Foreign Studies University
+天津外国语学院	
+天津大学	Tianjin University
+天津大学仁爱学院	
+天津天狮学院	Tianshi College
+天津对外经济贸易职业学院	
+天津工业大学	Tiangong University
+天津工业职业学院	Tianjin Polytechnic College
+天津工业职业技术学院	
+天津工程师范学院	
+天津工程职业技术学院	Tianjin Engineering Technical Institute
+天津工艺美术职业学院	Tianjin Arts and Crafts Vocational College
+天津市南开区职工大学	
+天津市和平区新华职工大学	
+天津市工会管理干部学院	
+天津市广播电视大学	
+天津市建筑工程职工大学	
+天津市房地产局职工大学	
+天津市政法管理干部学院	
+天津市河东区职工大学	
+天津市河西区职工大学	
+天津市渤海化工职工学院	
+天津市管理干部学院	
+天津市红桥区职工大学	
+天津市职业大学	Tianjin Vocational Institute
+天津市职工经济技术大学	
+天津市财贸管理干部学院	
+天津师范大学	Tianjin Normal University
+天津师范大学津沽学院	Tianjin Normal University Jingu College
+天津广播影视职业学院	Tianjin Broadcasting Tv and Film Institute / Tianjin Broadcasting TV and Film Institute
+天津开发区职业技术学院	Teda Polytechnic / TEDA Polytechnic
+天津开放大学	
+天津机电职业技术学院	Tianjin Vocational College of Mechanics and Electricity
+天津汽车工业总公司职工大学	
+天津海运职业学院	Tianjin Maritime College
+天津渤海职业技术学院	Tianjin Bohai Vocational Technical College / Tianjin Bohai Vocational Technology College
+天津滨海汽车工程职业学院	Tianjin Binhai Vocational Institute of Automotive Engineering
+天津滨海职业学院	Tianjin Coastal Polytechnic
+天津物资管理干部学院	
+天津现代职业技术学院	Tianjin Modern Vocational Technology College
+天津理工大学	Tianjin University of Technology
+天津理工大学中环信息学院	Zhonghuan information College Tianjin University of Technology / Zhonghuan Information College Tianjin University of Technology
+天津生物工程职业技术学院	Tianjin Vocational College of Bioengineering
+天津电子信息职业技术学院	Tianjin Electronic Information College
+天津石油职业技术学院	Tianjin Petroleum Vocational and Technical College
+天津科技大学	Tianjin University of Science and Technology
+天津美术学院	Tianjin Academy of Fine Arts
+天津职业大学	
+天津职业技术师范大学	Tianjin University of Technology and Education / TianJin University of Technology and Education
+天津艺术职业学院	Tianjin Art Vocational College
+天津财经大学	Tianjin University of Finance and Economics
+天津财经大学珠江学院	Tianjin University of Finance and Economics Pearl River College
+天津轻工职业技术学院	Tianjin Light Industry Vocational Technical College
+天津铁道职业技术学院	Tianjin Railway Technical and Vocational College
+天津青年职业学院	
+天津音乐学院	Tianjin Conservatory of Music
+天门职业学院	Tianmen Vocational College
+太原化学工业集团有限公司职工大学	
+太原城市职业技术学院	Taiyuan City Vocational College
+太原大学	
+太原学院	Taiyuan University
+太原工业学院	Taiyuan Institute of Technology
+太原师范学院	Taiyuan Normal University
+太原幼儿师范高等专科学校	Taiyuan Preschool Teachers College
+太原旅游职业学院	Taiyuan Tourism College
+太原理工大学	Taiyuan University of Technology
+太原理工大学现代科技学院	Polytechnic Institute Taiyuan University of Technology
+太原电力高等专科学校	
+太原科技大学	Taiyuan University of Science and Technology
+太原科技大学华科学院	
+太原钢铁(集团)有限公司职工钢铁学院	
+太湖创意职业技术学院	Taihu Vocational and Technical College of Originality
+威海海洋职业学院	Weihai Ocean Vocational College
+威海职业学院	Weihai Vocational College
+娄底幼儿师范高等专科学校	Loudi Preschool Education College
+娄底职业技术学院	Loudi Vocational and Technical College
+孝感学院	
+宁夏交通职业技术学院	Ningxia Communications Technical College
+宁夏体育职业学院	Ningxia Vocational College of Physical Education
+宁夏医学院	
+宁夏医科大学	Ningxia Medical University
+宁夏卫生健康职业技术学院	Ningxia Health Vocational and Technical College
+宁夏司法警官职业学院	
+宁夏回族自治区广播电视大学	
+宁夏大学	Ningxia University
+宁夏大学新华学院	Xinhua College of Ningxia University
+宁夏工业职业学院	Ningxia Industrial and Vocational College / Ningxia Institute of Industry Technology
+宁夏工商职业技术学院	Ningxia Vocational Technical College of Industry and Commerce
+宁夏师范大学	Ningxia Normal University
+宁夏师范学院	Ningxia Normal University
+宁夏幼儿师范高等专科学校	Ningxia Preschool Education College
+宁夏建设职业技术学院	Ningxia College of Construction
+宁夏开放大学	
+宁夏民族职业技术学院	Ningxia Vocational and Technical College For Minorities / Ningxia Vocational and Technical College for Minorities
+宁夏理工学院	Ningxia Institute of Science and Technology
+宁夏职业技术学院	Ningxia Polytechnic
+宁夏艺术职业学院	Ningxia Art Vocational College
+宁夏葡萄酒与防沙治沙职业技术学院	Ningxia Technical College of Wine and Desertification Prevention
+宁夏警官职业学院	Ningxia Police Vocational College
+宁夏财经职业技术学院	Ningxia College of Finance and Economics / Ningxia Vocational College of Finance and Economics
+宁夏防沙治沙职业技术学院	
+宁德师范学院	Ningde Normal University
+宁德师范高等专科学校	
+宁德职业技术学院	Ningde Vocational and Technical College
+宁波卫生职业技术学院	Ningbo College of Health Sciences
+宁波城市职业技术学院	Ningbo City College of Vocational Technology
+宁波大学	Ningbo University
+宁波大学科学技术学院	College of Science and Technology Ningbo University
+宁波大红鹰职业技术学院	
+宁波天一职业技术学院	
+宁波工程学院	Ningbo University of Technology
+宁波市广播电视大学	
+宁波幼儿师范高等专科学校	Ningbo Childhood Education College
+宁波开放大学	
+宁波教育学院	
+宁波职业技术学院	Ningbo Polytechnic
+宁波诺丁汉大学	University of Nottingham Ningbo China
+宁波财经学院	Ningbo University of Finance & Economics
+安庆医药高等专科学校	Anqing Medical College
+安庆师范大学	Anqing Normal University
+安庆师范学院	
+安庆职业技术学院	Anqing Vocational and Technical College
+安康学院	Ankang University
+安康职业技术学院	Ankang Vocational and Technical College / Ankang Vocational Technical College
+安徽三联学院	Anhui Sanlian University / Anhui Sanlian College
+安徽中医学院	
+安徽中医药大学	Anhui University of Chinese Medicine
+安徽中医药高等专科学校	Anhui College of Traditional Chinese Medicine
+安徽中澳科技职业学院	Anhui Zhongao Institute of Technology
+安徽交通职业技术学院	Anhui Communications Vocational & Technical College
+安徽人口职业学院	
+安徽体育运动职业技术学院	Anhui Professional & Technical Institute of Athletics
+安徽信息工程学院	Anhui Institute of Information Technology
+安徽公安学院	Anhui Police College
+安徽公安职业学院	Anhui Public Security College
+安徽农业大学	Anhui Agricultural University
+安徽农业大学经济技术学院	Economic and Technical College of Anhui Agriculture University
+安徽农业管理干部学院	
+安徽冶金科技职业学院	Anhui Vocational College of Metallurgy and Technology
+安徽医学高等专科学校	Anhui Medical College
+安徽医科大学	Anhui Medical University
+安徽医科大学临床医学院	Clinical Medical College of Anhui Medical University / Clinic Medical College of Anhui Medical University
+安徽卫生健康职业学院	Anhui Health College
+安徽商贸职业技术学院	Anhui Business College of Vocational Technology / Anhui Business College
+安徽国防科技职业学院	Anhui Vocational College of Defense Technology
+安徽国际商务职业学院	Anhui Institute of International Business
+安徽城市管理职业学院	Anhui Vocational College of City Management
+安徽外国语学院	Anhui International Studies University
+安徽大学	Anhui University
+安徽大学江淮学院	Jianghuai College of Anhui University
+安徽审计职业学院	Anhui Audit College
+安徽工业大学	Anhui University of Technology
+安徽工业经济职业技术学院	Anhui Technical College of Industry and Economy
+安徽工业职业技术学院	Anhui Industry Polytechnic
+安徽工商职业学院	Anhui Business Vocational College / Anhui Business and Technology College
+安徽工程大学	Anhui Polytechnic University
+安徽工程大学机电学院	
+安徽工程科技学院	
+安徽工贸职业技术学院	Anhui Vocational and Technical College of Industry and Trade
+安徽师范大学	Anhui Normal University
+安徽师范大学皖江学院	Wanjiang College of Anhui Normal University
+安徽广播影视职业技术学院	Anhui Broadcasting Movie and Television College
+安徽广播电视大学	
+安徽建筑大学	Anhui Jianzhu University
+安徽建筑大学城市建设学院	Urban Construction College of AHJZU
+安徽建筑工业学院	
+安徽开放大学	
+安徽扬子职业技术学院	Anhui Yangtse Vocational and Technical College
+安徽文达信息工程学院	Anhui Wenda University of Information Engineering
+安徽新华学院	Anhui Xinhua University
+安徽新闻出版职业技术学院	Anhui Vocational College of Press and Publishing
+安徽机电职业技术学院	Anhui Technical College of Mechanical and Electrical Engineering
+安徽林业职业技术学院	Anhui Vocational & Technical College of Forestry
+安徽水利水电职业技术学院	Anhui Water Conservancy Technical College
+安徽汽车职业技术学院	Anhui Automobile Vocational and Technical College
+安徽涉外经济职业学院	Anhui International Economy College
+安徽现代信息工程职业学院	Anhui Modern Information Engineering College / Anhui Modern Info-Engineering Vocational College
+安徽理工大学	Anhui University of Science and Technology
+安徽电子信息职业技术学院	Anhui Vocational College of Electronics & Information Technology
+安徽电气工程职业技术学院	Anhui Electrical Engineering Professional Technique College
+安徽省广播电视大学	
+安徽矿业职业技术学院	Anhui College of Mining and Technology
+安徽科技学院	Anhui Science and Technology University
+安徽粮食工程职业学院	Anhui Vocational College of Grain Engineering
+安徽经济管理干部学院	
+安徽绿海商务职业学院	Anhui Lvhai Vocational College of Business
+安徽职业技术学院	Anhui Vocational and Technical College
+安徽艺术学院	Anhui University of Arts
+安徽艺术职业学院	Anhui Professional College of Art
+安徽警官职业学院	Anhui Vocational College of Police Officers
+安徽财经大学	Anhui University of Finance and Economics
+安徽财经大学商学院	Business Institute Anhui University of Finance & Economics
+安徽财贸职业学院	Anhui Finance & Trade Vocational College
+安徽邮电职业技术学院	Anhui Post and Telecommunication College
+安徽长江职业学院	
+安徽黄梅戏艺术职业学院	Anhui Huangmei Opera Art Vocational College
+安阳学院	AnYang University / Anyang University
+安阳工学院	Anyang Institute of Technology
+安阳师范学院	Anyang Normal University
+安阳师范学院人文管理学院	
+安阳幼儿师范高等专科学校	Anyang Preschool Education College
+安阳职业技术学院	Anyang Vocational and Technical College
+安顺学院	Anshun University
+安顺职业技术学院	Anshun Vocational and Technical College / Anshun Technical College
+定西师范高等专科学校	Dingxi Teachers College
+定西职业技术学院	Dingxi Vocational and Technical College
+宜宾学院	Yibin University
+宜宾职业技术学院	Yibin Vocational and Technical College
+宜昌市教育学院	
+宜昌科技职业学院	Yichang Vocational College of Science and Technology
+宜春学院	Yichun University
+宜春幼儿师范高等专科学校	Yichun Early Childhood Teachers College
+宜春职业技术学院	Yichun Vocational Technical College
+宝鸡三和职业学院	Baoji Sanhe Vocational College
+宝鸡中北职业学院	Baoji Zhongbei Vocational College
+宝鸡市职工大学	
+宝鸡文理学院	Baoji University of Arts and Sciences
+宝鸡职业技术学院	Baoji Vocational & Technical College
+宣化科技职业学院	Xuanhua Vocational College of Science & Technology / Xuanhua Vocational College of Science & Technology
+宣城职业技术学院	Xuancheng Vocational and Technical College
+宿县地区教育学院	
+宿州学院	Suzhou University
+宿州教育学院	
+宿州职业技术学院	Suzhou Vocational Technical College / Suzhou Vocational and Technical College
+宿州航空职业学院	Suzhou Vocational College of Civil Avuation
+宿迁学院	Suqian College
+宿迁幼儿师范高等专科学校	Suqian Preschool Teachers College
+宿迁泽达职业技术学院	Suqian Zeda Vocational&Technical College / Suqian Zeda Vocational & Technical College
+宿迁职业技术学院	Suqian Vocational & Technical College / Suqian Vocational &Tecchnical College
+对外经济贸易大学	University of International Business and Economics
+山东万杰医学院	
+山东丝绸纺织职业学院	
+山东中医药大学	Shandong University of Traditional Chinese Medicine
+山东中医药高等专科学校	Shandong College of Traditional Chinese Medicine
+山东交通学院	Shandong Jiaotong University
+山东交通职业学院	Shandong Transport Vocational College
+山东传媒职业学院	Shandong Communication & Media College
+山东体育学院	Shandong Sport University
+山东信息职业技术学院	Shandong College of Information Technology / Shandong Vocational College of Information Technology
+山东兵器工业职工大学	
+山东军星职业技术学院	
+山东农业大学	Shandong Agricultural University
+山东农业工程学院	Shandong Agriculture and Engineering University
+山东力明科技职业学院	Shandong Liming Polytechnic Vocational College
+山东劳动职业技术学院	Shandong Labor Vocational and Techncal College / Shandong Labour Vocational and Technical College
+山东化工职业学院	Shandong Chemical Engineering & Vocational College
+山东医学高等专科学校	Shandong Medical College
+山东华宇工学院	Shandong Huayu University of Technology
+山东华宇职业技术学院	
+山东协和学院	Shandong Xiehe University
+山东协和职业技术学院	
+山东司法警官职业学院	Shandong Judicial Police Vocational College
+山东商业职业技术学院	Shandong Institute of Commerce and Technology
+山东商务职业学院	Shandong Business Institute
+山东圣翰财贸职业学院	Shandong Shenghan Finance and Trade Vocational College
+山东城市建设职业学院	Shandong Urban Construction Vocational College
+山东城市服务职业学院	Shandong City Service Institute
+山东外事职业大学	Shandong Vocational University of Foreign Affairs
+山东外国语职业技术大学	Shandong Vocational and Technical University of International Studies
+山东外贸职业学院	Shandong Foreign Trade Vocational College
+山东大学	Shandong University
+山东大王职业学院	
+山东女子学院	Shandong Women's University
+山东工业职业学院	Shandong Vocational College of Industry / Shandon Vocational College of Industry
+山东工商学院	Shandong Technology and Business University
+山东工程职业技术大学	Shandong University of Engineering and Vocational Technology / ShanDong University of Engineering and Vocational Technology
+山东工艺美术学院	Shandong University of Art and Design
+山东师范大学	Shandong Normal University
+山东建筑大学	Shandong Jianzhu University
+山东开放大学	
+山东政法学院	Shandong University of Political Science and Law
+山东文化产业职业学院	Shandong Cultural Industry Vocational College
+山东文化艺术职业学院	Shandong Vocational College of Culture and Art
+山东旅游职业学院	Shandong College of Tourism and Hospitality
+山东服装职业学院	Shandong Vocational Institute of Clothing Technology / Shandong Vocational Institute of Fashion Technology
+山东杏林科技职业学院	Shandong Xinglin College
+山东水利专科学校	
+山东水利职业学院	Shandong Water Conservancy Vocational College
+山东海事职业学院	Shandong Maritime Vocation College / Shandong Maritime Vocational College
+山东特殊教育职业学院	Shandong Vocational College of Special Education
+山东现代学院	Shandong Xiandai University
+山东现代职业学院	
+山东理工大学	Shandong University of Technology
+山东理工职业学院	Shandong Polytechnic College
+山东电力职工大学	
+山东电力高等专科学校	Shandong Electric Power College
+山东电子职业技术学院	Shandong College of Electronic Technology
+山东畜牧兽医职业学院	Shandong Vocational Animal Science and Veterinary College
+山东省农业管理干部学院	
+山东省工会管理干部学院	
+山东省广播电视大学	
+山东省教育学院	
+山东省水利职工大学	
+山东省济宁教育学院	
+山东省滨州教育学院	
+山东省经济管理干部学院	
+山东省聊城教育学院	
+山东省职工体育运动技术学院	
+山东省菏泽教育学院	
+山东省贸易职工大学	
+山东省青年管理干部学院	
+山东石油化工学院	
+山东科技大学	Shandong University of Science and Technology
+山东科技大学泰山科技学院	Taishan Institute of Technology, Shandong University of Science and Technology
+山东科技职业学院	Shandong Vocational College of Science and Technology
+山东第一医科大学	Shandong First Medical University
+山东第二医科大学	Shandong Second Medical University
+山东管理学院	Shandong Management University
+山东经济学院	
+山东经贸职业学院	Shandong Vocational College of Economics and Business / Shandong College of Economics and Business
+山东职业学院	Shandong Polytechnic
+山东胜利职业学院	Shandong Shengli Vocational College
+山东航空学院	Shandong University of Aeronautics
+山东艺术学院	Shandong University of Arts
+山东艺术设计职业学院	Shandong Vocational College of Art and Design
+山东英才学院	Shandong Yingcai University
+山东英才职业技术学院	
+山东药品食品职业学院	Shandong Drug and Food Vocational College
+山东警察学院	Shandong Police College
+山东财政学院	
+山东财政职工大学	
+山东财经大学	Shandong University of Finance and Economics
+山东财经大学东方学院	Dongfang College, Shandong University of Finance and Economics / Dongfang College, ShanDong University of Finance and Economics
+山东财经大学燕山学院	Yanshan College Shandong University of Finance and Economics / Yanshan college Shandong University of Finance and Economics
+山东轻工业学院	
+山东轻工职业学院	Shandong Vocational College of Light Industry
+山东铝业职业学院	Shandong Aluminium Vocational College / Shandong Aluminum Vocational College
+山东青年政治学院	Shandong Youth University of Political Science
+山西中医学院	
+山西中医药大学	Shanxi University of Chinese Medicine / Shanxi University of Traditional Chinese Medicine
+山西交通职业技术学院	
+山西传媒学院	Commumication University of Shanxi / Communication University of Shanxi
+山西体育职业学院	Shanxi Sports Vocational School / Shanxi Sports Vocational School
+山西信息职业技术学院	Shanxi Vocational College of Information Technology
+山西兴华职业学院	
+山西兵器工业职工大学	
+山西农业大学	Shanxi Agricultural University
+山西农业大学信息学院	College of Information, Shanxi Agricultural University
+山西医科大学	Shanxi Medical University
+山西医科大学晋祠学院	Shanxi Medical University Jinci College
+山西华澳商贸职业学院	China Australia Business College of Shanxi
+山西卫生健康职业学院	Shanxi Health Vocational College
+山西同文外语职业学院	
+山西同文职业技术学院	Shanxi Tongwen Vocational and Technical College
+山西国际商务职业学院	Shanxi International Business Vocational College
+山西大同大学	Shanxi Datong University
+山西大学	Shanxi University
+山西大学商务学院	Business College of Shanxi University
+山西工商学院	Shanxi Technology and Business College
+山西工商职业学院	
+山西工学院	
+山西工程技术学院	Shanxi Institute of Technology
+山西工程科技职业大学	Shanxi Vocational University of Engineering Science and Technology
+山西工程职业学院	Shanxi Engineering Vocational College
+山西工程职业技术学院	
+山西师范大学	Shanxi Normal University
+山西师范大学现代文理学院	Modern College of Humanities and Sciences of Shanxi Normal University
+山西应用科技学院	Shanxi College of Applied Science and Technology
+山西建筑职业技术学院	
+山西开放大学	
+山西戏剧职业学院	
+山西政法管理干部学院	
+山西旅游职业学院	Shanxi Vocational College of Tourism
+山西晋中理工学院	Shanxi Jinzhong Institute of Technology
+山西机电职业技术学院	Shanxi Institute of Mechanical and Electrical Engineering
+山西机电职工学院	
+山西林业职业技术学院	Shanxi Forestry Vocational Technical College
+山西水利职业技术学院	Shanxi Conservancy Technical Institute
+山西煤炭管理干部学院	
+山西煤炭职业技术学院	
+山西煤炭职工联合大学	
+山西生物应用职业技术学院	
+山西电力职业技术学院	Electric Power Occupational Technical Institute of SEPC / Electric Power Occupational Institude of Sepc
+山西电子科技学院	Modern College of Humanities and Sciences of Shanxi Normal University
+山西省吕梁市教育学院	
+山西省广播电视大学	
+山西省政法管理干部学院	
+山西省职工工艺美术学院	
+山西省财政税务专科学校	Shanxi Finance & Taxation College
+山西科技学院	Huake College of Taiyuan University of Science and Technology
+山西管理职业学院	Shanxi Management Vocational College
+山西经济管理干部学院	
+山西经贸职业学院	Shanxi Institute of Economics and Business
+山西综合职业技术学院	
+山西老区职业技术学院	Shanxi Laoqu Zhiye Jishu Xueyuan / Shanxi Old Revolutionary Base Vocational and Technical College
+山西职业技术学院	Shanxi Polytechnic College
+山西职工医学院	
+山西能源学院	Shanxi Institute of Energy
+山西艺术职业学院	Shanxi Art Vocational College / Shanxi Vocational Institute of Art
+山西药科职业学院	Shanxi Pharmaceutical Vocational College
+山西警官职业学院	Shanxi Vocational College for Police Officers / Shanxi Jing Guan Zhi Ye Xue Yuan
+山西警官高等专科学校	
+山西警察学院	Shanxi Police College
+山西财经大学	Shanxi University of Finance and Economics
+山西财经大学华商学院	Shanxi University of Finance and Economics Huashang College
+山西财贸职业技术学院	Shanxi Vocational & Technical College of Finance & Trade
+山西运城农业职业技术学院	Shanxi Yuncheng Vocational and Technical College of Agricultural / Shanxi Yuncheng Vocational and Technology College of Agricultural
+山西通用航空职业技术学院	Shanxi General Aviation Technical College / Shanxi General Aviation Polytechnic
+山西金融职业学院	Shanxi Professional College of Finance
+山西铁道职业技术学院	Shanxi Railway Vocational and Technical College
+山西青年管理干部学院	
+山西青年职业学院	Shanxi Youth Vocational College / Shaanxi Youth Vocational college
+岭南师范学院	Lingnan Normal University
+岳阳现代服务职业学院	Yueyang Modern Service Vocational College
+岳阳职业技术学院	Yueyang Vocational Technical College
+崇左幼儿师范高等专科学校	Chongzuo Preschool Education College
+嵩山少林武术职业学院	Songshan Shaolin Wushu College
+川北医学院	North Sichuan Medical College
+川北幼儿师范高等专科学校	North Sichuan College of Preschool Teacher Education
+川南幼儿师范高等专科学校	South Sichuan Preschool Education College
+巢湖学院	Chaohu University
+巢湖职业技术学院	
+巴中职业技术学院	Bazhong Vocational and Technical College
+巴音郭楞职业技术学院	Bayin Guoleng Technology College / Bayinguoleng Vocational and Technical College
+常州信息职业技术学院	Changzhou College of Information Technology
+常州大学	Changzhou University
+常州大学怀德学院	Changzhou University Huaide College
+常州工业职业技术学院	Changzhou Institute of Industry Technology
+常州工学院	Changzhou Institute of Technology
+常州工程职业技术学院	Changzhou Vocational Institute of Engineering
+常州市职工大学	
+常州幼儿师范高等专科学校	Changzhou Early Childhood Education College
+常州机电职业技术学院	Changzhou Vocational Institute of Mechatronic Technology
+常州纺织服装职业技术学院	Changzhou Vocational Institute of Textile and Garment / Changzhou Vocational Institute of Textile and Garment
+常德科技职业技术学院	Changde College of Science and Technology
+常德职业技术学院	Changde Vocational Technical College
+常熟理工学院	Changshu Institute of Technology
+平凉医学高等专科学校	
+平凉职业技术学院	Pingliang Vocational &Technical College / Pingliang Vocational & Technical College
+平顶山学院	Pingdingshan University
+平顶山工业职业技术学院	Pingdingshan Polytenchnic College / Pingdingshan Polytechnic College
+平顶山工学院	
+平顶山教育学院	
+平顶山文化艺术职业学院	Pingdingshan Vocational College of Culture and Art
+平顶山职业技术学院	Pingdingshan Vocational and Technical College
+广东东软学院	Neusoft Institute Guangdong / Neusoft Institute,Guangdong
+广东云浮中医药职业学院	Guangdong Yunfu Vocational College of Traditional Chinese Medicine
+广东亚视演艺职业学院	Guangdong Atv College of Performing Arts / Guangdong ATV Academy for Performing Arts
+广东交通职业技术学院	Guangdong Communication Polytechnic
+广东以色列理工学院	Guangdong Technion Israel Institute of Technology / Guangdong Technion - Israel Institute of Technology
+广东体育职业技术学院	Guangdong Vocational Institute of Sport / Guangdong Vocational Institute of Sports
+广东信息工程职业学院	Guangdong Information Engineering Institute
+广东农工商职业技术学院	Guangdong Aib Polytechnic / Guangdong AIB Polytechnic
+广东创新科技职业学院	Guangdong Innovative Technical College
+广东医学院	
+广东医科大学	Guangdong Medical University
+广东南华工商职业学院	Guangdong Nanhua Vocational College of Industry and Commerce
+广东南方职业学院	Guangdong Nanfang Institute of Technology
+广东司法警官职业学院	Guangdong Justice Police Vocational College
+广东商学院	
+广东培正学院	Guang Dong Peizheng College / Guangdong Peizheng College
+广东外语外贸大学	Guangdong University of Foreign Studies
+广东外语外贸大学南国商学院	South China Business College Guangdong University of Foreign Studies
+广东女子职业技术学院	Guangdong Women'S Polytechnic College / Guangdong Women's Polytechnic College
+广东岭南职业技术学院	Lingnan Institute of Technology / Guangdong Lingnan Institute of Technology
+广东工业大学	Guangdong University of Technology
+广东工业大学华立学院	
+广东工商职业技术大学	Guangdong Business and Technology University
+广东工程职业技术学院	Guangdong Engineering Polytechnic
+广东工贸职业技术学院	Guangdong Polytechnic of Industry and Commerce
+广东建华职业学院	
+广东建设职业技术学院	Guangdong Construction Polytechnic
+广东开放大学	
+广东技术师范大学	Guangdong Polytechnic Normal University
+广东技术师范大学天河学院	Tianhe College of Guangdong Polytechnical Normal University
+广东教育学院	
+广东文理职业学院	Guangdong Institute of Arts and Sciences
+广东文艺职业学院	Guangdong Literature & Art Vocational College / Guangdong Literary & Art Vocational College
+广东新华教育学院	
+广东新安职业技术学院	Guangdong Xin'An Vocational Technical College / Guangdong Xin'an Polytechnic
+广东机电职业技术学院	Guangdong Mechanical & Electrical Polytechnic / Guangdong Mechanical & Electronical Polytechnic
+广东松山职业技术学院	Guangdong Songshan Polytechnic / Guangdong Songshan Polytechnic College
+广东梅州职业技术学院	Guangdong Meizhou Vocational and Technical College
+广东水利电力职业技术学院	Guangdong Polytechnic of Water Resources and Electric Engineering
+广东汕头幼儿师范高等专科学校	Shantou Preschool Education College In Guangdong
+广东江门中医药职业学院	Guangdong Jiangmen Chinese Medical College / Guangdong Jiangmen Chinese Medicine College
+广东江门幼儿师范高等专科学校	Jiangmen Preschool Education College / Jiangmen Normal College For Preschool Education In Guangdong
+广东江门艺华旅游职业学院	
+广东海洋大学	Guangdong Ocean University
+广东海洋大学寸金学院	Guangdong Ocean University Cunjin College
+广东潮州卫生健康职业学院	Guangdongsheng Chaozhou Weisheng Xuexiao
+广东环境保护工程职业学院	Guangdong Polytechnic of Environmental Protection Engineering
+广东理工学院	Guangdong Polytechnic College
+广东理工职业学院	Guangdong Polytechnic Institute
+广东生态工程职业学院	Guangdong Eco-engineering Polytechnic / Guangdong Eco-Engineering Polytechnic
+广东白云学院	Guangdong Baiyun University
+广东省公安司法管理干部学院	
+广东省国防工业职工大学	
+广东省外语艺术职业学院	Guangdong Teachers College of Foreign Language and Arts
+广东省广播电视大学	
+广东省职工体育运动技术学院	
+广东石油化工学院	Guangdong University of Petrochemical Technology
+广东碧桂园职业学院	Guangdong County Garden Polytechnic / Guangdong Country Garden Polytechnic
+广东社会科学大学	
+广东科学技术职业学院	Guangdong Polytechnic of Science and Technology
+广东科技学院	Guangdong University of Science and Technology
+广东科贸职业学院	Guangdong Polytechnic of Science and Trade
+广东第二师范学院	Guangdong University of Education
+广东纺织职业技术学院	
+广东职业技术学院	Guangdong Polytechnic
+广东肇庆航空职业学院	Guangdong Zhaoqing Aviation Vocational College
+广东舞蹈戏剧职业学院	Guangdong Dance and Drama College
+广东艺术职业学院	Guangdong Dance and Drama College
+广东茂名健康职业学院	Guangdong Maoming Health Vocational College
+广东茂名农林科技职业学院	Guangdong Maoming Agriculture & Forestry Techical College / Guangdong Maoming Agriculture & Forestry Technical College
+广东茂名幼儿师范专科学校	Guangdong Preschool Normal College in Maoming / Guangdong Preschool Normal College In Maoming
+广东药学院	
+广东药科大学	Guangdong Pharmaceutical University
+广东行政职业学院	Guangdong Vocational Institute of Public Administration
+广东警官学院	Guangdong Police College
+广东财经大学	Guangdong University of Finance and Economics
+广东财经大学华商学院	Huashang College Guangdong University of Finance and Economics
+广东财经职业学院	
+广东财贸职业学院	Guangdong Finance & Trade Vocational College / Guangdong Finance ＆ Trade Vocational College
+广东轻工职业技术大学	Guangdong Industry Polytechnic
+广东轻工职业技术学院	Guangdong Industry Polytechnic
+广东邮电职业技术学院	Guangdong Vocational College of Post and Telecom
+广东酒店管理职业技术学院	Guangdong Vocational College of Hotel Management
+广东金融学院	Guangdong University of Finance
+广东青年管理干部学院	
+广东青年职业学院	Guangdong Youth Vocational College
+广东食品药品职业学院	Guangdong Food and Drug Vocational College
+广元中核职业技术学院	Guangyuan China Nuclear Vocational and Technical College
+广元职工医学院	
+广安职业技术学院	Guang'An Vocational Technical College / Guang'an Vocational & Technical College
+广州东华职业学院	Guangzhou Donghua Vocation College / Guangzhou Donghua Vocational College
+广州中医药大学	Guangzhou University of Chinese Medicine
+广州体育学院	Guangzhou Sport University
+广州体育职业技术学院	Guangzhou Sports Polytechnic / Guangzhou Polytechnic of Sports
+广州医学院	
+广州医科大学	Guangzhou Medical University
+广州华南商贸职业学院	Guangzhou Huanan Business College / Guangzhou South China Business Trade College
+广州华商学院	City College of Dongguan University of Technology
+广州华商职业学院	Guangzhou Huashang Vocational College / Guangzhou Huaxia Vocational College
+广州华夏职业学院	Guangzhou Huashang Vocational College / Guangzhou Huaxia Vocational College
+广州华立学院	
+广州华立科技职业学院	Guangzhou Huali Science and Technology Vocational College
+广州南方学院	Nanfang College, Guangzhou
+广州南洋理工职业学院	Guangzhou Nanyang Polytechnic College
+广州卫生职业技术学院	Guangzhou Health Science College
+广州商学院	Guangzhou College of Commerce
+广州城市理工学院	
+广州城市职业学院	Guangzhou City Polytechnic
+广州城建职业学院	Guangzhou City Construction College
+广州大学	Guangzhou University
+广州大学华软软件学院	South China Institute of Software Engineering.GU
+广州大学松田学院	Guangzhou University Sontan College
+广州工商学院	Guangzhou College of Technology and Business
+广州工商职业技术学院	
+广州工程技术职业学院	Guangzhou Institute of Technology
+广州市公安管理干部学院	
+广州市广播电视大学	
+广州幼儿师范高等专科学校	Guangzhou Preschool Teachers College
+广州应用科技学院	
+广州康大职业技术学院	Guangzhou Kangda Vocational Technical College
+广州开放大学	
+广州新华学院	
+广州松田职业学院	Guangzhou Sontan Polytechnic College
+广州民航职业技术学院	Guangzhou Civil Aviation College
+广州涉外经济职业技术学院	Guangzhou International Economics College
+广州现代信息工程职业技术学院	Guangzhou Modern Information Engineering College
+广州珠江职业技术学院	Guangzhou Pearl-River Vocational College of Technology
+广州理工学院	Guangzhou Institute of Science and Technology
+广州番禺职业技术学院	Guangzhou Panyu Polytechnic
+广州科技职业技术大学	Guangzhou Vocational and Technical University of Science and Technology / Guangzhou Vocational Technical University of Science and Technology
+广州科技贸易职业学院	Guangzhou Vocational College of Technology & Business
+广州美术学院	Guangzhou Academy of Fine Arts
+广州航海学院	Guangzhou Maritime University
+广州航海高等专科学校	
+广州软件学院	
+广州金桥管理干部学院	
+广州铁路职业技术学院	Guangzhou Railway Polytechnic
+广播电影电视管理干部学院	
+广西东方外语职业学院	
+广西中医学院	
+广西中医药大学	Guangxi University of Chinese Medicine
+广西中医药大学赛恩斯新医药学院	Faculty of Chinese Medicine Science Guangxi University of Chinese Medicine / Faculty of Chinese Medicine Science Guangxi university of Chinese medicine
+广西中远职业学院	Guangxi COSCO Vocational College / Guangxi Zhongyuan Vocational College
+广西交通职业技术学院	Guangxi Vocational and Technical College of Communications / Guangxi Transport Vocational and Technical College
+广西体育高等专科学校	Guangxi College of Physical Education / Guangxi Sports College
+广西信息职业技术学院	Guangxi University of Information Engineering
+广西农业工程职业技术学院	Guangxi Agricultural Engineering Vocational Technical College
+广西农业职业技术大学	Guangxi Vocational University of Agriculture
+广西农业职业技术学院	
+广西制造工程职业技术学院	Guangxi Vocational and Technical College of Manufacture Engineering
+广西医科大学	Guangxi Medical University
+广西卫生职业技术学院	Guangxi Medical College
+广西国际商务职业技术学院	Guangxi International Business Vocational College
+广西城市职业大学	Guangxi City Vocational University
+广西培贤国际职业学院	Guangxi Peixian International College
+广西壮族自治区卫生管理干部学院	
+广西壮族自治区广播电视大学	
+广西壮族自治区经济管理干部学院	
+广西外国语学院	Guangxi University of Foreign Languages
+广西大学	Guangxi University
+广西大学行健文理学院	Guangxi University XingJian College of Science and Liberal Arts
+广西安全工程职业技术学院	Guangxi Vocational College of Safety Engineering
+广西工业职业技术学院	Guangxi Vocational & Technical Institute of Industry / Guangxi Vocational&Technical Institute of Industry
+广西工商职业技术学院	Guangxi Vocational College of Technology and Business
+广西工学院	
+广西工程职业学院	Guangxi Engineering Vocational College
+广西师范大学	Guangxi Normal University
+广西师范大学漓江学院	
+广西幼儿师范高等专科学校	Guangxi College for Preschool Education / Guangxi College For Preschool Education
+广西建设职业技术学院	Guangxi Polytechnic of Construction
+广西开放大学	
+广西政法管理干部学院	
+广西教育学院	
+广西智能制造职业技术学院	Guangxi Vocational and Technical College of Intelligent Manufacturing
+广西机电职业技术学院	Guangxi Technological College of Machinery and Electricity
+广西民族大学	Guangxi University for Nationalities
+广西民族大学相思湖学院	Xiangsihu College GuangXi University for Nationalities / Xiangsihu College of Guangxi University for Nationalities
+广西民族师范学院	Guangxi Normal University for Nationalities
+广西水利电力职业技术学院	Guangxi College of Water Resources and Electric Power / Guangxi Vocational College of Water Resources and Electric Power
+广西演艺职业学院	Guangxi Vocational College of Performing Arts
+广西物流职业技术学院	Guangxi Logistics Vocational and Technical College
+广西现代职业技术学院	Guangxi Modern Polytechnic College
+广西理工职业技术学院	Guangxi Polytechnic Vocational School of Technology / Guangxi Institute of Occupational Technology
+广西生态工程职业技术学院	Guangxi Eco-engineering Vocational and Technical College / Guangxi Eco-Engineering Vocational and Technical College
+广西电力职业技术学院	Guangxi Electrical Polytechnic Institute
+广西科技大学	Guangxi University of Science and Technology
+广西科技大学鹿山学院	Lushan College of Guangxi University of Science and Technology
+广西科技师范学院	Guangxi Science and Technology Normal University
+广西科技职业学院	Guangxi Vocational University of Science & Technology
+广西经济职业学院	Guangxi Economic Vocational College
+广西经贸职业技术学院	Guangxi Economic and Trade Vocational Institute / Guangxi Economic and Trade Vocational College
+广西职业师范学院	Guangxi Vocational Normal University
+广西职业技术学院	Guangxi Vocational & Technical College
+广西自然资源职业技术学院	Guangxi Natural Resources Vocational and Technical College
+广西艺术学院	Guangxi Arts University
+广西英华国际职业学院	Talent International College Guangxi / Guangxi Talent International College
+广西蓝天航空职业学院	Guangxi Lantian Aviation Technical College
+广西警官高等专科学校	
+广西警察学院	Guangxi Police College
+广西财经学院	Guangxi University of Finance and Economics
+广西质量工程职业技术学院	Guangxi Vocational and Technical College of Quality and Engineering
+广西金融职业技术学院	Guangxi Financial Vocational College
+庆阳职业技术学院	Qingyang Vocational and Technical College
+应天职业技术学院	Yingtian College
+康复大学	University of Health and Rehabilitation Sciences
+康定民族师范高等专科学校	
+廊坊东方职业技术学院	
+廊坊卫生职业学院	Langfang Health Vocational College
+廊坊师范学院	Langfang Normal University
+廊坊燕京职业技术学院	Langfang Yanjing Vocational Technical College
+廊坊职业技术学院	Langfang Polytechnic Institute
+延安大学	Yan'an University
+延安大学西安创新学院	Xi'an Innovation College of Yan'an University
+延安职业技术学院	Yan 'An Vocational & Technical College / Yan'an Vocational & Technical College
+延边大学	Yanbian University
+延边职业技术学院	Yanbian Vocational & Technical College
+延边职工大学	
+延边黎明农民大学	
+建东职业技术学院	Jiandong Vocational and Technical College / Jiandong College
+开封大学	Kaifeng University
+开封市职工业余大学	
+开封教育学院	
+开封文化艺术职业学院	Kaifeng Vocational College of Culture and Arts
+开封空分设备厂职工大学	
+开封职业学院	Kaifeng Vocational College
+张家口学院	Zhangjiakou University
+张家口市职工大学	
+张家口教育学院	
+张家口职业技术学院	Zhangjiakou Vocational and Technical College
+张家界学院	
+张家界航空工业职业技术学院	Zhangjiajie Institute of Aeronautical Engineering
+张掖医学高等专科学校	
+徐州医学院	
+徐州医科大学	Xuzhou Medical University
+徐州工业职业技术学院	Xuzhou College of Industrial Technology
+徐州工程学院	Xuzhou University of Technology
+徐州师范大学	
+徐州幼儿师范高等专科学校	Xuzhou Kindergarten Teachers College
+徐州建筑职业技术学院	
+徐州教育学院	
+徐州生物工程职业技术学院	Xuzhou Vocational College of Bioengineering
+德化陶瓷职业技术学院	
+德宏师范高等专科学校	Dehong Teachers' College / Dehong Teachers’ College
+德宏职业学院	Dehong Vocational College
+德州学院	Dezhou University
+德州工程职业学院	Dezhou Engineering Vocational College
+德州科技职业学院	Technological Vocational College of Dezhou
+德州职业技术学院	Dezhou Vocational and Technical College
+德阳农业科技职业学院	Deyang Agricultural College
+德阳城市轨道交通职业学院	Deyang College of Urban Rail Transit
+德阳科贸职业学院	Deyang Vocational College of Technology and Trade
+徽商职业学院	Huishang Vocational College
+忻州师范学院	Xinzhou Teachers University
+忻州职业技术学院	Xinzhou Vocational and Technical College
+怀化医学高等专科学校	
+怀化学院	Huaihua University
+怀化工商职业技术学院	Huaihua Industrial and Commercial College
+怀化师范高等专科学校	Huaihua Normal College
+怀化职业技术学院	Huaihua Vocational and Technical College
+怒江职业技术学院	NuJiang Vocational and Technical College
+思茅师范高等专科学校	
+恩施职业技术学院	Enshi Polytechnic
+惠州卫生职业技术学院	Huizhou Health Sciences Polytechnic
+惠州城市职业学院	City College of Huizhou
+惠州学院	Huizhou University
+惠州工程职业学院	Huizhou Engineering Vocational College
+惠州经济职业技术学院	Huizhou Economics and Polytechnic College
+成都东软信息技术职业学院	
+成都东软学院	Chengdu Neusoft University
+成都中医药大学	Chengdu University of Traditional Chinese Medicine / Chengdu University of TCM
+成都体育学院	Chengdu Sport University
+成都信息工程大学	Chengdu University of Information Technology
+成都信息工程大学银杏酒店管理学院	
+成都信息工程学院	
+成都农业科技职业学院	Chengdu Agricultural College
+成都冶金职工大学	
+成都医学院	Chengdu Medical College
+成都发动机公司职工大学	
+成都外国语学院	
+成都大学	Chengdu University
+成都工业学院	Chengdu Technological University
+成都工业职业技术学院	Chengdu Vocational& Technical College of Industry / Chengdu Vocational and Technical College of Industry
+成都工业职工大学	
+成都工贸职业技术学院	Chengdu Industry and Trade Industry / Chengdu Industry and Trade College
+成都市广播电视大学	
+成都市职工大学	
+成都师范学院	Chengdu Normal University
+成都广播电视大学	
+成都开放大学	
+成都教育学院	
+成都文理学院	Chengdu College of Arts and Sciences
+成都水利水电职工大学	
+成都理工大学	Chengdu University of Technology
+成都理工大学工程技术学院	The Engineering and Technical College of Chengdu University of Technology
+成都电力职工大学	
+成都电子机械高等专科学校	
+成都电子职工大学	
+成都纺织高等专科学校	Chengdu Textile College
+成都职业技术学院	Chengdu Polytechnic
+成都航空职业技术学院	Chengdu Aeronautic Polytechnic
+成都艺术职业大学	Chengdu Vocational University of the Art / Chengdu Vocational University of the Arts
+成都轨道交通职业学院	Chengdu Institute of Rail Transit
+成都银杏酒店管理学院	Gingko College of Hospitality Management
+成都锦城学院	
+成都飞机工业公司职工工学院	
+战略支援部队信息工程大学	
+战略支援部队航天工程大学	The PLA Space Engineering University
+扎兰屯职业学院	Zhalantun Vocational College
+扬州中瑞酒店职业学院	Yangzhou Hospitality Institute
+扬州大学	Yangzhou University
+扬州大学广陵学院	Guangling College of Yangzhou University
+扬州工业职业技术学院	Yangzhou Polytechnic Institute
+扬州市职业大学	Yangzhou Polytechnic College
+扬州教育学院	
+扬州环境资源职业技术学院	Yangzhou Vocational College of Environment and Resources
+承德医学院	Chengde Medical University
+承德应用技术职业学院	Chengde College of Applied Technology
+承德护理职业学院	Chengde Nursing Vocational College
+承德民族师范高等专科学校	
+承德石油高等专科学校	
+抚州幼儿师范高等专科学校	Fuzhou Preschool Education College
+抚州职业技术学院	Fuzhou Vocational Technical College / Fuzhou Vocational and Technical College
+抚顺师范高等专科学校	Fushun Teachers College
+抚顺石油化工公司职工大学	
+抚顺矿务局职工工学院	
+抚顺职业技术学院	Fushun Vocational Technology Institute
+抚顺职工大学	
+拉萨师范高等专科学校	Lhasa Teachers College
+揭阳职业技术学院	Jieyang Polytechnic
+攀枝花学院	Panzhihua University
+攀枝花攀西职业学院	Panzhihua Panxi Vocational College
+文华学院	Wen Hua College / Wenhua College
+文山学院	Wenshan University
+文山师范高等专科学校	
+文山职业技术学院	Wenshan Vocational and Technical College
+新乐精密机器公司职工大学	
+新乡医学院	Xinxiang Medical University
+新乡医学院三全学院	Sanquan College of Xinxiang Medical University
+新乡学院	Xinxiang University
+新乡工程学院	Economic and Technical College of Anhui Agriculture University
+新乡市纺织职工大学	
+新乡职业技术学院	Xinxiang Vocational and Technical College
+新余学院	Xinyu University
+新余钢铁有限责任公司职工大学	
+新余高等专科学校	
+新星职业技术学院	Xin Xing Zhi Ye Ji Shu Xue Yuan
+新汶矿务局职工大学	
+新疆交通职业技术学院	Xinjiang Vocational and Technical College of Communications
+新疆体育职业技术学院	Xinjiang Sports Vocational and Technical College / Xinjiang Vocational and Technical College of Sports
+新疆兵团警官高等专科学校	
+新疆农业大学	Xinjiang Agricultural University
+新疆农业大学科学技术学院	College of Science and Technology Xinjing Agriculture University / College of Science and Technology Xinjiang Agricultural University
+新疆农业职业技术大学	Xinjiang Agricultural Vocational Technical College
+新疆农业职业技术学院	Xinjiang Agricultural Vocational Technical College
+新疆医科大学	Xinjiang Medical University
+新疆医科大学厚博学院	Karamay College of XinJiang Medical University
+新疆司法警官职业学院	Xinjiang Judicial Police Vocational College
+新疆和田学院	Hetian Normal College
+新疆大学	Xinjiang University
+新疆天山职业技术大学	Tianshan University / Xinjiang Tianshan Vocational and Technical University
+新疆工业职业技术学院	Xinjiang Industrial Vocational and Technical College
+新疆工业高等专科学校	
+新疆工程学院	Xinjiang Institute of Engineering
+新疆师范大学	Xinjiang Normal University
+新疆师范高等专科学校	Xinjiang Teacher's College / Xinjiang Teacher’S College
+新疆应用职业技术学院	Xinjiang Career Technical College / Xinjiang Applied Vocational and Technical College
+新疆建设职业技术学院	Xinjiang Vocation and Technical College of Construction
+新疆开放大学	
+新疆政法学院	Xinjiang Institute of Political Science and Law
+新疆教育学院	
+新疆机电职业技术学院	Xinjiang Vocational and Technical College of Electromechanics
+新疆现代职业技术学院	Xinjiang Modern Vocational and Technical College / Xinjiang Modern Professional Technology College
+新疆理工学院	Xinjiang Institute of Technology
+新疆生产建设兵团兴新职业技术学院	Bingtuan Xingxin Vocational and Technical College
+新疆生产建设兵团广播电视大学	
+新疆生产建设兵团开放大学	
+新疆生产建设兵团教育学院	
+新疆石河子职业技术学院	Xinjiang Shihezi Vocational Technical College
+新疆科信职业技术学院	Xinjiang Science & Information Vocational Technical College
+新疆科技学院	Xinjiang University of Science and Technology
+新疆科技职业技术学院	Xinjiang Science and Technology Career Technical College
+新疆第二医学院	
+新疆维吾尔医学专科学校	College of Xingjiang Uyghur Medicine
+新疆维吾尔自治区广播电视大学	
+新疆维吾尔自治区钢铁公司职工大学	
+新疆职业大学	Xinjiang Vocational University
+新疆职工大学	
+新疆能源职业技术学院	Xinjiang Vocational Institute of Energy Technology / Xinjiang Vocational Institute of Energy Technical
+新疆艺术学院	Xinjiang Arts University
+新疆警官高等专科学校	
+新疆警察学院	Xinjiang Police College
+新疆财经大学	Xinjiang University of finance and economics / Xinjiang University of Finance and Economics
+新疆轻工职业技术学院	Xinjiang Industry Technical College
+新疆铁道职业技术学院	Xinjiang Railway Vocational and Technical College
+无锡南洋职业技术学院	Wuxi South Ocean College
+无锡商业职业技术学院	Wuxi Vocational Institute of Commerce
+无锡城市职业技术学院	Wuxi City College of Vocational Technology
+无锡太湖学院	Taihu University of Wuxi / Wuxi Taihu University
+无锡学院	Binjiang College
+无锡工艺职业技术学院	Wuxi Vocational Institute of Arts & Technology
+无锡师范高等专科学校	Wuxi Normal College
+无锡科技职业学院	Wuxi Vocational College of Science and Technology
+无锡职业技术学院	Wuxi Institute of Technology
+日照康养职业学院	Rizhao Vocational College of Wellness
+日照职业技术学院	Rizhao Polytechnic
+日照航海工程职业学院	Rizhao Marine Engineering Vocational College
+昆山杜克大学	Duke Kunshan University
+昆山登云科技职业学院	Kunshan Dengyun College of Science and Technology
+昆明传媒学院	Wenhua College of YunNan Art University
+昆明冶金高等专科学校	Kunming Metallurgy College
+昆明医学院	
+昆明医科大学	Kunming Medical University
+昆明医科大学海源学院	Kunming Medical University Hai Yuan College / Kunming Medical University Haiyuan College
+昆明卫生职业学院	Kunming Health Vocational College
+昆明城市学院	
+昆明学院	Kunming University
+昆明工业职业技术学院	Kunming Vocational and Technical College of Industry
+昆明幼儿师范高等专科学校	Kunming Preschool Teachers College
+昆明扬帆职业技术学院	
+昆明文理学院	
+昆明理工大学	Kunming University of Science and Technology
+昆明理工大学津桥学院	Kunming University of Science and Technology Oxbridge College
+昆明艺术职业学院	Kunming Professional College of Arts
+昆明铁道职业技术学院	Kunming Railway Vocational Technical College / Kunming Railway Vocational and Technical College
+昆玉职业技术学院	Kunyu Vocational Technical College
+昌吉学院	Changji University
+昌吉职业技术学院	Changji Vocational and Technical College
+昌河职工工学院	
+明达职业技术学院	Minda Polytechnic Institute / Mingda Polytechnic Institute
+星海音乐学院	Xinghai Conservatory of Music
+昭通卫生职业学院	Zhaotong Health Vocational College
+昭通学院	Zhaotong University
+昭通师范高等专科学校	
+昭通职业学院	Zhaotong Vocational College
+晋中信息学院	
+晋中学院	Jinzhong University
+晋中师范高等专科学校	Jinzhong Normal Junior College
+晋中职业技术学院	Jinzhong Vocational and Technical College
+晋城职业技术学院	Jincheng Institute of Technology
+普洱学院	Puer University / Pu'er University
+景德镇学院	Jingdezhen University
+景德镇艺术职业大学	
+景德镇陶瓷大学	Jingdezhen Ceramic University / Jingdezhen Ceramic Institute
+景德镇陶瓷大学科技艺术学院	
+景德镇陶瓷学院	
+景德镇陶瓷学院科技艺术学院	
+景德镇陶瓷职业技术学院	Jingdezhen Ceramic Vocational Technical College
+景德镇高等专科学校	
+暨南大学	Jinan University
+曲阜师范大学	Qufu Normal University
+曲阜远东职业技术学院	Qufu Fareast Vocational and Technical College
+曲靖医学高等专科学校	Qujing Medical College
+曲靖师范学院	Qujing Normal University / Qujing Normal College
+曲靖职业技术学院	Qujing Vocational and Technical College
+曹妃甸职业技术学院	Caofeidian College of Technology
+朔州师范高等专科学校	Shuozhou Normal Technical College / Shuozhou Advanced Normal College
+朔州职业技术学院	Shuozhou Vocational Technical College / Shuozhou Vocational Technical
+朔州陶瓷职业技术学院	Shuozhou Ceramic Institute of Technology / Shuozhou Ceramic Vocational Technical College
+朝阳师范学院	Chaoyang Teachers College
+朝阳师范高等专科学校	Chaoyang Teachers College
+朝阳职工工学院	
+本溪钢铁公司职工工学院	
+杨凌职业技术学院	Yangling Vocational & Technical College
+杭州万向职业技术学院	Hangzhou Wanxiang Polytechnic
+杭州医学院	Hangzhou Medical College
+杭州市工人业余大学	
+杭州师范大学	Hangzhou Normal University
+杭州师范大学钱江学院	Hangzhou Normal University Qianjiang College
+杭州成人科技大学	
+杭州教育学院	
+杭州电子科技大学	Hangzhou Dianzi University
+杭州电子科技大学信息工程学院	Hangzhou Dianzi University Information Engineering School
+杭州科技职业技术学院	Hangzhou Polytechnic
+杭州职业技术学院	Hangzhou Vocational & Technical College
+松原职业技术学院	Songyuan Vocational Technical College
+林州建筑职业技术学院	Linzhou College of Architectural Technology
+枣庄学院	Zaozhuang University
+枣庄科技职业学院	Zaozhuang Vocational College of Science and Technology
+枣庄职业学院	Zaozhuang Vocational College
+柳州医学高等专科学校	
+柳州城市职业学院	Liuzhou City Vocational College
+柳州工学院	Liuzhou Institute of Technology
+柳州师范高等专科学校	
+柳州职业技术大学	Liuzhou Vocational & Technical College
+柳州职业技术学院	Liuzhou Vocational & Technical College
+柳州运输职业技术学院	
+柳州铁道职业技术学院	Liuzhou Railway Vocational Technical College / Liuzhou Railway Vocationa Technica College
+株洲市职工大学	
+株洲师范高等专科学校	Zhuzhou Teachers College
+株洲职业技术学院	
+桂林信息工程职业学院	Guilin Vocational College of Information Engineering
+桂林信息科技学院	
+桂林医学院	Guilin Medical University
+桂林学院	
+桂林山水职业学院	Guilin Shanshui Vocational College
+桂林工学院	
+桂林市职工大学	
+桂林师范高等专科学校	Guilin Normal College
+桂林旅游学院	Guilin Tourism University
+桂林旅游高等专科学校	
+桂林理工大学	Guilin University of Technology
+桂林理工大学博文管理学院	
+桂林生命与健康职业技术学院	Guilin Life and Health Career Technical College
+桂林电子科技大学	Guilin University of Electronic Technology
+桂林电子科技大学信息科技学院	
+桂林航天工业学院	Guilin University of Aerospace Technology
+桂林航天工业高等专科学校	
+桐城师范高等专科学校	Tongcheng Teachers College
+梅河口康美职业技术学院	Meihekou Kangmei Vocational and Technical College
+梧州医学高等专科学校	Wuzhou Medical College
+梧州学院	Wuzhou University
+梧州职业学院	Wuzhou Vocational College
+梨树农村成人高等专科学校	
+楚雄医药高等专科学校	Chuxiong Medical College
+楚雄师范学院	Chuxiong Normal University
+榆林学院	Yulin University
+榆林职业技术学院	Yulin Vocational and Technical College
+榆林能源科技职业学院	Yulin Vocational College of Energy Science and Technology / Yulin Energy Technology Vocational College
+正德职业技术学院	Zhengde Polytechnic
+武夷学院	xG / Wuyi University
+武夷山职业学院	Wuyishan Vocational College
+武威职业学院	Wuwei Vocational College / Wuwei Occupational College
+武当职业学院	
+武昌工学院	Wuchang Institute of Technology
+武昌理工学院	Wuchang University of Technology
+武昌职业学院	Wuchang Polytechnic College
+武昌首义学院	Wuchang Shouyi University
+武汉东湖学院	Wuhan Donghu University
+武汉交通职业学院	Wuhan Technical College of Communications
+武汉传媒学院	Wuhan University of Communication
+武汉体育学院	Wuhan Sports University
+武汉体育学院体育科技学院	Sport Science and Technology College of Wuhan Sports University / Wuhan Institute of Physical Education Sports Science and Technology
+武汉信息传播职业技术学院	Wuhan Vocational College of Communications and Publishing / Wuhan Vocational College Communications and Publishing
+武汉光谷职业学院	Wuhan Guanggu Vocational College
+武汉冶金管理干部学院	
+武汉华夏理工学院	Wuhan Huaxia University of Technology
+武汉商业服务学院	
+武汉商学院	Wuhan Business University
+武汉商贸职业学院	Wuhan International Trade University
+武汉城市学院	
+武汉城市职业学院	Wuhan City Polytechnic
+武汉外语外事职业学院	Wuhan College of Foreign Languages and Foreign Affairs
+武汉大学	Wuhan University
+武汉大学珞珈学院	
+武汉学院	Wuhan College
+武汉工业学院	
+武汉工业职业技术学院	
+武汉工商学院	Wuhan Technology and Business University
+武汉工程大学	Wuhan Institute of Technology
+武汉工程大学邮电与信息工程学院	The College of Post and Telecommunication of WIT
+武汉工程科技学院	Wuhan University of Engineering Science
+武汉工程职业技术学院	Wuhan Engineering Institute
+武汉工贸职业学院	Wuhan Vocational College of Industry and Trade / Wuhan Vocational College of Industry and Trade
+武汉市广播电视大学	
+武汉开放大学	
+武汉文理学院	Wuhan College of Arts and Science / Business College of Guizhou University of Finance and Economics
+武汉晴川学院	Wuhan Qingchuan University
+武汉民政职业学院	Wuhan Social Work Polytechnic
+武汉海事职业学院	Wuhan Maritime Vocational College
+武汉理工大学	Wuhan University of Technology
+武汉理工大学华夏学院	
+武汉生物工程学院	Wuhan Institute of Bioengineering
+武汉电力职业技术学院	Wuhan Electric Power Technical College
+武汉科技大学	Wuhan University of Science and Technology
+武汉科技大学城市学院	City College, Wuhan University of Science and Technology
+武汉科技学院	
+武汉科技职业学院	Wuhan Vocational College of Science and Technology
+武汉纺织大学	Wuhan Textile University
+武汉纺织大学外经贸学院	College of International Business and Economics, WTU
+武汉职业技术学院	Wuhan Polytechnic
+武汉航海职业技术学院	Wuhan Marine Institute / Wuhan Marine College
+武汉船舶职业技术学院	Wuhan Institute of Shipbuilding Technology
+武汉警官职业学院	Wuhan Police Vocational College
+武汉设计工程学院	Wuhan Institute of Design and Sciences
+武汉语言文化职业学院	
+武汉软件工程职业学院	Wuhan Vocational College of Software and Engineering
+武汉轻工大学	Wuhan Polytechnic University
+武汉铁路桥梁职业学院	Wuhan Railway Bridge Vocational College
+武汉铁路职业技术学院	Wuhan Railway Vocational College of Technology
+武汉长江工商学院	
+武汉音乐学院	Wuhan Conservatory of Music / Wuhan conservatory of Music
+武警后勤学院	
+武警士官学校	
+武警工程大学	
+武警指挥学院	
+武警海警学院	
+武警特种警察学院	
+武警警官学院	
+武警警种学院	
+毕节医学高等专科学校	Bijie Medical College
+毕节学院	
+毕节工业职业技术学院	Bijie Industry Polytechnic College
+毕节幼儿师范高等专科学校	Bijie Preschool Education College
+毕节职业技术学院	Bijie Vocational and Technical College
+民办万博科技职业学院	Wanbo Institute of Science & Technology
+民办三联职业技术学院	
+民办南华工商学院	
+民办合肥滨湖职业技术学院	Hefei Binhu Vocational & Technical College
+民办合肥经济技术职业学院	Hefei Professional College of Economics and Technology
+民办合肥财经职业学院	Hefei College of Finance & Economics
+民办四川天一学院	Sichuan Tianyi College / Sichuan Tianyi University
+民办天狮职业技术学院	
+民办安徽外国语职业技术学院	
+民办安徽文达信息技术职业学院	
+民办安徽旅游职业学院	Tourism College of Anhui
+民办安徽明星科技职业学院	
+民办山东万杰医学高等专科学校	
+民办明达职业技术学院	
+民政职业大学	Beijing College of Social Administration
+民航管理干部学院	
+永城职业学院	Yongcheng Vocational College
+永州师范高等专科学校	Yongzhou Normal College
+永州职业技术学院	Yongzhou Vocational Technical College
+汉中职业技术学院	Hanzhong Vocational and Technical College
+汉口学院	Hankou University
+汉江师范学院	Hanjiang Normal University
+汕头大学	Shantou University
+汕头市业余大学	
+汕头市职工业余大学	
+汕头职业技术学院	Shantou Polytechnic
+汕尾职业技术学院	Shanwei Polytechnic
+汝州职业技术学院	Ruzhou Vocational and Technical College
+江南大学	Jiangnan University
+江南影视艺术职业学院	Jiangnan Vocational College of Media Arts
+江汉大学	Jianghan University
+江汉大学文理学院	College of Arts and Science of Jianghan University
+江汉艺术职业学院	Jianghan Art Vocational College
+江海职业技术学院	Jianghai Polytechnic College / Jianghai College
+江苏信息职业技术学院	Jiangsu Vocational College of Information Technology
+江苏农林职业技术学院	Jiangsu Vocational College of Agriculture and Forestry
+江苏农牧科技职业学院	Jiangsu Agri-Animal Husbandry Vocational College / Jiangsu Agri-animal Husbandry Vocational College
+江苏医药职业学院	Jiangsu Vocational College of Medicine
+江苏卫生健康职业学院	Jiangsu Health Vocational College
+江苏司法警官职业学院	Jiangsu Judicial Police Officer Vocational College
+江苏商贸职业学院	Jiangsu Vocational College of Business
+江苏城乡建设职业学院	Jiangsu Urban and Rural Construction College
+江苏城市职业学院	The City Vocational College of Jiangsu
+江苏大学	Jiangsu University
+江苏大学京江学院	Jiangsu University Jingjiang College
+江苏安全技术职业学院	Jiangsu College of Safety Technology
+江苏工业学院	
+江苏工程职业技术学院	Jiangsu College of Engineering and Technology
+江苏师范大学	Jiangsu Normal University
+江苏师范大学科文学院	Jiangsu Normal University Kewen College
+江苏建康职业学院	
+江苏建筑职业技术学院	Jiangsu Jianzhu Institute / Jiangsu Vocational Institute of Architectural Technology
+江苏开放大学	
+江苏技术师范学院	
+江苏护理职业学院	Jiangsu College of Nursing / Jiangsu Collge of Nursing
+江苏教育学院	
+江苏旅游职业学院	Jiangsu College of Tourism / Jiangsu Vocational College of Tourism
+江苏海事职业技术学院	Jiangsu Maritime Institute
+江苏海洋大学	Jiangsu Ocean University
+江苏理工学院	Jiangsu University of Technology
+江苏电力职工大学	
+江苏电子信息职业学院	Jiangsu Vocational College of Electronics and Information，Jsei / Jiangsu Vocational College of Electronics and Information
+江苏畜牧兽医职业技术学院	
+江苏省广播电视大学	
+江苏省省级机关管理干部学院	
+江苏省青年管理干部学院	
+江苏科技大学	Jiangsu University of Science and Technology
+江苏科技大学苏州理工学院	Suzhou Institute of Technology, Jiangsu University of Science and Technology
+江苏第二师范学院	Jiangsu Second Normal University
+江苏经贸职业技术学院	Jiangsu Vocational Institute of Commerce
+江苏职工医科大学	
+江苏联合职业技术学院	Jiangsu Union Technical Institute
+江苏航空职业技术学院	Jiangsu Aviation Technical College
+江苏航运职业技术学院	Jiangsu Shipping College
+江苏警官学院	Jiangsu Police Institute
+江苏财会职业学院	Jiangsu College of Finance & Accounting
+江苏财经职业技术学院	Jiangsu Vocational College of Finance and Economics
+江苏食品职业技术学院	
+江苏食品药品职业技术学院	Jiangsu Food & Pharmaceutical Science College
+江西中医学院	
+江西中医药大学	Jiangxi University of Traditional Chinese Medicine
+江西中医药大学科技学院	Science and Technology College of Jiangxi University of Traditional Chinese Medicine
+江西中医药高等专科学校	Jiangxi College of Traditional Chinese Medicine
+江西交通职业技术学院	Jiangxi V&T College of Communications
+江西传媒职业学院	Jiangxi Media Vocational College
+江西信息应用职业技术学院	Jiangxi Vocational and Technical College of Information Application
+江西公安专科学校	
+江西农业大学	Jiangxi Agricultural University
+江西农业大学南昌商学院	Nanchang Business College of JXAU
+江西农业工程职业学院	Jiangxi Agricultural Engineering College
+江西冶金职业技术学院	Jiangxi Metallurgical and Technical College / Jiangxi Metallurgical Vocational and Technical College
+江西制造职业技术学院	Jiangxi Technical College of Manufacturing
+江西医学高等专科学校	Jiangxi Medical College
+江西卫生职业学院	Jiangxi Health Vocational College
+江西司法警官职业学院	Jiangxi Justice Police Vocational College
+江西城市职业学院	
+江西外语外贸职业学院	Jiangxi College of Foreign Studies
+江西大宇职业技术学院	
+江西太阳能科技职业学院	
+江西婺源茶业职业学院	Jiangxi Wuyuan Tea Vocational College
+江西工业工程职业技术学院	Jiangxi Vocational College of Industry & Engineering
+江西工业职业技术学院	Jiangxi Industry Polytechnic College
+江西工业贸易职业技术学院	Jiangxi Vocational Technical College of Industry & Trade / Jiangxi Vocational Technical College of Lndustry & Trade
+江西工商职业技术学院	Jiangxi Technology Business Polytechnic
+江西工程学院	Jiangxi University of Engineering
+江西工程职业学院	Jiangxi Engineering Vocational College
+江西师范大学	Jiangxi Normal University
+江西师范大学科学技术学院	Jiangxi Normal University Science and Technology College
+江西师范高等专科学校	Jiangxi Teachers College
+江西广播电视大学	
+江西应用工程职业学院	Jiangxi Application Engineering Vocational College / Jiangxi Applied Engineering Vocational Institute
+江西应用技术职业学院	Jiangxi College of Applied Technology
+江西应用科技学院	Jiangxi University of Applied Science / Jiangxi College of Application Science and Technology
+江西建设职业技术学院	Jiangxi College of Construction
+江西开放大学	
+江西护理职业技术学院	
+江西教育学院	
+江西新能源科技职业学院	Jiangxi New Energy Technology Institute
+江西新闻出版职业技术学院	
+江西旅游商贸职业学院	Jiangxi Tourism and Commerce Vocational College
+江西服装学院	Jiangxi Institute of Fashion Technology
+江西服装职业技术学院	
+江西机电职业技术学院	Jiangxi Vocational College of Mechanical & Electrical Technology
+江西枫林涉外经贸职业学院	Jiangxi Fenglin Professional College of Foreign Economy & Trade / Jiangxi Fenglin College of Foreign Economy & Trade
+江西樟树中医药职业学院	Jiangxi Zhangshu Vocational College of Traditional Chinese Medicine
+江西水利职业学院	Jiangxi Water Resources Institute
+江西泰豪动漫职业学院	Jiangxi Tellhow Animation College
+江西洪州职业学院	Jiangxi Hongzhou Vocational College
+江西渝州科技职业学院	
+江西环境工程职业学院	Jiangxi Environmental Engineering Vocational College
+江西现代职业技术学院	Jiangxi Modern Polytechnic College
+江西理工大学	Jiangxi University of Science and Technology
+江西理工大学应用科学学院	
+江西生物科技职业学院	Jiangxi Biotech Vocational College
+江西电力职业技术学院	Jiangxi Electric Vocational & Technical College / Jiangxi Vocational & Technical College of Electricity
+江西省广播电视大学	
+江西科技学院	Jiangxi University of Technology
+江西科技师范大学	Jiangxi Science and Technology Normal University
+江西科技师范大学理工学院	
+江西科技师范学院	
+江西科技职业学院	Jiangxi Vocational College of Technology / Jiangxi University of Science & Technology
+江西管理职业学院	Jiangxi Administrative Vocational College
+江西经济管理干部学院	
+江西经济管理职业学院	Jiangxi Institute of Economic Administrators
+江西职业技术大学	Jiujiang Vocational and Technical College
+江西航空职业技术学院	Jiangxi Aviation Vocational and Technical College
+江西艺术职业学院	Jiangxi Vocational Academy of Art
+江西蓝天学院	
+江西行政管理干部学院	
+江西警察学院	Jiangxi Police Institute
+江西财经大学	Jiangxi University of Finance and Economics
+江西财经大学现代经济管理学院	College of Modern Economics & Management JUFE
+江西财经职业学院	Jiangxi Vocational College of Finance and Economis / Jiangxi Vocational College of Finance and Economics
+江西赣江职业技术学院	
+江西软件职业技术大学	Jiangxi University of Software Professional Technology
+江西陶瓷工艺美术职业技术学院	Jiangxi Ceramic Fine Art Profession Academe / Jiangxi Arts ﹠ Ceramics Technology Institute
+江西青年职业学院	Jiangxi Youth Vocational College
+江西飞行学院	Jiangxi Flight University
+江门市职工业余大学	
+江门职业技术学院	Jiangmen Polytechnic / Jiangmen Vocational and Polytechnic College
+江阳城建职业学院	Jiangyang City Construction College
+江阴职业技术学院	Jiangyin Polytechnic College
+池州学院	Chizhou University
+池州职业技术学院	Chizhou Vocational and Technical College
+沈阳体育学院	Shenyang Sport University
+沈阳农业大学	Shenyang Agricultural University
+沈阳化工大学	Shenyang University of Chemical Technology
+沈阳化工大学科亚学院	
+沈阳化工学院	
+沈阳北软信息职业技术学院	Shenyang Northern Software College of Information Technology
+沈阳医学院	Shenyang Medical College
+沈阳城市学院	Shenyang City University
+沈阳城市建设学院	Shenyang Urban Construction University / Shenyang urban construction University
+沈阳大学	Shenyang University
+沈阳工业大学	Shenyang University of Technology
+沈阳工业大学工程学院	Engineering School of Shenyang University of Technology / Engineering College of Shenyang University of Technology
+沈阳工学院	Shenyang Institute of Technology
+沈阳工程学院	Shenyang Institute of Engineering
+沈阳市广播电视大学	
+沈阳师范大学	Shenyang Normal University
+沈阳建筑大学	Shenyang Jianzhu University
+沈阳开放大学	
+沈阳新光动力机械公司职工大学	
+沈阳机械工业职工大学	
+沈阳理工大学	Shenyang Ligong University
+沈阳科技学院	Shenyang Institute of Science and Technology / Shenyang Institue of Science and Technology
+沈阳职业技术学院	Shenyang Polytechnic College
+沈阳航空工业学院	
+沈阳航空职业技术学院	Shenyang Aviation Professional Technology Institute / Shenyang Aviation Vocational Technical College
+沈阳航空航天大学	Shenyang Aerospace University
+沈阳航空航天大学北方科技学院	North Science and Technology College of Shenyang University of Aeronautics and Astronautics / Shenyang Aerospace University-College of Northern Science and Technology
+沈阳药科大学	Shenyang Pharmaceutical University
+沈阳音乐学院	Shenyang Conservatory of Music
+沙市职业大学	
+沙洲职业工学院	Shazhou Professional Institute of Technology
+沧州交通学院	
+沧州医学高等专科学校	Cangzhou Medical College
+沧州师范专科学校	
+沧州师范学院	Cangzhou Normal University
+沧州幼儿师范高等专科学校	Cangzhou Kindergarten Teachers College
+沧州职业技术学院	Cangzhou Technical College
+沧州航空职业学院	Cangzhou Aviation Vocational College
+河北东方学院	Hebei Oriental University
+河北中医学院	
+河北中医药大学	Hebei University of Chinese Medicine
+河北交通职业技术学院	Hebei Jiaotong Vocational and Technical College
+河北京都高尔夫职业学院	
+河北传媒学院	Hebei Institute of Communications
+河北体育学院	Hebei Sport University
+河北公安警察职业学院	Hebei Public Security Police Vocational College
+河北农业大学	Hebei Agricultural University
+河北农业大学现代科技学院	Hebei Agriculture University College of Modern Science and Technology / College of Modern Science and Technology, Hebei Agricultural University
+河北劳动关系职业学院	Hebei Vocational College of Labour Relations
+河北化工医药职业技术学院	Hebei Chemical & Pharmaceutical College
+河北北方学院	Hebei North University
+河北医科大学	Hebei Medical University
+河北医科大学临床学院	Clinical College of Hebei Medical University / Clinic College of Hebei Medical University
+河北司法警官职业学院	Hebei Vocational College for Correctional Police / Hebei Vocational College For Correctional Police
+河北地质大学	Hebei GEO University
+河北地质大学华信学院	Huaxin College of Hebei Geo University / Huaxin College, Hebei GEO University
+河北地质职工大学	
+河北外国语学院	Hebei Foreign Studies University
+河北外国语职业学院	
+河北大学	Hebei University
+河北大学工商学院	Industrial and Commercial College, Hebei University
+河北女子职业技术学院	Hebei Women's Vocational College / Hebei Women'S Vocational College
+河北对外经贸职业学院	Hebei Institute of International Business and Economics
+河北工业大学	Hebei University of Technology
+河北工业大学城市学院	
+河北工业职业技术大学	Hebei Vocational University of Industry and Technology
+河北工业职业技术学院	
+河北工程大学	Hebei University of Engineering
+河北工程大学科信学院	Kexin college, Hebei University of Engineering / Kexin College, Hebei University of Engineering
+河北工程技术学院	Hebei Polytechnic Institute
+河北工程技术高等专科学校	
+河北工艺美术职业学院	Hebei Art & Design Academy / Hebei Art&Design Academy
+河北师范大学	Hebei Normal University
+河北师范大学汇华学院	Huihua College of Hebei Normal University
+河北建材职业技术学院	Hebei Polytechnic of Building Materials / Hebei Construction Material Vocational and Technical College
+河北建筑工程学院	Hebei University of Architecture
+河北开放大学	
+河北政法职业学院	Hebei Professional College of Political Science and Law / Hebei Vocational College of Politics and Law
+河北旅游职业学院	Hebei Tourism Vocational College / Hebei Tourism College
+河北机电职业技术学院	Hebei Institute of Mechanical and Electroninc Technology / Hebei Institute of Mechanical and Electrical Technology
+河北正定师范高等专科学校	Zhengding Advanced Normal College of Hebei
+河北民族师范学院	Hebei Normal University for Nationalities
+河北水利电力学院	Hebei University of Water Resources and Electric Engineering
+河北环境工程学院	Hebei University of Environmental Engineering
+河北理工大学	
+河北省广播电视大学	
+河北省经贸管理干部学院	
+河北省职工医学院	
+河北石油职业技术大学	Hebei Petroleum University of Technology
+河北石油职业技术学院	Hebei Technical College of Petroleum Profession / Hebei Vocational and Technical College of Petroleum
+河北科技大学	Hebei University of Science and Technology
+河北科技大学理工学院	
+河北科技学院	Hebei College of Science and Technology
+河北科技工程职业技术大学	Hebei Vocational University of Technology and Engineering
+河北科技师范学院	Hebei Normal University of Science and Technology
+河北管理干部学院	
+河北经贸大学	Hebei University of Economics and Business
+河北经贸大学经济管理学院	College of Economics and Management Hebei University of Economics and Business
+河北美术学院	Hebei Academy of Fine Arts
+河北职业技术学院	
+河北联合大学	
+河北能源职业技术学院	Hebei Energy College of Vocation and Technology
+河北艺术职业学院	Hebei Vocational Art College
+河北资源环境职业技术学院	Hebei Vocational College of Geology
+河北轨道运输职业技术学院	Hebei Vocational College of Rail Transportation
+河北软件职业技术学院	Hebei Software Institute
+河北远东职业技术学院	
+河北通信职业技术学院	
+河北金融学院	Heibei Finance University / Hebei Finance University
+河北青年管理干部学院	
+河南中医学院	
+河南中医药大学	Henan University of Chinese Medicine
+河南交通职业技术学院	Henan College of Transportation
+河南体育学院	Henan Sport University
+河南信息统计职业学院	Henan Vocational College of Information and Statistics
+河南公安高等专科学校	
+河南农业大学	Henan Agricultural University
+河南农业职业学院	Henan Vocational College of Agriculture
+河南化工职业学院	
+河南医学高等专科学校	Henan Medical College
+河南卫生职工学院	
+河南司法警官职业学院	Henan Justice Police Vocational College / Henan Judicial Police Vocational College
+河南商业高等专科学校	
+河南地矿职业学院	Henan Geology Mineral College
+河南城建学院	Henan University of Urban Construction
+河南大学	Henan University
+河南大学民生学院	
+河南女子职业学院	Henan Women'S Vocational College / Henan Women's Vocational College
+河南对外经济贸易职业学院	Henan Institute of Foreign Economic Relations and Trade / Henan Vocational College of International Economics and Business
+河南工业和信息化职业学院	Henan College of Industry & Information Technology / Henan College of Industry&Information Technology
+河南工业大学	Henan University of Technology
+河南工业职业技术学院	Henan Polytechnic Institute
+河南工业贸易职业学院	Henan Industry and Trade Vocational College
+河南工学院	Henan Institute of Technology
+河南工程学院	Henan University of Engineering
+河南师范大学	Henan Normal University
+河南师范大学新联学院	Xinlian College of Henan Normal University
+河南应用技术职业学院	Henan Vocational College of Applied Technology
+河南建筑职业技术学院	Henan Technical College of Construction
+河南开封科技传媒学院	
+河南开放大学	
+河南护理职业学院	Henan Vocational College of Nursing
+河南推拿职业学院	Henan Vocational College of Tuina
+河南政法管理干部学院	
+河南教育学院	
+河南新乡工商职业学院	Henan Xinxiang Vocational College of Industry and Commerce
+河南机电职业学院	Henan Mechanical and Electrical Vocational College
+河南机电高等专科学校	
+河南林业职业学院	Henan Forestry Vocational College
+河南检察职业学院	Henan Branch of National Prosecutors College / The College of Henan Procuratorial Profession
+河南水利与环境职业学院	Henan Vocational College of Water Conservancy and Environment
+河南测绘职业学院	Henan College of Surveying and Mapping
+河南牧业经济学院	Henan University of Animal Husbandry and Economy
+河南物流职业学院	Henan Logistics Vocational College
+河南理工大学	Henan Polytechnic University
+河南理工大学万方科技学院	
+河南省化工职工大学	
+河南省安阳钢铁公司职工大学	
+河南省广播电视大学	
+河南省建筑职工大学	
+河南科技大学	Henan University of Science and Technology
+河南科技学院	Henan Institute of Science and Technology
+河南科技学院新科学院	
+河南科技职业大学	Henan Vocational University of Science and Technology
+河南经贸职业学院	Henan Institute of Economics and Trade
+河南职业技术学院	Henan Vocational & Technical College / Henan Polytechnic
+河南艺术职业学院	Henan Vocational Institute of Arts
+河南警察学院	Henan Police College
+河南财政税务高等专科学校	
+河南财政金融学院	Henan Finance University
+河南财经学院	
+河南财经政法大学	Henan University of Economics and Law
+河南质量工程职业学院	Henan Quality Polytechnic
+河南轻工职业学院	Henan Light Industry Vocational College
+河套大学	
+河套学院	Hetao college / Hetao College
+河池学院	Hechi University
+河池职业学院	
+河海大学	Hohai University
+河源职业技术学院	Heyuan Polytechnic
+河西学院	Hexi University / HeXi University
+泉州信息工程学院	Quanzhou University of Information Engineering
+泉州信息职业技术学院	
+泉州光电信息职业学院	
+泉州医学高等专科学校	Quanzhou Medical College
+泉州华光摄影艺术职业学院	
+泉州华光职业学院	Quanzhou Huaguang Vocational College
+泉州工程职业技术学院	Quanzhou Engineering Vocational Technology College / Quanzhou Engineering Vocational and Technical College
+泉州工艺美术职业学院	Quanzhou Arts and Crafts Vocational College
+泉州师范学院	Quanzhou Normal University
+泉州幼儿师范高等专科学校	Quanzhou Preschool Education College
+泉州泰山航海职业学院	
+泉州海洋职业学院	Quanzhou Ocean Institute
+泉州纺织服装职业学院	Quanzhou Textile Garment Institute / Quanzhou Textile Garment Vocational Institute
+泉州经贸职业技术学院	Quanzhou Vocational College of Economics and Business
+泉州职业技术大学	Quanzhou Vocational and Technical University
+泉州轻工职业学院	Quanzhou College of Technology
+泊头职业学院	
+泰山学院	Taishan University
+泰山护理职业学院	Taishan Vocational College of Nursing
+泰山科技学院	
+泰山职业技术学院	Taishan Polytechnic
+泰州学院	wk / Taizhou University
+泰州师范高等专科学校	
+泰州职业技术学院	Taizhou Polytechnic College / Taizhou Polytechinc College
+泸州医学院	
+泸州医疗器械职业学院	Luzhou College of Medical Devices
+泸州职业技术学院	Luzhou Vocational and Technical College
+洛阳商业职业学院	Luoyang Vocational College of Commerce
+洛阳市职工科学技术学院	
+洛阳师范学院	Luoyang Normal University
+洛阳文化旅游职业学院	Luoyang Vocational College of Culture and Tourism
+洛阳有色金属职工大学	
+洛阳理工学院	Luoyang Institute of Science and Technology
+洛阳科技职业学院	Luoyang Vocation College of Science and Technology / Luoyang Vocational College of Science and Technology
+洛阳职业技术学院	Luoyang Polytechnic
+洛阳轴承厂职工大学	
+洛阳轴承职工大学	
+济南大学	University of Jinan
+济南大学泉城学院	
+济南工程职业技术学院	Jinan Engineering Polytechnic / Jinan Engineering Vocational Technical College
+济南市职工大学	
+济南幼儿师范高等专科学校	Jinan Preschool Education College
+济南护理职业学院	Jinan Vocational College of Nursing
+济南职业学院	Jinan Vocational College
+济南铁道职业技术学院	
+济宁医学院	Jining Medical University
+济宁学院	Jining University
+济宁职业技术学院	Jining Polytechnic
+济源职业技术学院	Jiyuan Vocational and Technical College
+浙大城市学院	Zhejiang University City College
+浙大宁波理工学院	NingboeTech University / NingboTech University
+浙江万里学院	Zhejiang Wanli University
+浙江东方职业技术学院	Zhejiang Dongfang Polytechnic
+浙江中医药大学	Zhejiang Chinese Medical University
+浙江中医药大学滨江学院	ZheJiang Chinese Medicine University BinJiang College / Zhejiang Chinese Medical University Binjiang College
+浙江交通职业技术学院	Zhejiang Institute of Communications
+浙江传媒学院	Communication University of Zhejiang
+浙江体育职业技术学院	Zhejiang College of Sports
+浙江农业商贸职业学院	Zhejiang Agricultural Business College
+浙江农林大学	Zhejiang A & F University / Zhejiang A&F University
+浙江农林大学暨阳学院	Jiyang College of Zhejiang A&F University
+浙江医学高等专科学校	
+浙江医药高等专科学校	
+浙江同济科技职业学院	Zhejiang Tongji Vocational College of Science and Technology
+浙江商业职业技术学院	Zhejiang Business College
+浙江嘉兴教育学院	
+浙江国际海运职业技术学院	Zhejiang International Maritime College
+浙江外国语学院	Zhejiang International Studies University
+浙江大学	Zhejiang University
+浙江大学城市学院	
+浙江大学宁波理工学院	Zhejiang University Ningbo Institute of Technology
+浙江宇翔职业技术学院	Zhejiang Yuxiang Vocational & Technical College
+浙江安防职业技术学院	Zhejiang College of Security Technology
+浙江工业大学	Zhejiang University of Technology
+浙江工业大学之江学院	Zhijiang College of Zhejiang University of Technology
+浙江工业职业技术学院	Zhejiang Industry Polytechnic College
+浙江工商大学	Zhejiang Gongshang University
+浙江工商大学杭州商学院	Zhejiang Gongshang University Hangzhou College of Commerce
+浙江工商职业技术学院	Zhejiang Business Technology Institute
+浙江工贸职业技术学院	Zhejiang Industry & Trade Vocational College
+浙江师范大学	Zhejiang Normal University
+浙江师范大学行知学院	Xingzhi College Zhejiang Normal University
+浙江广厦建设职业技术大学	Zhejiang Guangsha Vocational and Technical University of Construction / Zhejiang Guangsha Vocational and Technical University of construction
+浙江建设职业技术学院	Zhejiang College of Construction
+浙江开放大学	
+浙江教育学院	
+浙江旅游职业学院	Tourism College of Zhejiang / Tourism College of Zhejiang China
+浙江机电职业技术大学	Zhejiang Institute of Mechanical & Electrical Engineering
+浙江机电职业技术学院	Zhejiang Institute of Mechanical & Electrical Engineering
+浙江林学院	
+浙江树人学院	Zhejiang Shuren University
+浙江横店影视职业学院	Hengdian College of Film & Television
+浙江水利水电专科学校	
+浙江水利水电学院	Zhejiang University of Water Resources and Electric Power
+浙江汽车职业技术学院	Zhejiang Automotive Vocational and Technical College
+浙江海洋大学	Zhejiang Ocean University
+浙江海洋大学东海科学技术学院	
+浙江海洋学院	
+浙江海洋学院东海科学技术学院	
+浙江特殊教育职业学院	Zhejiang Vocational College of Special Education
+浙江理工大学	Zhejiang Sci-Tech University
+浙江理工大学科技与艺术学院	Keyi College of Zhejiang Sci-Tech University
+浙江电力职业技术学院	Zhejiang Electric Power Vocational and Technical College / Zhejiang Electric Power Polytechnic
+浙江省广播电视大学	
+浙江省省级机关职工业余大学	
+浙江科技大学	Zhejiang University of Science & Technology
+浙江科技学院	Zhejiang University of Science and Technology
+浙江纺织服装职业技术学院	Zhejiang Fashion Institute of Technology
+浙江经济管理职工大学	
+浙江经济职业技术学院	Zhejiang Technical Institute of Economics
+浙江经贸职业技术学院	Zhejiang Institute of Economics and Trade
+浙江育英职业技术学院	Zhejiang Yuying College of Vocational Technology
+浙江舟山群岛新区旅游与健康职业学院	Zhejiang Tourism and Health College
+浙江艺术职业学院	Zhejiang Vocational Academy of Art
+浙江药科职业大学	Zhejiang Pharmaceutical University
+浙江警官职业学院	Zhejiang Police Vocational Academy
+浙江警察学院	Zhejiang Police College
+浙江财经大学	Zhejiang University of Finance and Economics
+浙江财经大学东方学院	Zhejiang University of Finance and Economics Dongfang College
+浙江财经学院	
+浙江越秀外国语学院	Zhejiang Yuexiu University of Foreign Languages
+浙江邮电职业技术学院	Zhejiang Post and Telecommunication College
+浙江金华科贸职业技术学院	Zhejiang Jinhua Technology and Trade Polytechnic
+浙江金融职业学院	Zhejiang Financial College
+浙江长征职业技术学院	Zhejiang Changzheng Vocational&Technical College / Zhejiang Changzheng Vocational & Technical College
+浙江音乐学院	Zhejiang Conservatory of Music
+海关管理干部学院	
+海军军医大学	
+海军勤务学院	
+海军大连舰艇学院	
+海军工程大学	
+海军指挥学院	
+海军潜艇学院	
+海军职工大学	
+海军航空大学	
+海南万和信息职业技术学院	
+海南东方新丝路职业学院	Hainan Dongfang New Silk Road College
+海南体育职业技术学院	Hainan Provinclal Sports Academy / Hainan Provincial Sports Academy
+海南健康管理职业技术学院	Hainan Health Management College
+海南医学院	Hainan Medical University
+海南医科大学	Hainan Medical University
+海南卫生健康职业学院	Hainan Health Vocational College
+海南外国语职业学院	Hainan College of Foreign Studies
+海南大学	Hainan University
+海南工商职业学院	Hainan Technology and Business College
+海南师范大学	Hainan Normal University
+海南广播电视大学	
+海南开放大学	
+海南政法职业学院	Hainan Vocational College of Political Science and Law
+海南比勒费尔德应用科学大学	Hainan Bielefeld University of Applied Sciences (BiUH)
+海南热带海洋学院	Hainan Tropical Ocean University
+海南省广播电视大学	
+海南科技职业大学	Hainan Vocational University of Science and Technology
+海南经贸职业技术学院	Hainan College of Economics and Business
+海南职业技术学院	Hainan College of Vocation and Technique
+海南艺术职业学院	Hainan Vocational College of Arts
+海南软件职业技术学院	Hainan College of Software Technology
+海口旅游职业学院	Haikou Tourism College
+海口经济学院	Haikou University of economics / Haikou University of Economics
+海口经济职业技术学院	
+涟源钢铁总厂职工大学	
+淄博师范高等专科学校	Zibo Normal College
+淄博科技职业学院	
+淄博职业学院	Zibo Vocational Institute
+淮北师范大学	Huaibei Normal University
+淮北师范大学信息学院	
+淮北煤炭师范学院	
+淮北理工学院	Huaibei Institute of Technology
+淮北职业技术学院	Huaibei Vocational and Technical College
+淮南市职工大学	
+淮南师范学院	Huainan Normal University
+淮南职业技术学院	Huainan Vocational Technical College / Huainan Vocational & Technical College
+淮南联合大学	Huainan Union University
+淮阴工学院	Huaiyin Institute of Technology
+淮阴师范学院	Huaiyin Normal University
+深圳信息职业技术学院	Shenzhen Institute of Information Technology
+深圳北理莫斯科大学	Shenzhen MSU-BIT University
+深圳城市职业学院	Shenzhen City Polytechnic
+深圳大学	Shenzhen University
+深圳市广播电视大学	
+深圳广播电视大学	
+深圳开放大学	
+深圳技术大学	Shenzhen Technology University
+深圳理工大学	Shenzhen University of Advanced Technology
+深圳职业技术大学	Shenzhen Polytechnic University
+深圳职业技术学院	
+清华大学	Tsinghua University
+清远职业技术学院	Qingyuan Polytechnic
+渤海大学	Bohai University
+渤海理工职业学院	Bohai Polytechnic Vocational College
+渤海石油职业学院	Bohai Petroleum Vocational College
+渤海船舶职业学院	Bohai Shipbuilding Vocational College
+渤海船舶职业学院	Bohai Shipbuilding Vocational College
+温州医学院	
+温州医科大学	Wenzhou Medical University
+温州医科大学仁济学院	Wenzhou Medical University RenJi College / Wenzhou Medical University Renji College
+温州商学院	Wenzhou Business College
+温州大学	Wenzhou University
+温州大学城市学院	
+温州大学瓯江学院	Wenzhou University Oujiang College
+温州市工人业余大学	
+温州理工学院	Wenzhou University Oujiang College
+温州科技职业学院	Wenzhou Vocational College of Science and Technology
+温州职业技术学院	Wenzhou Polytechnic
+温州肯恩大学	Wenzhou-Kean University
+渭南师范学院	Weinan Normal University
+渭南职业技术学院	Weinan Vocational and Technical College
+湄洲湾职业技术学院	Meizhouwan Vocational Technology College
+湖北三峡职业技术学院	Hubei Three Gorges Polytechnic
+湖北中医学院	
+湖北中医药大学	Hubei University of Chinese Medicine
+湖北中医药高等专科学校	Hubei College of Chinese Medicine
+湖北交通职业技术学院	Hubei Communications Technical College
+湖北体育职业学院	Hubei Sports Vocational College
+湖北健康职业学院	Hubei Health Vocational College
+湖北兵器工业职工大学	
+湖北医药学院	Hubei University of Medicine
+湖北医药学院药护学院	Institute of Medicine and Nursing, Hubei University of Medicine
+湖北商贸学院	Hubei Business College
+湖北国土资源职业学院	Hubei Land Resources Vocational College
+湖北城市建设职业技术学院	Hubei Urban Construction Vocational and Technological College
+湖北大学	Hubei University
+湖北大学知行学院	Zhixing College of Hubei University
+湖北孝感美珈职业学院	Meiga Polytechnic Institute of Hubei
+湖北工业大学	Hubei University of Technology
+湖北工业大学工程技术学院	Hubei University of Technology Engineering and Technology College
+湖北工业职业技术学院	Hubei Industrial Polytechnic
+湖北工程学院	Hubei Engineering University
+湖北工程学院新技术学院	College of Technology, Hubei Engineering University
+湖北工程职业学院	Hubei Engineering Institute
+湖北师范大学	Hubei Normal University
+湖北师范大学文理学院	College of Arts and Science of Hubei Normal University
+湖北师范学院	
+湖北师范学院文理学院	
+湖北幼儿师范高等专科学校	Hubei Preschool Teachers College
+湖北广播电视大学	
+湖北开放大学	
+湖北开放职业学院	Hubei Open University
+湖北恩施学院	
+湖北文理学院	Hubei University of Arts and Science
+湖北文理学院理工学院	Science and Technology College of Hubei University of Arts and Science
+湖北武汉公安管理干部学院	
+湖北民族大学	Hubei Minzu University
+湖北民族大学科技学院	Science and Technology College of Hubei Minzu University
+湖北水利水电职业技术学院	Hubei Water Resources Technical College / Hubei Water Resource Technical College
+湖北汽车工业学院	Hubei University of Automotive Technology
+湖北汽车工业学院科技学院	Science and Technology College of Hubei University of Automotive Technology
+湖北理工学院	Hubei Polytechnic University
+湖北生态工程职业技术学院	Hubei Ecology Polytechnic College
+湖北生物科技职业学院	Hubei Vocational College of Bio-Technology
+湖北省广播电视大学	
+湖北省直属机关业余大学	
+湖北省纺织职工大学	
+湖北省经济管理干部学院	
+湖北科技学院	Hubei University of Science and Technology
+湖北科技职业学院	Hubei Science and Technology College
+湖北第二师范学院	Hubei University of Education
+湖北经济学院	Hubei University of Economics
+湖北经济学院法商学院	Law & Business College of Hubei University of Economics
+湖北美术学院	Hubei Institute of Fine Arts
+湖北职业技术学院	Hubei Polytechnic Institute
+湖北艺术职业学院	Hubei College of The Art / Professional Arts Institute of Hubei
+湖北警官学院	Hubei University of Police
+湖北财税职业学院	Hubei Finace & Taxation College / Hubei Finance & Taxation College
+湖北财经高等专科学校	
+湖北轻工职业技术学院	Hubei Light Industry Technology Institute
+湖北铁道运输职业学院	Hubei Vocational College of Railway Transportation
+湖北青年职业学院	Hubei Youth Vocational College
+湖北黄冈应急管理职业技术学院	Hubei Polytechnic of Emergency Management
+湖南三一工业职业技术学院	Hunan Sany Polytechnic College / Hunan Trinity Industrial Vocational and Technical College
+湖南中医药大学	Hunan University of Chinese Medicine
+湖南中医药大学湘杏学院	Xiangxing College of Hunan University of Chinese Medicine
+湖南中医药高等专科学校	Hunan Traditional Chinese Medical College
+湖南九嶷职业技术学院	Hunan Jiuyi Technical College
+湖南交通工程学院	Hunan Institute of Traffic Engineering
+湖南交通工程职业技术学院	
+湖南交通职业技术学院	Hunan Communication Polytechnic / Hunan Communication Engineering Polytechnic
+湖南人文科技学院	Hunan University of Humanities, Science and Technology
+湖南体育职业学院	Hunan Sports Vocational College
+湖南信息学院	Hunan University of Information Technology
+湖南信息科学职业学院	
+湖南信息职业技术学院	Hunan College of Information
+湖南公安高等专科学校	
+湖南兵器工业职工大学	
+湖南农业大学	Hunan Agricultural University
+湖南农业大学东方科技学院	Orient Science & Technology College of Hunan Agriculture University / Orient Science & Technology College of Hunan Agricultural University
+湖南冶金职业技术学院	Hunan Vocational and Technical College of Metallurgy
+湖南劳动人事职业学院	Hunan Labor and Human Resources Vocational College
+湖南化工职业技术学院	Hunan Chemical Vocational Technology College
+湖南医药学院	Hunan University of Medicine
+湖南司法警官职业学院	Hunan Judicial Police Vocational College
+湖南吉利汽车职业技术学院	Hunan Geely Automobile College
+湖南同德职业学院	
+湖南商务职业技术学院	Hunan Vocational College of Commerce
+湖南国防工业职业技术学院	Hunan Defense Industry Polytechnic
+湖南城市学院	Hunan City University
+湖南城建职业技术学院	Hunan Urban Construction College
+湖南外国语职业学院	Hunan College of Foreign Studies
+湖南外贸职业学院	Hunan International Business Vocational College
+湖南大众传媒职业技术学院	Hunan Mass Media Vocational and Technical College
+湖南大学	Hunan University
+湖南女子学院	Hunan Women's University
+湖南女子职业大学	
+湖南安全技术职业学院	Hunan Vocational Institute of Safety Technology / Hunan Vocational Insitute of Safety Technology
+湖南对外经济贸易职业学院	
+湖南工业大学	Hunan University of Technology
+湖南工业大学科技学院	College of Science and Technology HNUT
+湖南工业科技职工大学	
+湖南工业职业技术学院	Hunan Industry Polytechnic
+湖南工商大学	Hunan University of Technology and Business
+湖南工商大学北津学院	Hunan University of Technology and Business, College of Beijin
+湖南工商职业学院	Hunan Technology and Commerca College / Hunan Industry and Commerce Career Academy
+湖南工学院	Hunan Institute of Technology
+湖南工程学院	Hunan Institute of Engineering
+湖南工程学院应用技术学院	Applied Technology College, Hunan Institute of Engineering / Applied Technical School, Hunan Institute of Engineering
+湖南工程职业技术学院	Hunan Vocational College of Engineering
+湖南工艺美术职业学院	Hunan Arts and Crafts Vocational College
+湖南师范大学	Hunan Normal University
+湖南师范大学树达学院	Shuda College,Hunan Normal University / Shuda College, Hunan Normal University
+湖南幼儿师范高等专科学校	Hunan College for Preschool Education / Hunan College For Preschool Education
+湖南应用技术学院	Hunan Applied Technology University
+湖南开放大学	
+湖南文理学院	Hunan University of Arts and Science
+湖南文理学院芙蓉学院	Furong College, Hunan University of Science and Arts
+湖南有色金属职业技术学院	Hunan Nonferrous Metals Vocational and Technical College
+湖南有色金属职工大学	
+湖南机电职业技术学院	Hunan Mechanical Electrical Polytechnic / Hunan Mechanical & Electrical Polytechnic
+湖南民族职业学院	Hunan Vocational & Technical College for Nationalities / Hunan Vocational College For Nationalities
+湖南水利水电职业技术学院	Hunan Polytechnic of Water Resources and Electric Power
+湖南汽车工程职业大学	Hunan Automotive Engineering Vocational College
+湖南汽车工程职业学院	Hunan Automotive Engineering Vocational College
+湖南涉外经济学院	Hunan International Economics University
+湖南环境生物职业技术学院	Hunan Polytechnic of Environment and Biology / Hunan University of Environment and Biology
+湖南现代物流职业技术学院	Hunan Modern Logistics College
+湖南理工学院	Hunan Institute of Science and Technology
+湖南理工学院南湖学院	Hunan Institute of Science and Technology Nanhu College
+湖南理工职业技术学院	Hunan Vocational Institute of Technicalogy / Hunan Vocational Institute of Technology
+湖南生物与机电工程职业技术学院	
+湖南生物机电职业技术学院	Hunan Biological and Electromechanical Polytechnic / Hunan Biological Electromechanical Vocational Technical College
+湖南电子科技职业学院	Hunan Vocational College of Electronic and Technology
+湖南电气职业技术学院	Hunan Electrical College of Technology
+湖南省广播电视大学	
+湖南省第一师范学校	
+湖南石油化工职业技术学院	Hunan Petrochemical Vocational and Technical College / Hunan Petrochemical Vocational Technology College
+湖南科技大学	Hunan University of Science and Technology
+湖南科技大学潇湘学院	Xiaoxiang College, Hunan University of Science and Technology
+湖南科技学院	Hunan University of Science and Engineering
+湖南科技工业职业技术学院	
+湖南科技经贸职业学院	
+湖南科技职业学院	Hunan Vocational College of Science and Technology / Hunan Vocational College of Technology
+湖南税务高等专科学校	National Tax Institute / Hunan Tax College
+湖南第一师范学院	Hunan First Normal University
+湖南纺织职工大学	
+湖南经济管理干部学院	
+湖南网络工程职业学院	Hunan Network Engineering Vocational College
+湖南航空工业职工工学院	
+湖南艺术职业学院	Hunan Vocational College of Art
+湖南警察学院	Hunan Police Academy
+湖南财政经济学院	Hunan University of Finance and Economics
+湖南财经工业职业技术学院	Hunan Financial & Industrial Vocational-Technical College
+湖南财经高等专科学校	
+湖南软件职业学院	
+湖南软件职业学院（本科）	
+湖南软件职业技术大学	Hunan Software Vocational and Technical University
+湖南邮电职业技术学院	Hunan Post and Telecommunication College
+湖南都市职业学院	Hunan Urban Professional College
+湖南金融技术职工大学	
+湖南铁路科技职业技术学院	Hunan Vocational College of Railway Technology
+湖南铁道职业技术学院	Hunan Railway Professional Technology College
+湖南食品药品职业学院	Hunan Food and Drug Vocational College
+湖南高尔夫旅游职业学院	Hunan Golf and Tourism College
+湖南高速铁路职业技术学院	Hunan Technical College of Railway High-speed / Hunan Technical College of Railway High-Speed
+湖州学院	Huzhou University Qiuzhen College
+湖州师范学院	Huzhou University
+湖州师范学院求真学院	
+湖州职业技术学院	Huzhou Vocational & Technical College
+湘中幼儿师范高等专科学校	Xiangzhong Normal College for Preschool Education / Xiangzhong Normal College For Preschool Education
+湘南学院	Xiangnan University
+湘南幼儿师范高等专科学校	Xiangnan Preschool Education College
+湘潭医卫职业技术学院	Xiangtan Medicine & Health Vocational College / Xiangtan Medicine&Health Vocational College
+湘潭大学	Xiangtan University
+湘潭大学兴湘学院	Xingxiang College of Xiangtan University
+湘潭教育学院	
+湘潭理工学院	Xiangtan Polytechnic University
+湘潭科技职业学院	Xiangtan Vocational College of Science and Technology
+湘潭职业技术学院	
+湘西民族教师进修学院	
+湘西民族职业技术学院	Xiangxi Vocational and Technical College for Nationalities / Xiangxi Vocational and Technical College For Nationalities
+湛江市业余大学	
+湛江师范学院	
+湛江幼儿师范专科学校	Zhanjiang Preschool Education College
+湛江教育学院	
+湛江现代科技职业学院	
+湛江科技学院	Zhanjiang University of Science and Technology
+滁州城市职业学院	Chuzhou City Vocation College / Chuzhou City Vocation Academy
+滁州学院	Chuzhou University
+滁州职业技术学院	Chuzhou Polytechnic
+滇池学院	
+滇西应用技术大学	West Yunnan University of Applied Sciences
+滇西科技师范学院	West Yunnan University
+满洲里俄语职业学院	Manzhouli Russian Language Vocational Institute / Manzhouli Russian Vocational College
+滨州医学院	Binzhou Medical University
+滨州学院	Binzhou University
+滨州科技职业学院	Binzhou College of Science and Technology
+滨州职业学院	Binzhou Polytechnic
+漯河医学高等专科学校	Luohe Medical College
+漯河职业技术学院	Luohe Vocational Technology College
+漯河食品工程职业大学	Luohe Vocationl College of Food
+漯河食品职业学院	Luohe Vocational College of Food
+漳州卫生职业学院	Zhangzhou Health Vocational College
+漳州吉马印刷职业技术学院	
+漳州城市职业学院	Zhangzhou City College
+漳州天福茶职业技术学院	
+漳州师范学院	
+漳州理工职业学院	Zhangzhou Institute of Science & Technology
+漳州科技职业学院	Zhangzhou College of Science & Technology / Zhangzhou College of Science ＆ Technology
+漳州职业技术学院	Zhangzhou Institute of Technology
+潇湘职业学院	Loudi Xiaoxiang Vocational College / Xiaoxiang Vocational College
+潍坊医学院	Weifang Medical University
+潍坊学院	Weifang University
+潍坊工商职业学院	Weifang Business Vocational College
+潍坊工程职业学院	Weifang Engineering Vocational College
+潍坊护理职业学院	Weifang Nursing Vocational College
+潍坊教育学院	
+潍坊环境工程职业学院	Weifang Environmental Engineering Vocational College
+潍坊理工学院	Weifang Institute of Technology / Weifeng Institute of Technology
+潍坊科技学院	Weifang University of Science and Technology
+潍坊科技职业学院	
+潍坊职业学院	Weifang Vocational College
+潍坊食品科技职业学院	Weifang Vocational College of Food Science and Technology
+潞安职业技术学院	Lu'An Vocational and Technical College
+潮汕职业技术学院	Chaoshan Vocational and Technical College
+濮阳医学高等专科学校	Puyang Medical College / Puyang Medicai College
+濮阳石油化工职业技术学院	Puyang Petrol-chemical Vocational Technical College / Puyang Petrochemical Vocational and Technical College
+濮阳科技职业学院	Puyang Vocational College of Science and Technology
+濮阳职业技术学院	Puyang Vocational and Technical College
+火箭军工程大学	
+火箭军指挥学院	
+炎黄职业技术学院	Yanhuang Technological College
+烟台南山学院	Yantai Nanshan University
+烟台卫生健康职业学院	Yantai Health Vocational College
+烟台城市科技职业学院	Yantai City College of Science and Technology
+烟台大学	Yantai University
+烟台大学文经学院	Wenjing College, Yantai University
+烟台工程职业技术学院	Yantai Engineering and Technology College
+烟台幼儿师范高等专科学校	Yantai Preschool Education College
+烟台教育学院	
+烟台文化旅游职业学院	Yantai Vocational College of Culture and Tourism
+烟台汽车工程职业学院	Yantai Automobile Engineering Professional College
+烟台理工学院	Yantai institute of Technology
+烟台科技学院	
+烟台职业学院	Yantai Vocational College
+烟台黄金职业学院	Yantai Gold College
+焦作大学	Jiaozuo University
+焦作工贸职业学院	Jiaozuo College of Industry and Trade
+焦作师范高等专科学校	Jiaozuo Teachers College / Jiaozuo Normal College
+焦作新材料职业学院	Jiaozuo Vocational College of New Materials
+焦作职工医学院	
+燕京理工学院	Yanching Institute of Technology
+燕山大学	Yanshan University
+燕山大学里仁学院	LiRen College, Yanshan University / Liren College, Yanshan University
+牡丹江医学院	Mudanjiang Medical University
+牡丹江医科大学	Mudanjiang Medical University
+牡丹江大学	Mudanjiang University
+牡丹江市教育学院	
+牡丹江师范学院	Mudanjiang Normal University
+玉林师范学院	Yulin Normal University
+玉林职业技术学院	Yulin Vocational and Technical College
+玉柴职业技术学院	Yuchai Vocational & Technical College
+玉溪农业职业技术学院	Yuxi Agriculture Vocation-Technical College
+玉溪师范学院	Yuxi Normal University
+玉溪职业技术学院	Yuxi Vocational and Technical College
+珠海城市职业技术学院	Zhuhai City Polytechnic
+珠海格力职业学院	Zhuhai Gree Polytechnic
+珠海科技学院	
+珠海艺术职业学院	Zhuhai Art College
+琼台师范学院	Qiongtai Normal University
+琼台师范高等专科学校	
+琼州学院	
+甘孜职业学院	Gan Zi Zhi Ye Xue Yuan
+甘肃中医学院	
+甘肃中医药大学	Gansu University of Chinese Medicine
+甘肃交通职业技术学院	Gansu Vocational and Technical College of Communications
+甘肃农业大学	Gansu Agricultural University
+甘肃农业职业技术学院	Gansu Agriculture Technology College / Gansu Vocational College of Agricultural
+甘肃医学院	Gansu Medical College
+甘肃卫生职业学院	Gansu Health Vocational College
+甘肃工业职业技术学院	Gansu Industry Polytechnic College
+甘肃广播电视大学	
+甘肃建筑职业技术学院	Gansu Vocational College of Architecture
+甘肃开放大学	
+甘肃政法大学	Gansu University of Political Science and Law
+甘肃有色冶金职业技术学院	Gansu Vocational & Technical College of Nonferrous Metallurgy
+甘肃机械电子职工大学	
+甘肃机电职业技术学院	Gansu Institute of Mechanical & Electrical Engineering
+甘肃林业职业技术大学	Gansu Forestry Technological College
+甘肃林业职业技术学院	Gansu Forestry Polytechnic
+甘肃核工业职工大学	
+甘肃民族师范学院	Gansu Normal College for Nationalities / Gansu Normal University for Nationalities
+甘肃畜牧工程职业技术学院	Gansu Polytechnic College of Animal Husbandry & Engineering
+甘肃省广播电视大学	
+甘肃联合大学	
+甘肃能源化工职业学院	
+甘肃警察学院	Gansu Police Vocational College
+甘肃警察职业学院	Gansu Police Vocational College
+甘肃财贸职业学院	Gansu Vocational College of Finance and Trade / Gansu Finance and Trade Professional College
+甘肃钢铁职业技术学院	Gansu Iron and Steel Vocational Technical College
+电子科技大学	University of Electronic Science and Technology of China
+电子科技大学中山学院	University of Electronic Science and Technology of China Zhongshan Institute / University of Electronic Science and Technology of China, Zhongshan Institute
+电子科技大学成都学院	Chengdu College of University of Electronic Science and Technology of China / Chengdu college of University of Electronic Science and Technology of china
+番禺职业技术学院	
+白城医学高等专科学校	Baicheng Medical College
+白城师范学院	Baicheng Normal University
+白城职业技术学院	Baicheng Vocational and Technical College
+白银希望职业技术学院	Baiyin Hope Vocational and Technical College
+白银有色金属公司职工大学	
+白银矿冶职业技术学院	Baiyin Vocational College of Mining and Metallurgy / Baiyin Vocational College of Mining and Metalurgy
+百色学院	Baise University
+百色职业学院	Baise Vocational College
+皖北卫生职业学院	North Anhui Health Vocational College
+皖南医学院	Wannan Medical College
+皖江工学院	Wanjiang University of Technology
+皖西卫生职业学院	West Anhui Health Vocational College
+皖西学院	West Anhui University
+益阳医学高等专科学校	Yiyang Medical College
+益阳师范高等专科学校	Yiyang Normal College
+益阳教育学院	
+益阳职业技术学院	Yiyang Vocational & Technical College
+盐城农业科技职业学院	Yancheng Agricultural College
+盐城卫生职业技术学院	
+盐城工业职业技术学院	Yancheng Polytechnic College
+盐城工学院	Yancheng Institute of Technology
+盐城师范学院	Yancheng Teachers University
+盐城幼儿师范高等专科学校	Yancheng Kindergarten Teachers College
+盐城纺织职业技术学院	
+盘锦职业技术学院	Panjin Vocational and Technical College
+眉山职业技术学院	Meishan Vocational and Technical College
+眉山药科职业学院	Meishan Pharmaceutical College
+石嘴山工贸职业技术学院	Shizuishan Industry and Trade Vocational College / Shizuishan Institute of Industry and Trade
+石家庄东方美术职业学院	
+石家庄人民医学高等专科学校	Shijiazhuang People 's Medical College / Shijiazhuang People'S Medical College
+石家庄信息工程职业学院	Shijiazhuang Information Engineering Vocational College
+石家庄医学高等专科学校	Shijiazhuang Medical College
+石家庄城市经济职业学院	Shijiazhuang Vocational College of City Economy
+石家庄城市职业学院	
+石家庄外事职业学院	
+石家庄外国语职业学院	
+石家庄外经贸职业学院	
+石家庄外语翻译职业学院	
+石家庄学院	Shijiazhuang University
+石家庄工商职业学院	Shijiazhuang Vocational College of Industry and Commerce
+石家庄工程职业学院	Shijiazhuang Engineering Vocational College
+石家庄幼儿师范高等专科学校	Shijiazhuang Preschool Teachers College
+石家庄法商职业学院	
+石家庄理工职业学院	Shijiazhuang Institute of Technology
+石家庄科技信息职业学院	Shijiazhuang Vocational College of Technology & Information
+石家庄科技工程职业学院	
+石家庄科技职业学院	Shijiazhuang Science and Technology Career Academy
+石家庄经济学院	
+石家庄经济学院华信学院	
+石家庄经济职业学院	Shijiazhuang Economic Vocational College / Shijiazhuang Vocational College of Economics
+石家庄职业技术学院	Shijiazhuang University of Applied Technology
+石家庄职工大学	
+石家庄联合技术职业学院	
+石家庄计算机职业学院	
+石家庄财经职业学院	Shijiazhuang Vocational College of Finance & Economics
+石家庄邮电职业技术学院	Shijiazhuang Post and Telecommunications Technical College / Shijiazhuang Posts and Telecommunications Technical College
+石家庄铁路职业技术学院	Shijiazhuang Institute of Railway Technology
+石家庄铁道大学	Shijiazhuang Tiedao University
+石家庄铁道大学四方学院	Shijiazhuang Tiedao University Sifang College
+石家庄铁道学院	
+石河子大学	Shihezi University
+石河子大学科技学院	College of Science & Technology Shihezi University
+石河子工程职业技术学院	Shihezi Engineering Technical College / Shihezi Vocational and Technical College of Engmeering
+石油物探职工大学	
+硅湖职业技术学院	Silicon Lake College
+磨料磨具工业职工大学	
+神木职业技术学院	Shenmu Vocational & Technical College
+福州墨尔本理工职业学院	Fuzhou Melbourne Polytechnic
+福州外语外贸学院	Fuzhou University of International Studies and Trade / Fuzhou University of Foreign Studies and Trade
+福州外语外贸职业技术学院	
+福州大学	Fuzhou University
+福州大学至诚学院	Fuzhou University Zhicheng College
+福州工商学院	Fuzhou Technology and Business University / Fuzhou Technology and Business College
+福州教育学院	
+福州海峡职业技术学院	
+福州理工学院	Fuzhou Institute of Technology
+福州科技职业技术学院	Fuzhou Science and Technology College
+福州职业技术学院	Fuzhou Polytechnic
+福州英华职业学院	Anglo-Chinese College
+福州软件职业技术学院	Fuzhou Software Technical Vocational College / Fuzhou Software Technology Vocational College
+福州黎明职业技术学院	Fujian Liming Vocational ＆ Technical College / Fuzhou Liming Vocational & Technical College
+福建中医学院	
+福建中医药大学	Fujian University of Traditional Chinese Medicine
+福建交通职业技术学院	
+福建体育职业技术学院	Fujian Sports Vocational Education and Technical College
+福建信息职业技术学院	Fujian Polytechnic of Information Technology
+福建农业职业技术学院	Fujian Vocational College of Agriculture
+福建农林大学	Fujian Agriculture and Forestry University
+福建农林大学金山学院	Jinshan College of Fujian Agriculture and Forestry University
+福建医科大学	Fujian Medical University
+福建华南女子职业学院	Fujian Hwa Nan Women'S College / Fujian Huanan Women's College
+福建卫生职业技术学院	Fujian Health College
+福建商业高等专科学校	
+福建商学院	Fujian Business University
+福建对外经济贸易职业技术学院	Fujian Business University
+福建工程学院	
+福建师范大学	Fujian Normal University
+福建师范大学协和学院	Concord University College Fujian Normal University
+福建幼儿师范高等专科学校	Fujian Preschool Education College
+福建开放大学	
+福建技术师范学院	Fujian Polytechnic Normal University
+福建政法管理干部学院	
+福建教育学院	
+福建林业职业技术学院	Fujian Forestry Vocational Technical College / Fujian Forestry Vocational & Technical College
+福建水利电力职业技术学院	Fujian College of Water Conservancy and Electric Power
+福建江夏学院	Fujian Jiangxia University
+福建理工大学	Fujian University of Technology
+福建生物工程职业技术学院	Fujian Vocational College of Bioengineering / Fujian Vocational College of Bio-Engineering
+福建电力职业技术学院	Fujian Electric Power Technical College
+福建省广播电视大学	
+福建省漳州业余大学	
+福建经济管理干部学院	
+福建职工大学	
+福建船政交通职业学院	Fujian Chuanzheng Communications College
+福建艺术职业学院	Fujian Vocational College of Art / Fujian Art Vocational College
+福建警官职业学院	
+福建警察学院	Fujian Police College
+福建财会管理干部学院	
+福建金融职业技术学院	
+私立华联学院	Private Hualian University / Private Hualian College
+科尔沁艺术职业学院	Horqin Vocational College of Art
+秦皇岛外国语职业学院	
+秦皇岛工业职业技术学院	Qinhuangdao Polytechnic Institute
+秦皇岛教育学院	
+秦皇岛职业技术学院	Qinhuangdao Vocational and Technical College
+空军军医大学	
+空军勤务学院	
+空军哈尔滨飞行学院	
+空军工程大学	
+空军指挥学院	
+空军石家庄飞行学院	
+空军第一职工大学	
+空军第四职工大学	
+空军航空大学	
+空军西安飞行学院	
+空军预警学院	
+第一拖拉机制造厂拖拉机学院	
+第五冶金建设公司职工大学	
+紫琅职业技术学院	
+红光电子管厂职工大学	
+红河卫生职业学院	Honghe Health Vocational College
+红河学院	Honghe University
+红河职业技术学院	Honghe Vocational and Technical College
+绍兴托普信息职业技术学院	
+绍兴文理学院	Shaoxing University
+绍兴文理学院元培学院	Shaoxing University Yuanpei College
+绍兴职业技术学院	Shaoxing Vocational & Technical College
+绍兴越秀外国语职业学院	
+绥化学院	Suihua University
+绥化市教育学院	
+绵阳城市学院	Yunnan Normal University Business School
+绵阳师范学院	Mianyang Teachers' College
+绵阳职业技术学院	Mianyang Polytechnic
+绵阳飞行职业学院	Vocational Flight College of Mianyang
+罗定职业技术学院	Luoding Polytechnic
+聊城大学	Liaocheng University
+聊城大学东昌学院	Liaocheng University Dongchang College
+聊城职业技术学院	Liaocheng Vocational and Technical College
+肇庆医学院	Zhaoqing Medical College
+肇庆医学高等专科学校	Zhaoqing Medical College
+肇庆学院	Zhaoqing University
+肇庆工商职业技术学院	
+肇庆科技职业技术学院	
+自贡职业技术学院	Zigong Vocational and Technical College
+芜湖信息技术职业学院	
+芜湖医药健康职业学院	Wuhu Vocational College of Medical and Health
+芜湖学院	
+芜湖职业技术学院	Wuhu Institute of Technology
+芜湖航空职业学院	Wuhu Aviation Vocational College
+苏州信息职业技术学院	Suzhou College of Information Technology
+苏州健雄职业技术学院	Suzhou Chien-Shiung Institute of Technology
+苏州农业职业技术学院	Suzhou Polytechnic Institute of Agriculture
+苏州卫生职业技术学院	Suzhou Vocational Health College
+苏州城市学院	
+苏州大学	Soochow University
+苏州大学应用技术学院	Applied Technology College of Soochow University
+苏州大学文正学院	
+苏州工业园区服务外包职业学院	Suzhou Industrial Park Institute of Services Outsourcing / Suzhou Industrial Park Institute of Service Outsourcing
+苏州工业园区职业技术学院	Suzhou Industrial Park Institute of Vocational Technology
+苏州工业职业技术学院	Suzhou Vocational Institute of Industrial Technology
+苏州工艺美术职业技术学院	Suzhou Art & Design Technology Institute / Suzhou Art&Design Technology Institute
+苏州市职业大学	Suzhou Vocational University
+苏州幼儿师范高等专科学校	Suzhou Early Childhood Education College
+苏州托普信息职业技术学院	Suzhou Top Institute of Information Technology
+苏州港大思培科技职业学院	
+苏州百年职业学院	Suzhou Centennial College
+苏州科技大学	Suzhou University of Science and Technology
+苏州科技大学天平学院	Tianping College of Suzhou University of Science and Technology
+苏州科技学院	
+苏州科技学院天平学院	
+苏州经贸职业技术学院	Suzhou Institute of Trade&Commerce / Suzhou Institute of Trade & Commerce
+苏州高博职业学院	Global Institute of Software Technology
+苏州高博软件技术职业学院	Global Institute of Software Technology
+茂名学院	
+茂名职业技术学院	Maoming Polytechnic
+茅台学院	Moutai Institute
+荆州学院	Yangtze University College ofTechnology & Engineering
+荆州教育学院	
+荆州理工职业学院	Jingzhou Vocational College of Technology
+荆州职业技术学院	Jingzhou Institute of Technology
+荆楚理工学院	Jingchu University of Technology
+荆门职业学院	Jingmen Vocational College
+荆门通用航空职业技术学院	Jingmen Technical College of General Aviation
+莆田学院	Putian University
+莱芜职业技术学院	Laiwu Vocational and Technical College
+菏泽医学专科学校	Heze Medical College
+菏泽学院	Heze University
+菏泽家政职业学院	Heze Jia Zheng Vocational College / Heze Jiazheng Vocational College
+菏泽职业学院	Heze Vocational College
+萍乡卫生职业学院	Pingxiang Health Vocational College
+萍乡学院	Pingxiang University
+萍乡高等专科学校	
+营口理工学院	YingKou Institute of Technology / Yingkou Institute of Technology
+营口职业技术学院	Yingkou Vocational and Technical College / Yingkou Vocational andtechnical College
+蚌埠医学院	Bengbu Medical College
+蚌埠医科大学	Bengbu Medical University
+蚌埠城市轨道交通职业学院	Bengbu College of Urban Rail Transit
+蚌埠学院	Bengbu University
+蚌埠工商学院	Bengbu College of Technology and Business
+蚌埠经济技术职业学院	Bengbu Institute of Business and Technology
+衡水健康科技职业学院	Hengshui Health Technology
+衡水学院	Hengshui University
+衡水职业技术学院	Hengshui College of Vocational and Technology / Hengshui College of Vocational Technology
+衡阳工业职工大学	
+衡阳师范学院	Hengyang Normal University
+衡阳师范学院南岳学院	Nanyue College of Hengyang Normal University
+衡阳幼儿师范高等专科学校	Hengyang Preschool Normal College / Hengyang Preschool Education College
+衡阳有色冶金职工大学	
+衡阳科技职业学院	Hengyang Vocational College of Science and Technology
+衡阳财经工业职业技术学院	
+衢州学院	Quzhou University
+衢州职业技术学院	Quzhou College of Technology
+襄樊学院	
+襄樊职业技术学院	
+襄阳汽车职业技术学院	Xiangyang Auto Vocational Technical College
+襄阳科技职业学院	Xiangyang Vocational College of Science and Technology
+襄阳职业技术学院	Xiangyang Vocational and Technical College
+西交利物浦大学	Xi'an Jiaotong-Liverpool University
+西京学院	Xijing University
+西北农林科技大学	Northwest A&F University / Northwest A & F University
+西北大学	Northwest University
+西北大学现代学院	Modern College of Northwest University
+西北工业大学	Northwestern Polytechnical University
+西北工业大学明德学院	Northwestern Polytechnical University Ming De College
+西北师范大学	Northwest Normal University
+西北师范大学知行学院	
+西北政法大学	Northwest University of Political Science and Law
+西北民族大学	Northwest Minzu University
+西北电业职工大学	
+西北第二民族学院	
+西华大学	Xihua University
+西华师范大学	China West Normal University
+西南交通大学	Southwest Jiaotong University
+西南交通大学希望学院	Southwest Jiaotong University Hope College
+西南医科大学	Southwest Medical University
+西南大学	Southwest University
+西南政法大学	Southwest University of Political Science and Law
+西南林业大学	Southwest Forestry University
+西南林学院	
+西南民族大学	Southwest Minzu University
+西南石油大学	Southwest Petroleum University
+西南科技大学	Southwest University of Science and Technology
+西南科技大学城市学院	
+西南财经大学	Southwestern University of Finance and Economics
+西南财经大学天府学院	Tianfu College of SWUFE / Tianfu College of Swufe
+西双版纳职业技术学院	Xishuangbanna Vocational and Technical College
+西宁城市职业技术学院	Xining Urban Vocational & Technical College / Xining Urban Vocation & Technical College
+西安三资职业学院	
+西安交通大学	Xi'an Jiaotong University
+西安交通大学城市学院	Xi'an Jiaotong University City College
+西安交通工程学院	Xi'an Traffic Engineering Institute
+西安体育学院	Xi'an Physical Education University
+西安信息职业大学	Xi’an Vocational University of Information / Xi'an Vocational University of Information
+西安健康工程职业学院	Xi'an Health Engineering Vocational College / Xi'An Health Engineering Voctional College
+西安医学院	Xi'an Medical University
+西安医学高等专科学校	Xi’An Medical College / Xi'an Medical College
+西安城市建设职业学院	Xi'An Urban Architectural College / Xi'an Urban Architectural College
+西安培华学院	Xi'an Peihua University
+西安外事学院	Xi'an International University
+西安外国语大学	Xi'an International Studies University
+西安外贸职工大学	
+西安工业大学	Xi'an Technological University
+西安工业大学北方信息工程学院	Xi'an University of Technological Information
+西安工商学院	Shandong University of Science and Technology / Xi'an Technology and Business College
+西安工程大学	Xi'an Polytechnic University
+西安市广播电视大学	
+西安市职工大学	
+西安建筑科技大学	Xi'an University of Architecture and Technology
+西安建筑科技大学华清学院	Xi'an University of Architecture and Technology Huaqing College / Xian University of Architecture and Technology Huaqing College
+西安开放大学	
+西安思源学院	Xi'an Siyuan University
+西安思源职业学院	
+西安文理学院	Xi'an University
+西安明德理工学院	Henan University Minsheng College / Xi'an Mingde Institute of Technology
+西安欧亚学院	Xi'an Eurasia University
+西安汽车职业大学	Xi'an Vocational University of Automobile
+西安海棠职业学院	Xi`An Haitang Vocational College / Xi'an Haitang Vocational College
+西安理工大学	Xi'an University of Technology
+西安理工大学高科学院	The Hi-Tech College of Xi'an University of Technology / The Hi-tech College of Xi'an University of Technology
+西安电力机械制造公司机电学院	
+西安电力高等专科学校	Xian Electric Power College / Xi'an Electric Power College
+西安电子科技大学	Xidian University
+西安电子科技大学长安学院	Chang'an College of Xidian University
+西安石油勘探仪器总厂职工大学	
+西安石油大学	Xi'an Shiyou University
+西安科技商贸职业学院	
+西安科技大学	Xi'an University of Science and Technology
+西安科技大学高新学院	Xi'an Kedagaoxin University
+西安美术学院	Xi'an Academy of Fine Arts
+西安翻译学院	Xi'an FanYi University / Xi'an Fanyi University
+西安职业技术学院	Xi’An Vocational and Technical College / Xi'an Vocational and Technical College
+西安航空学院	Xi'an Aeronautical University
+西安航空技术高等专科学校	
+西安航空职业技术学院	Xi'An Aeronautical Polytechnic Institute / Xi'an Aeronautical Polytechnic Institute
+西安航空职工大学	
+西安财经大学	Xi’an University of Finance and Economics / Xi'an University of Finance and Economics
+西安财经大学行知学院	Xingzhi College of Xi’an University of Finance and Economics / Xing Zhi College of Xi'an University of Finance and Economics
+西安邮电大学	Xi'an University of Posts and Telecommunications
+西安邮电学院	
+西安铁路工程职工大学	
+西安铁路职业技术学院	Xi'an Railway Vocational and Technical Institute
+西安音乐学院	Xi'an Conservatory of Music / Xi'an conservatory of music
+西安飞机工业公司职工工学院	
+西安高新科技职业学院	Xi'An High-Tech University / Xi'an High-tech University
+西昌医学高等专科学校	Xichang Medical College
+西昌学院	Xichang College
+西昌民族幼儿师范高等专科学校	Xichang Minzu Preschool Normal College
+西湖大学	Westlake University
+西藏农牧学院	Tibet Agriculture and Animal Husbandry University
+西藏大学	Tibet University
+西藏民族大学	Tibet University for Nationalities / Xizang Minzu University
+西藏民族学院	
+西藏职业技术学院	Tibet Vocational and Technical College / Tibet Vocational Technical College
+西藏藏医药大学	University of Tibetan Medicine / Tibetan Traditional Medical College
+西藏警官高等专科学校	Tibet Police Academy / Tibet Police College
+许昌学院	Xuchang University
+许昌电气职业学院	Xuchang Electrical Vocational College / Xuchang Electric Vocational College
+许昌职业技术学院	Xuchang Vocational Technical College
+许昌陶瓷职业学院	Xuchang Vocational College of Ceramic / Xuchang Ceramics Vocational College
+豫章师范学院	Yuzhang Normal University
+贵州中医药大学	Guizhou University of Traditional Chinese Medicine
+贵州中医药大学时珍学院	Shizhen College of Guizhou University of Traditional Chinese Medicine
+贵州亚泰职业学院	
+贵州交通职业大学	Guizhou Communication Vocational College
+贵州交通职业技术学院	Guizhou Communications Polytechnic
+贵州传媒职业学院	Guizhou Media Vocational College
+贵州体育职业学院	Guizhou Vocational College of Sports
+贵州健康职业学院	Guizhou Health Vocational College / Guzhou College of Health Prodessions
+贵州农业职业学院	Guizhou Vocational College of Agriculture
+贵州医科大学	Guizhou Medical University
+贵州医科大学神奇民族医药学院	Shenqi Ethnic Medicine College of Guizhou Medical University / ShenQi Ethnic Medicine College of Guizhou Medical University
+贵州商业高等专科学校	
+贵州商学院	Guizhou University of Commerce
+贵州城市职业学院	Guizhou City Vocational College
+贵州大学	Guizhou University
+贵州大学明德学院	
+贵州大学科技学院	The college of Science and Technolegy of Guizhou University
+贵州工业职业技术学院	Guizhou Industry Polytechnic College
+贵州工商职业学院	Guizhou Vocational College of Indestry & Commerce / Guizhou Vocational College of Industry & Commerce
+贵州工程应用技术学院	Guizhou University of Engineering Science
+贵州工程职业学院	Guizhou Engineering Vocational College
+贵州工贸职业学院	Guizhou Vocational College of Industry and Trade
+贵州师范大学	Guizhou Normal University
+贵州师范大学求是学院	
+贵州师范学院	Guizhou Education University / Guizhou Normal College
+贵州广播电视大学	
+贵州应用技术职业学院	Guizhou Vocational Institute of Technology
+贵州建设职业技术学院	Guizhou Polytechnic of Construction
+贵州开放大学	
+贵州护理职业技术学院	Guizhou Nursing Vocational College
+贵州教育学院	
+贵州文化旅游职业学院	Guizhou Vocational College of Culture and Tourism
+贵州机械工业职工大学	
+贵州机电职业技术学院	Guizhou Technological College of Machinery and Electricity
+贵州民族大学	Guizhou Minzu University
+贵州民族大学人文科技学院	
+贵州民族学院	
+贵州民用航空职业学院	Guizhou Civil Aviation Vocational College
+贵州水利水电职业技术学院	Guizhou Vocational and Technical College of Water Resources and Hydropower
+贵州理工学院	Guizhou Institute of Technology
+贵州理工职业技术学院	
+贵州生态能源职业学院	Guizhou Ecological Energy Vocational College
+贵州电力职业技术学院	Guizhou Electric Power Vocational and Technical College / Guizhou Electric Power Vocational Technology College
+贵州电子信息职业技术学院	Guizhou Vocational Technology College of Electronics & Information
+贵州电子商务职业技术学院	Guizhou Electronic Commerce Vocational College
+贵州电子科技职业学院	Guizhou College of Electronic Science and Technology / Guizhou Electronic Technology College
+贵州盛华职业学院	Guizhou Forerunner College
+贵州科技工程职业学院	
+贵州经贸职业技术学院	Guizhou Vocational and Technical College of Economics and Trade / Guizhou Vocational College of Economics and Business
+贵州职业技术学院	Guizhou Vocational Technology Institute
+贵州航天职业技术学院	Guizhou Aerospace Vocational and Technical College
+贵州航空工业职工大学	
+贵州航空职业技术学院	Guizhou Aviation Vocational and Technical College / Guizhou Aerospace Vocational and Technical College
+贵州装备制造职业学院	Guizhou Equipment Manufacturing Vocational College
+贵州警官职业学院	
+贵州警察学院	Guizhou Police College
+贵州财经大学	Guizhou University of Finance and Economics
+贵州财经大学商务学院	Business College of Guizhou University of Finance and Economics
+贵州财经学院	
+贵州财经职业学院	Guizhou Vocational College of Finance and Economics
+贵州轻工职业技术学院	Guizhou Institute of Light Industry / Guizhou Light Industry Technical College
+贵州铜仁数据职业学院	Guizhou Tongren Data Vocational College
+贵州铝厂职工大学	
+贵州食品工程职业学院	Guizhou Vocational College of Foodstuff Engineering
+贵州黔南科技学院	Lijiang College
+贵州黔南经济学院	
+贵港职业学院	
+贵阳人文科技学院	
+贵阳信息科技学院	
+贵阳医学院	
+贵阳学院	Guiyang University
+贵阳幼儿师范高等专科学校	Guiyang Preschool Educatlon College / Guiyang Preschool Education College
+贵阳康养职业大学	Guiyang Nursing Vocational College
+贵阳护理职业学院	
+贵阳职业技术学院	Guiyang Vocational and Technical College
+贺州学院	Hezhou University
+资阳口腔职业学院	Ziyang College of Dental Technology
+资阳环境科技职业学院	Ziyang College of Environmental Science and Techology / Ziyang College of Environmental Science and Technology
+赣东学院	East China Institute of Technology
+赣东职业技术学院	Gandong Vocational and Technical College
+赣南医学院	Gannan Medical University
+赣南医科大学	Gannan Medical University
+赣南卫生健康职业学院	Gannan Healthcare Vocational College / Gannan Health Vocational College
+赣南师范大学	Gannan Normal University
+赣南师范大学科技学院	Science and Technology College Gannan Normal University
+赣南师范学院	
+赣南师范学院科技学院	
+赣南教育学院	
+赣南科技学院	College of Applied Science
+赣州师范高等专科学校	Ganzhou Teachers College
+赣州职业技术学院	Ganzhou Polytechnic
+赣西科技职业学院	Ganxi Vocational Institute of Science & Technology / Ganxi Vocational Institue of Science & Technology
+赤峰学院	Chifeng University
+赤峰工业职业技术学院	Chifeng Industrial Vocational Technical College / Chifeng Industry Vocational Technology College
+赤峰应用技术职业学院	Chifeng Vocational College of Applied Technology / Chifeng Vocational Institute of Applied Technology
+赤峰职业技术学院	Chifeng College of Vocation and Technology
+辽东学院	Eastern Liaoning University
+辽宁中医药大学	Liaoning University of Traditional Chinese Medicine
+辽宁中医药大学杏林学院	Liaoning University of Traditional Chinese Medicine Xinglin College / Xinglin College of Liaoning University of Traditional Chinese Medicine
+辽宁交通高等专科学校	
+辽宁传媒学院	Liaoning Communication University
+辽宁体育运动职业技术学院	Liaoning Vocational and Technical College of Sports
+辽宁何氏医学院	He University
+辽宁信息职业技术学院	
+辽宁公安司法管理干部学院	
+辽宁兵器工业职工大学	
+辽宁农业职业技术学院	Liaoning Agricultural Technical College / Liaoning Agricultural College
+辽宁冶金职业技术学院	Liaoning Metallurgical Vocational Technical College
+辽宁冶金职工大学	
+辽宁医学院	
+辽宁医学院医疗学院	
+辽宁医药职业学院	Liaoning Vocational College of Medicine
+辽宁卫生职业技术学院	
+辽宁商贸职业学院	Liaoning Vocational College of Business
+辽宁地质工程职业学院	Liaoning Geology Engineering Vocational College
+辽宁城市建设职业技术学院	Liaoning Urban Construction Technical College
+辽宁大学	Liaoning University
+辽宁对外经贸学院	Liaoning University of International Business and Economics / Liaoning University of International Business
+辽宁工业大学	Liaoning University of Technology
+辽宁工程技术大学	Liaoning Technical University
+辽宁工程职业学院	Liaoning Engineering Vocational College
+辽宁师范大学	Liaoning Normal University
+辽宁师范大学海华学院	Liaoning Normal University Haihua College / Haihua College, Liaoning Normal University
+辽宁师范高等专科学校	Liaoning Teachers College / Liaoning Normal College
+辽宁广告职业学院	Liaoning Advertising Vocational College
+辽宁广播电视大学	
+辽宁建筑职业学院	Liaoning Jianzhu Vocational College
+辽宁建筑职业技术学院	
+辽宁开放大学	
+辽宁政法职业学院	Liaoning Administraters College of Police and Justice / Liaoning Vocational College of Political Science and Law
+辽宁文化艺术职工大学	
+辽宁机电职业技术学院	Liaoning Mechatronics College
+辽宁民族师范高等专科学校	Liaoning National Normal College
+辽宁水利职业学院	
+辽宁特殊教育师范高等专科学校	Liaoning Special Education Teachers College
+辽宁现代服务职业技术学院	Liaoning Vocational Technical College of Modern Service / Liaoning Vocational and Technical College of Modern Service
+辽宁理工学院	Liaoning Institute of Science and Engineering
+辽宁理工职业大学	Liaoning Vocational University of Technology
+辽宁生态工程职业学院	Liaoning Vocational College of Ecological Engineering
+辽宁省交通高等专科学校	Liaoning Provincial College of Communications
+辽宁省直属机关职工大学	
+辽宁石化职业技术学院	Liaoning Petrochemical College
+辽宁石油化工大学	Liaoning Shihua University / Liaoning Petrochemical University
+辽宁石油化工大学顺华能源学院	
+辽宁科技大学	University of Science and Technology Liaoning
+辽宁科技大学信息技术学院	
+辽宁科技学院	Liaoning Institute of Science and Technology
+辽宁税务高等专科学校	Liaoning College of Taxation
+辽宁经济职业技术学院	Liaoning Economy Vocational and Technical College / Liaoning Vocational and Technical College of Economics
+辽宁美术职业学院	
+辽宁职业学院	Liaoning Vocational College
+辽宁装备制造职业技术学院	Liaoning Equipment Manufacturing Vocational and Technical College
+辽宁警官高等专科学校	
+辽宁警察学院	Liaoning Police College
+辽宁财贸学院	Liaoning Finance and Trade College
+辽宁财贸职工大学	
+辽宁轨道交通职业学院	Guidao Jiaotong Polytechnic Institute
+辽宁轻工职业学院	Liaoning Vocational College of Light Industry
+辽宁轻工职工大学	
+辽宁金融职业学院	Liaoning Finance Vocational College
+辽宁铁道职业技术学院	Liaoning Railway Vocational and Technical College
+辽河石油职业技术学院	Liaohe Petroleum Career Technical College / Liaohe Petroleum Vocational Technology College
+辽源职业技术学院	Liao Yuan Vocational Technical College / Liaoyuan Vocational Technical College
+辽阳职业技术学院	Liaoyang Vocational College of Technology
+达州中医药职业学院	Dazhou Vocational College of Chinese Medicine
+达州职业技术学院	Dazhou Vocational and Technical College / Dazhou Vocational and Technial College
+运城学院	Yuncheng University
+运城师范高等专科学校	Yuncheng Advanced Normal College
+运城幼儿师范高等专科学校	Yuncheng Higher Polytechnic College for Preschool Teachers / Yuncheng Preschool Education College
+运城护理职业学院	Yuncheng Vocational Nursing College
+运城职业技术大学	YUNCHENG VOCATIONAL AND TECHNICAL UNIVERSITY / Yuncheng Vocational and Technical University
+连云港师范高等专科学校	Lianyungang Normal College
+连云港职业技术学院	Lianyungang Technical College
+通化医药健康职业学院	Tong Hua Yi Yao Jian Kang Zhi Ye Xue Yuan
+通化市职工大学	
+通化师范学院	Tonghua Normal University
+通化钢铁公司职工大学	
+通辽职业学院	Tongliao Vocational College
+遂宁工程职业学院	Suining Engineering Vocational College
+遂宁职业学院	Sui Ning Vocational College
+遂宁能源职业学院	Suining Vocational College of Energy
+遵义医科大学	Zunyi Medical University
+遵义医科大学医学与科技学院	Medicine & Technology School of Zunyi Medical University
+遵义医药高等专科学校	Zunyi Medical and Pharmaceutical College
+遵义师范学院	Zunyi Normal University / Zunyi Normal College
+遵义职业技术学院	Zunyi Vocational and Technical College
+邕江大学	
+邢台医学院	Xingtai Medical College
+邢台医学高等专科学校	Xingtai Medical College
+邢台学院	Xingtai University / XingTai University
+邢台应用技术职业学院	Xingtai Vocational College of Applied Technology
+邢台新能源职业学院	Xingtai Polytechnic Institute of New Energy
+邢台职业技术学院	
+邯郸学院	Handan University / Handan College
+邯郸市职工大学	
+邯郸幼儿师范高等专科学校	Handan Preschool Teachers College / Handan Preschool Teacher College
+邯郸应用技术职业学院	Handan Vocational College of Applied Technology
+邯郸科技职业学院	Handan Vocational College of Science and Technology / Handan Polytechnic College
+邯郸职业技术学院	Handan Polytechnic College
+邵阳医学高等专科学校	
+邵阳学院	Shaoyang University
+邵阳工业职业技术学院	Shaoyang Industry Polytechnic College
+邵阳职业技术学院	Shaoyang Polytechnic
+郑州亚欧交通职业学院	Zhengzhou Eurasia Jiaotong Vocational College
+郑州交通职业学院	
+郑州体育职业学院	Zhengzhou Physical Education Vocational College
+郑州信息工程职业学院	Zhengzhou Information Engineering Vocational College
+郑州信息科技职业学院	Zhengzhou Vocational University of Information and Technology
+郑州医药健康职业学院	Zhengzhou Medicine College
+郑州升达经贸管理学院	Zhengzhou Shengda University
+郑州华信学院	
+郑州华信职业技术学院	
+郑州卫生健康职业学院	Zhengzhou Health Vocational College
+郑州商学院	Zhengzhou Business University
+郑州商贸旅游职业学院	Zhengzhou Vocational College of Commerce&Tourism / Zhengzhou Vocational College of Commerce & Tourism
+郑州城市职业学院	City University of Zhengzhou
+郑州城建职业学院	Zhengzhou Urban Construction Vocational College
+郑州大学	Zhengzhou University
+郑州工业安全职业学院	Zhengzhou Vocational College of Industrial Safety
+郑州工业应用技术学院	Zhengzhou University of Industry Technology / Zhengzhou University of Industrial Technology
+郑州工商学院	Zhengzhou Technology and Business University
+郑州工程技术学院	Zhengzhou University of Technology / Zhengzhou Institute of Technology
+郑州市职工业余大学	
+郑州市职工大学	
+郑州布瑞达理工职业学院	
+郑州师范学院	Zhengzhou Normal University
+郑州师范高等专科学校	
+郑州幼儿师范高等专科学校	Zhengzhou Preschool Education College
+郑州旅游职业学院	Zhengzhou Tourism College
+郑州智能科技职业学院	Zhengzhou Vocational College of Intelligent Technology
+郑州汽车工程职业学院	Zhengzhou Vocational College of Automobile Engineering
+郑州澍青医学高等专科学校	Zhengzhou Shuqing Medical College
+郑州牧业工程高等专科学校	
+郑州理工职业学院	Zhengzhou Institute of Technology
+郑州电力职业技术学院	Zhengzhou Electric Power Technology College
+郑州电力高等专科学校	Zhengzhou Electric Power College
+郑州电子信息职业技术学院	Zhengzhou Professional Technical Institute of Electronic & Information
+郑州电子商务职业学院	Zhengzhou Electronic Commerce Professional College / Zhengzhou E- Commerce Vocational College
+郑州科技学院	Zhengzhou University of Science and Technology
+郑州科技职业学院	
+郑州经贸学院	Zhengzhou University of Economics and Business / Zhengzhou College of Economics and Business
+郑州经贸职业学院	
+郑州美术学院	Zhengzhou Academy of Fine Arts
+郑州职业技术学院	Zhengzhou Technical College
+郑州航空工业管理学院	Zhengzhou University of Aeronautics
+郑州西亚斯学院	Sias University
+郑州警察学院	Zhengzhou Police University
+郑州财税金融职业学院	Zhengzhou Vocational College of Finance and Taxation
+郑州财经学院	Zhengzhou Institute of Finance and Economic / Zhengzhou Institute of Finance and Economics
+郑州轨道工程职业学院	Zhengzhou University of Railway Engineering / Zhengzhou College of Urban Rail Transit
+郑州软件职业技术学院	Zhengzhou Software Vocational and Technical College
+郑州轻工业大学	Zhengzhou University of Light Industry
+郑州铁路职业技术学院	Zhengzhou Railway Vocational & Technical College
+郑州食品工程职业学院	Zhengzhou Institute of Food Technology
+郑州黄河护理职业学院	Zhengzhou Yellow River Nursing Vocational College
+郧阳医学院	
+郧阳师范高等专科学校	
+郴州思科职业学院	Chenzhou Score Vocational College
+郴州职业技术学院	Chenzhou Vocational Technical College
+鄂东职业技术学院	
+鄂城钢铁厂职工大学	
+鄂尔多斯应用技术学院	Ordos Institute of Technology
+鄂尔多斯教育学院	
+鄂尔多斯生态环境职业学院	Ordos Vocational College of Eco-Environment / Ordos Vocational College of Eco-environment
+鄂尔多斯职业学院	Ordos Vocational College
+鄂州职业大学	Ezhou Polytechnic / Ezhou Vocational College
+酒泉职业技术学院	Jiuquan Vocational and Technical College / Jiuquan Vocational Technical College
+重庆三峡医药高等专科学校	Chongqing Three Gorges Medical College
+重庆三峡学院	Chongqing Three Gorges University
+重庆三峡职业学院	Chongqing Three Gorges Vocational College
+重庆中医药学院	Chongqing College of Traditional Chinese Medicine
+重庆五一职业技术学院	Chongqing Wuyi Polytechinc College
+重庆交电分公司职工大学	
+重庆交通大学	Chongqing Jiaotong University
+重庆交通职业学院	Chongqing Vocational College of Transportation
+重庆人文科技学院	Chongqing College of Humanities Science and Technology / Chongqing College of Humanities, Science and Technology
+重庆传媒职业学院	Chongqing Vocational College of Media
+重庆信息技术职业学院	Chongqing Information Technology College
+重庆健康职业学院	Chongqing Health College
+重庆光彩职业技术学院	
+重庆公共运输职业学院	Chongqing Vocational College of Public Transportation
+重庆冶金成人学院	
+重庆化工职业学院	Chongqing Chemical Industry Vocational College
+重庆化工职工大学	
+重庆医科大学	Chongqing Medical University
+重庆医药高等专科学校	Chongqing Medical and Pharmaceutical College
+重庆商务职业学院	Chongqing Business Vocational College
+重庆城市科技学院	
+重庆城市管理职业学院	Chongqing City Management College
+重庆城市职业学院	Chongqing City Vocational College
+重庆城建职工学院	
+重庆外语外事学院	
+重庆大学	Chongqing University
+重庆大学城市科技学院	City College of Science and Technology, Chongqing University
+重庆安全技术职业学院	Chongqing Vocational Institute of Safety & Technology / Chongqing Vocational Insitute of Safety & Technology
+重庆对外经贸学院	
+重庆工业职业技术学院	Chongqing Industry Polytechnic College
+重庆工信职业学院	Chongqing Industry and Information Vocational College
+重庆工商大学	Chongqing Technology and Business University
+重庆工商大学派斯学院	Pass College of Chongqing Technology and Business University
+重庆工商大学融智学院	Rongzhi College of Chongqing Technology and Business University
+重庆工商职业学院	Chongqing Technology and Business Institute
+重庆工学院	
+重庆工程学院	Chongqing Institute of Engineering
+重庆工程职业技术学院	Chongqing Vocational Institute of Engineering
+重庆工贸职业技术学院	Chongqing Industry & Trade Polytechnic
+重庆巴渝职业技术学院	
+重庆市广播电视大学	
+重庆师范大学	Chongqing Normal University
+重庆师范大学涉外商贸学院	Chong Qing Normal University Foreign Trade and Business College
+重庆幼儿师范高等专科学校	Chongqing Preschool Education College
+重庆应用技术职业学院	Chongqing Vocational College of Applied Technology
+重庆建筑工程职业学院	Chongqing Jianzhu College
+重庆建筑科技职业学院	Chongqing College of Architecture and Technology
+重庆开放大学	
+重庆护理职业学院	Chongqing Nursing Vocational College
+重庆教育学院	
+重庆数字产业职业技术学院	Chongqing Digital Industry Polytechnic College
+重庆文化艺术职业学院	Chongqing Vocational College of Culture and Arts
+重庆文理学院	Chongqing University of Arts and Sciences / Chongqing University of Arts and Science
+重庆旅游职业学院	Chongqing Vocational Institute of Tourism
+重庆智能工程职业学院	Chongqing Vocational College of Intelligent Engineering
+重庆服装工程职业学院	
+重庆机电职业技术大学	Chongqing Vocational and Technical University of Mechatronics
+重庆正大软件职业技术学院	
+重庆民生职业技术学院	
+重庆水利电力职业技术学院	Chongqing Water Resources and Electeic Engineering College / Chongqing Water Resources and Electric Engineering College
+重庆海联职业技术学院	Chongqing Hailian Vocational Technical College
+重庆现代制造职业学院	Chongqing Vocational College of Modern Manufacturing
+重庆理工大学	Chongqing University of Technology
+重庆理工职业学院	Chongqing Polytechnic Institute
+重庆电信职业学院	Chongqing Electronic Information College
+重庆电力职工大学	
+重庆电力高等专科学校	Chongqing Electric Power College
+重庆电子工程职业学院	Chongqing College of Electric Engineering
+重庆电子科技职业大学	Chongqing College of Electronic Engineering
+重庆电子职业技术学院	
+重庆电讯职业学院	Chongqing Telecommunication Polytechnic College
+重庆科创职业学院	Chongqing Creation Vocational College
+重庆科技大学	Chongqing University of Science & Technology
+重庆科技学院	Chongqing University of Science & Technology
+重庆科技职业学院	Chongqing Vocational College of Science and Technology / Vocation College of Science and Technology Chongqing
+重庆移通学院	
+重庆第二师范学院	Chongqing University of Education
+重庆经贸职业学院	Chongqing Vocational College of Economics and Trade
+重庆职工会计专科学校	
+重庆能源职业学院	Chongqing Energy College
+重庆航天职业技术学院	Chongqing Aerospace Polytechnic / Chongqing Aerospace Polytechnic College
+重庆艺术工程职业学院	Chongqing Vocational College of Art and Engineering
+重庆警官职业学院	
+重庆警察学院	Chongqing Police College
+重庆财经学院	
+重庆财经职业学院	Chongqing College of Finance and Economics
+重庆资源与环境保护职业学院	Chongqing Vocational College of Resources and Environmental Protection / Chongqing Recourses and Environmental Protection of University
+重庆轻工职业学院	Chongqing Vocational College of Light Industry
+重庆邮电大学	Chongqing University of Posts and Telecommunications
+重庆邮电大学移通学院	College of Mobile Telecommunications, Chongqing University of Posts and Telecommunications
+重庆青年职业技术学院	Chongqing Youth Vocational & Technical College
+金华教育学院	
+金华职业技术大学	Jinhua Polytechnic
+金华职业技术学院	Jinhua Polytechnic
+金山职业技术学院	Jinshan Vocational Technical College
+金川有色金属公司职工大学	
+金肯职业技术学院	Jinken College of Technology
+金陵科技学院	Jinling Institute of Technology
+钟山职业技术学院	Zhongshan Vocational College / Zhongshang Vocational College
+钦州幼儿师范高等专科学校	Qinzhou Kindergarten Teachers College
+铁岭卫生职业学院	Tieling Health Vocational College
+铁岭师范高等专科学校	Tieling Normal College
+铁岭职工大学	
+铁道警官高等专科学校	
+铁道警察学院	Railway Police College
+铁门关职业技术学院	Tiemenguan Vocational and Technical College
+铜仁学院	Tongren University
+铜仁幼儿师范高等专科学校	Tongren Preschool Education College
+铜仁职业技术学院	Tongren Polytechnic College
+铜川职业技术学院	Tongchuan Vocational and Technical College
+铜陵学院	Tongling University
+铜陵职业技术学院	Tongling Polytechnic
+银光化学材料厂职工大学	
+银川科技学院	
+银川科技职业学院	
+银川能源学院	Yinchuan University of Energy
+锡林郭勒职业学院	Xilingol Vocational College
+锦州医科大学	Jinzhou Medical University
+锦州医科大学医疗学院	Medical College of Jinzhou Medical University
+锦州商务职业学院	
+锦州师范高等专科学校	Jinzhou Normal College
+镇江市高等专科学校	Zhenjiang College
+长垣烹饪职业技术学院	Changyuan Pengren Zhiye Jishu Xueyuan / Changyuan Cuisine Vocational and Technical College
+长城铝业公司职工工学院	
+长安大学	Chang'an University
+长安大学兴华学院	Chang'an University Xinghua College
+长春东方职业学院	Changchun Dongfang Professional College
+长春中医药大学	Changchun University of Chinese Medicine
+长春人文学院	
+长春信息技术职业学院	Changchun College of Information Technology / Changchun Information Technology College
+长春健康职业学院	Changchun Vocational College of Health
+长春光华学院	Changchun Guanghua University
+长春医学高等专科学校	Changchun Medical College
+长春大学	Changchun University
+长春大学旅游学院	The Tourism College of Changchun University
+长春工业大学	Changchun University of Technology
+长春工业大学人文信息学院	College of Humanities and Information Changchun University of Technology
+长春工程学院	Changchun Institute of Technology
+长春市建筑职工业余大学	
+长春市直属机关业余大学	
+长春师范大学	Changchun Normal University
+长春师范学院	
+长春师范高等专科学校	Changchun Normal College
+长春广播电视大学	
+长春建筑学院	Changchun University of Architecture and Civil Engineering
+长春开放大学	
+长春教育学院	
+长春数字科技职业学院	Changchun Digital Technology Vocational College
+长春早期教育职业学院	Changchun Early Education Vocational Institute
+长春汽车工业高等专科学校	Changchun Automobile Industry Institute
+长春汽车职业技术大学	Changchun Automobile Industry Insititute
+长春理工大学	Changchun University of Science and Technology
+长春理工大学光电信息学院	College of Optical and Electronical Information Changchun University of Science and Technology
+长春电子科技学院	
+长春科技学院	Changchun Sci-Tech University
+长春税务学院	
+长春职业技术学院	Changchun Polytechnic
+长春职工医科大学	
+长春职工大学	
+长春财经学院	Changchun University of Finance and Economics
+长春金融高等专科学校	Changchun Finance College
+长江大学	Yangtze University
+长江大学工程技术学院	
+长江大学文理学院	Yangtze University College of Arts and Sciences
+长江工程职业技术学院	Changjiang Institute of Technology
+长江师范学院	Yangtze Normal University
+长江职业学院	Changjiang Polytechnic
+长江艺术工程职业学院	Changjiang Polytechnic of Art and Engineering / Yangtze River Art Engineering Vocational College
+长沙医学院	Changsha Medical University
+长沙医药健康职业学院	Changsha Vocational College of Medicine and Health
+长沙南方职业学院	Changsha Nanfang Professional College
+长沙卫生职业学院	Changsha Health Vocational College
+长沙商贸旅游职业技术学院	Changsha Commerce & Tourism College / Changsha Commerce＆Tourism College
+长沙学院	Changsha University
+长沙工业学院	Beijing Technology and Business University
+长沙工业职工大学	
+长沙师范学校	
+长沙师范学院	Changsha Normal University
+长沙幼儿师范高等专科学校	Changsha Preschool Education College
+长沙教育学院	
+长沙文创艺术职业学院	Changsha Cultural Creative and Arts Vocational College
+长沙民政职业技术学院	Changsha Social Work College
+长沙环境保护职业技术学院	Changsha Environmental Protection College
+长沙理工大学	Changsha University of Science and Technology
+长沙理工大学城南学院	Chengnan College, Changsha University of Science and Technology
+长沙电力职业技术学院	Changsha Electric Power Technical College / Changsha Electric Power Technology College
+长沙社会安全职业技术学院	
+长沙职业技术学院	Changsha Vocational and Technical College
+长沙职工大学	
+长沙航空职业技术学院	Changsha Aeronautical Vocational and Technical College
+长沙轨道交通职业学院	Changsha Rail Transit Institute
+长沙通信职业技术学院	
+长治医学院	Changzhi Medical College
+长治学院	Changzhi University
+长治市教育学院	
+长治幼儿师范高等专科学校	Changzhi Preschool Education College
+长治职业技术学院	Changzhi Vocational and Technical College
+长白山职业技术学院	Changbaishan Vocational Technical College
+闽北职业技术学院	Minbei Vocational and Technical College
+闽南师范大学	Minnan Normal University
+闽南理工学院	Minnan University of Science and Technology
+闽南科技学院	Minnan Science and Technology University / Minnan Science and Technology
+闽江学院	Minjiang University
+闽江师范高等专科学校	Minjiang Teachers College
+闽西职业技术学院	Minxi Vocational & Technical College
+阜新煤炭职工医学专科学校	
+阜新矿务局职工大学	
+阜新高等专科学校	Fuxin Higher Training College
+阜阳师范大学	Fuyang Normal University
+阜阳师范大学信息工程学院	College of Information Engineering, Fuyang Normal University
+阜阳幼儿师范高等专科学校	Fuyang Preschool Teachers College
+阜阳理工学院	
+阜阳科技职业学院	Fuyang Vocational College of Science and Technology
+阜阳职业技术学院	Fuyang Vocational Technical College / Fuyang Institute of Technology
+防城港职业技术学院	Fangchenggang Vocational and Technical College
+防灾科技学院	Institute of Disaster Prevention
+阳光学院	Yango University / Yango College
+阳江职业技术学院	Yangjiang Polytechnic
+阳泉市教育学院	
+阳泉师范高等专科学校	Yangquan Teachers College
+阳泉职业技术学院	Yangquan Vocational and Technical College
+阿克苏工业职业技术学院	Aksu Industry Polytechnic College
+阿克苏教育学院	
+阿克苏职业技术学院	Aks Vocational and Technical College
+阿勒泰职业技术学院	Altay Vocational Technical College / Altay Vocational and Technical College
+阿坝师范学院	Aba Teachers University / A BA Teachers University
+阿坝师范高等专科学校	
+阿坝职业学院	Aba Vocational College
+阿拉善职业技术学院	Alxa Vocational & Technical College / Alashan Vocational College
+陆军军事交通学院	
+陆军勤务学院	
+陆军工程大学	
+陆军指挥学院	
+陆军步兵学院	
+陆军炮兵防空兵学院	
+陆军特种作战学院	
+陆军航空兵学院	
+陆军装甲兵学院	
+陆军边海防学院	
+陆军防化学院	
+陇东学院	Longdong University / Long Dong University
+陇南师范学院	Longnan Teachers College
+陇南师范高等专科学校	Longnan Teachers College
+陕西中医学院	
+陕西中医药大学	Shaanxi University of Chinese Medicine
+陕西交通职业技术学院	Shanxi College of Communications Technology / Shaanxi College of Communication Technology
+陕西兵器工业职工大学	
+陕西国防工业职业技术学院	Shaanxi Institute of Technology
+陕西国际商贸学院	Shaanxi Institute of International Trade and Commerce
+陕西国际商贸职业学院	
+陕西学前师范学院	Shaanxi Xueqian Normal University
+陕西工业职业技术学院	Shaanxi Polytechnic Institute
+陕西工商职业学院	Shaanxi Business College
+陕西工运学院	
+陕西师范大学	Shaanxi Normal University
+陕西开放大学	
+陕西教育学院	
+陕西旅游烹饪职业学院	Shaanxi Tourism Cuisine Professional College
+陕西服装工程学院	Shaanxi Fashion Engineering University
+陕西服装艺术职业学院	
+陕西机电职业技术学院	Shaanxi Institute of Mechatronic Technology
+陕西理工大学	Shaanxi University of Technology
+陕西理工学院	
+陕西电子信息职业技术学院	Shaanxi Electronic Information Institute
+陕西电子工业职工大学	
+陕西省宝鸡教育学院	
+陕西省广播电视大学	
+陕西省建筑工程总公司职工大学	
+陕西省财贸管理干部学院	
+陕西科技大学	Shaanxi University of Science and Technology
+陕西科技大学镐京学院	Hao Jing College of Shaanxi University of Science and Technology
+陕西纺织服装职业技术学院	
+陕西经济管理职业技术学院	Shaanxi Vocational Technology College of Economic Management / Shanxi Vocational Technology College of Economic Management
+陕西职业技术学院	Shaanxi Vocational and Technical College
+陕西能源职业技术学院	Shaanxi Energy Institute
+陕西航天职工大学	
+陕西航空职业技术学院	Shaanxi Aviation Professional Technical Institute / Shaanxi Institute of Technology of Profession of Aviation
+陕西艺术职业学院	Shaanxi Vocational Academy of Art / Shanxi Vocational Academy of Art
+陕西警官职业学院	Shaanxi Police College
+陕西警察学院	Shaanxi Police College
+陕西财经职业技术学院	Shanxi Vocational College of Finance and Economics
+陕西邮电职业技术学院	Shaanxi Post Vocational and Technical College / Shaanxi Post and Telecommunication College
+陕西铁路工程职业技术学院	Shaanxi Railway Institute
+陕西青年职业学院	Shaanxi Youth Vocational College
+随州职业技术学院	Suizhou Vocational & Technical College
+雅安职业技术学院	Ya'An Polytechnic College / Ya'an Polytechnic College
+集宁师范学院	Jining Normal University
+集宁师范高等专科学校	
+集美大学	Jimei University
+集美大学诚毅学院	Chengyi University College, Jimei University
+青岛农业大学	Qingdao Agricultural University
+青岛农业大学海都学院	Haidu College Qingdao Agricultural University
+青岛城市学院	Qingdao City University
+青岛大学	Qingdao University
+青岛工学院	Qingdao Institute of Technology
+青岛工程职业学院	Qingdao Engineering Vocational College
+青岛市广播电视大学	
+青岛幼儿师范高等专科学校	Qingdao Preschool Education College
+青岛开放大学	
+青岛恒星科技学院	Qingdao Hengxing University of Science and Technology / Hengxing University
+青岛恒星职业技术学院	
+青岛求实职业技术学院	Qingdao Qiushi College
+青岛港湾职业技术学院	Qingdao Harbour Vocational & Technical College
+青岛滨海学院	Qingdao Binhai University
+青岛理工大学	Qingdao University of Technology
+青岛理工大学琴岛学院	
+青岛电影学院	
+青岛科技大学	Qingdao University of Science and Technology
+青岛职业技术学院	Qingdao Technical College
+青岛航空科技职业学院	Qingdao Vocational College of Aeronautical Science and Technology
+青岛远洋船员学院	
+青岛远洋船员职业学院	Qingdao Ocean Shipping Mariners College
+青岛酒店管理职业技术学院	Qingdao Vocational and Technical College of Hotel Management
+青岛飞洋职业技术学院	Qingdao Feiyang Vocational&Tehnical College / Qingdao Feiyang College
+青岛黄海学院	Qingdao Huanghai University
+青岛黄海职业学院	
+青海交通职业技术学院	Qinghai Communications Technical College
+青海农牧科技职业学院	Qinghai Agri-Animal Husbandry Vocational College
+青海卫生职业技术学院	Qinghai Institute of Health Sciences
+青海大学	Qinghai University
+青海大学昆仑学院	Kunlun College of Qinghai University
+青海师范大学	Qinghai Normal University
+青海师范高等专科学校	
+青海建筑职业技术学院	Qinghai Architectural College / Qinghai College of Architectural Technology
+青海开放大学	
+青海柴达木职业技术学院	Qinghai Qaidam Vocational ＆Technical College / Qinghai Qaidam Vocational & Technical College
+青海民族大学	Qinghai Nationalities University
+青海民族学院	
+青海民族师范高等专科学校	
+青海理工学院	Qinghai University of Technology
+青海畜牧兽医职业技术学院	
+青海省广播电视大学	
+青海省联合职工大学	
+青海职业技术大学	Qinghai Communication Techical College
+青海警官职业学院	Qinghai Vocational College of Police Officers
+青海财经职业学院	
+青海高等职业技术学院	Qinghai Higher Vocational and Technical Institute
+鞍山市高等职业专科学校	
+鞍山师范学院	Anshan Normal University
+鞍山职业技术学院	Anshan Vocational and Technical College
+鞍山钢铁集团公司职工大学	
+韩山师范学院	Hanshan Normal University
+韶关学院	Shaoguan University
+韶关市职工大学	
+顺德职业技术学院	Shunde Polytechnic
+首都体育学院	Capital University of Physical Education and Sports
+首都医科大学	Capital Medical University
+首都师范大学	Capital Normal University
+首都师范大学科德学院	Kede College of Capital Normal University
+首都经济贸易大学	Capital University of Economics and Business
+首都联合职工大学	
+首钢工学院	Shougang Institute of Technology
+香格里拉职业学院	Shangri-La Vocational College
+香港中文大学（深圳）	The Chinese University of Hong Kong, Shenzhen
+香港城市大学（东莞）	City University of Hong Kong (Dongguan)
+香港科技大学（广州）	The Hong Kong University of Science and Technology (Guangzhou)
+马鞍山学院	Maanshan University
+马鞍山师范高等专科学校	Maanshan Teacher'S College / Maanshan Teacher's College
+马鞍山职业技术学院	Maanshan Technical College
+驻马店农业工程职业学院	Zhumadian Agricultural Engineering Vocational College
+驻马店幼儿师范高等专科学校	Zhumadian Preschool Education College
+驻马店教育学院	
+驻马店职业技术学院	Zhumadian Vocational and Technical College
+鲁东大学	Ludong University
+鲁迅美术学院	LuXun Academy of Fine Arts / Luxun Academy of Fine Arts
+鸡西大学	
+鸡西煤炭职工医学院	
+鹤壁汽车工程职业学院	Hebi Automobile Engineering Professional College
+鹤壁职业技术学院	Hebi Polytechnic
+鹤壁能源化工职业学院	Hebi Vocational College of Energy and Chemistry
+鹤岗师范高等专科学校	Hegang Teachers College / Hegang Normal College
+鹤岗矿务局职工大学	
+鹰潭职业技术学院	Yingtan Vocational and Technical College
+黄冈师范学院	Huanggang Normal University
+黄冈科技职业学院	Huanggang College of Science and Technology
+黄冈职业技术学院	Huanggang Polytechnic College
+黄山健康职业学院	Huangshan Vocational College of Health / Huangshan Health Vocational College
+黄山学院	Huangshan University
+黄山职业技术学院	Huangshan Vocational and Technical College / Huangshan Vocational Technical College
+黄河交通学院	Huanghe Jiaotong University
+黄河水利职业技术学院	Yellow River Conservancy Technical Institute
+黄河科技学院	Huanghe Science and Technology College / Huanghe S&T University
+黄淮学院	Huanghuai University
+黄石理工学院	
+黄石职业技术学院	
+黎明职业大学	Liming Vocational University
+黑河学院	Heihe University
+黑龙江三江美术职业学院	Heilongjiang Sanjiang Vocational College of Fine Arts / Heilongjiang Sanjiang Arts Vocational College
+黑龙江东方学院	East University of Heilongjiang
+黑龙江中医药大学	Heilongjiang University of Chinese Medicine
+黑龙江交通职业技术学院	Heilongjiang Communications Polytechnic
+黑龙江信息技术职业学院	
+黑龙江八一农垦大学	Heilongjiang Bayi Agricultural University
+黑龙江公安警官职业学院	Heilongjiang Police College
+黑龙江兵器工业职工大学	
+黑龙江农业工程职业学院	Heilongjiang Agricultural Engineering Vocational College
+黑龙江农业经济职业学院	Heilongjiang Agricultural Economyvocational College / Heilongjiang Agricultural Economy Vocational College
+黑龙江农业职业技术学院	Heilongjiang Vocational College of Agricultural Technology / Heilongjiang Vocational College of Agricultural and Technology
+黑龙江农垦农业职业技术学院	
+黑龙江农垦林业职业技术学院	
+黑龙江农垦科技职业学院	
+黑龙江农垦管理干部学院	
+黑龙江农垦职业学院	Heilongjiang Agricultural Reclamation Vocational College，Arvc / Heilongjiang Agricultural Reclamation Vocational College
+黑龙江冰雪体育职业学院	Heilongjiang Vocational College of Winter Sports / Heilongjiang Vocational College of Winter Sport
+黑龙江北开职业技术学院	
+黑龙江司法警官职业学院	The Professional Judicial Police College of Heilongjiang / Heilongjiang Judicial Police Vocational College
+黑龙江商业职业学院	Heilongjiang Vocational College of Commerce
+黑龙江外国语学院	Heilongjiang International University
+黑龙江大学	Heilongjiang University
+黑龙江工业学院	Heilongjiang University of Technology
+黑龙江工商学院	Heilongjiang College of Business and Technology
+黑龙江工商职业技术学院	
+黑龙江工程学院	Heilongjiang Institute of Technology
+黑龙江工程学院昆仑旅游学院	Kunlun Tourism College of Heilongjiang Institute of Technology
+黑龙江幼儿师范高等专科学校	Heilongjiang Preschool Education College
+黑龙江建筑职业技术学院	Heilongjiang College of Construction / Heilongjiang Institute of Construction Technology
+黑龙江开放大学	
+黑龙江护理高等专科学校	Heilongjiang Nursing College
+黑龙江旅游职业技术学院	Heilongjiang Vocational College of Tourism
+黑龙江林业职业技术学院	Heilongjiang Forestry Vocational-Technical College / Heilongjiang Forestry Vocational Technical College
+黑龙江民族职业学院	Heilongjiang Vocational College For Nationalities / Heilongjiang Vocational College for Nationalities
+黑龙江煤炭职业技术学院	
+黑龙江生态工程职业学院	Heilongjiang Vocational Institute of Ecological Engineering / Heilongjiang Vocational Institute Ecological Engineering
+黑龙江生物科技职业学院	
+黑龙江畜牧兽医职业学院	
+黑龙江省农垦管理干部学院	
+黑龙江省商业职工大学	
+黑龙江省广播电视大学	
+黑龙江省政法管理干部学院	
+黑龙江省教育学院	
+黑龙江省电力职工大学	
+黑龙江省直属机关职工大学	
+黑龙江省社会科学院职工大学	
+黑龙江省科技职工大学	
+黑龙江省经济管理干部学院	
+黑龙江省绥化地区教育学院	
+黑龙江省职工体育运动技术学院	
+黑龙江科技大学	Heilongjiang University of Science and Technology
+黑龙江科技学院	
+黑龙江科技职业学院	
+黑龙江粮食职业学院	
+黑龙江职业学院	Heilongjiang Polytechnic
+黑龙江能源职业学院	Heilongjiang Energy Career Academy / Heilongjiang Vocational College of Energy
+黑龙江艺术职业学院	Heilongjiang Vocational College of Art
+黑龙江财经学院	Heilongjiang University of Finance and Economic / Heilongjiang University of Finance and Economics
+黔东南民族职业技术学院	Qiandongnan Nationalities Polytechnic / Qiandongnan National Polytechnic
+黔东南理工职业学院	Qiandongnan Polytechnic College
+黔南民族医学高等专科学校	Qiannan Medical College For Nationalities / Qiannan Medical College for Nationalities
+黔南民族师范学院	Qiannan Normal College for Nationalities
+黔南民族幼儿师范高等专科学校	Qiannan Preschool Education College for Nationalities / Qiannan Preschool Education College For Nationalities
+黔南民族职业技术学院	Qiannan Vocational and Technical College for Nationalities / Qiannan Polytechnic For Nationality
+黔西南民族师范高等专科学校	
+黔西南民族职业技术学院	Southwest Guizhou Vocational and Technical College
+齐鲁医药学院	Qilu Medical University
+齐鲁工业大学	Qilu University of Technology
+齐鲁师范学院	Qilu Normal University
+齐鲁理工学院	Qilu Institute of Technology
+齐齐哈尔医学院	Qiqihar Medical University
+齐齐哈尔大学	Qiqihar University
+齐齐哈尔工程学院	Qiqihar Institute of Technology / Qiqihar Institute of Engineering
+齐齐哈尔市建设职工大学	
+齐齐哈尔市职工大学	
+齐齐哈尔理工职业学院	Qiqihar Institute of Technology / Qiqihar Polytechnic College
+齐齐哈尔职业学院	
+齐齐哈尔铁路教育学院	
+齐齐哈尔高等师范专科学校	Qiqihar Teachers College
+龙岩学院	Longyan University
+澳门大学	University of Macau
+澳门理工大学	Macao Polytechnic University
+澳门旅游大学	Macao University of Tourism
+澳门保安部队高等学校	Academy of Public Security Forces
+澳门科技大学	Macau University of Science and Technology
+澳门城市大学	City University of Macau
+圣若瑟大学	University of Saint Joseph
+澳门镜湖护理学院	Kiang Wu Nursing College of Macau
+澳门管理学院	Macau Institute of Management
+中西创新学院	Macau Millennium College
+香港大学	University of Hong Kong
+香港中文大学	Chinese University of Hong Kong
+香港科技大学	Hong Kong University of Science and Technology
+香港理工大学	Hong Kong Polytechnic University
+香港城市大学	City University of Hong Kong
+香港浸会大学	Hong Kong Baptist University
+香港都会大学	Hong Kong Metropolitan University
+岭南大学	Lingnan University
+香港树仁大学	Hong Kong Shue Yan University
+香港教育大学	Education University of Hong Kong
+香港恒生大学	Hang Seng University of Hong Kong
+圣方济各大学	Saint Francis University
+明德学院	Centennial College
+香港珠海学院	Chu Hai College of Higher Education
+宏恩基督教学院	Gratia Christian College
+港专学院	HKCT Institute of Higher Education
+香港能仁专上学院	Hong Kong Nang Yan College of Higher Education
+香港高等科技教育学院	Technological and Higher Education Institute of Hong Kong
+东华学院	Tung Wah College
+香港伍伦贡学院	UOW College Hong Kong
+耀中幼教学院	Yew Chung College of Early Childhood Education
+香港演艺学院	The Hong Kong Academy for Performing Arts
+明爱白英奇专业学校	
+香港大学专业进修学院	
+香港大学附属学院	
+香港大学专业进修学院保良局何鸿燊社区书院	
+香港艺术学院	
+香港浸会大学 – 国际学院	
+香港浸会大学持续教育学院	
+香港专业进修学校	
+香港科技专上书院	
+香港都会大学李嘉诚专业进修学院	
+岭南大学持续进修学院	
+香港中文大学专业进修学院	
+香港理工大学 – 香港专上学院	
+香港理工大学专业进修学院	
+青年会专业书院	
+香港专业教育学院	
+香港知专设计学院	
+香港国际厨艺学院	
+香港资讯科技学院	
+国立政治大学	National Chengchi University
+国立清华大学	National Tsing Hua University
+国立台湾大学	National Taiwan University
+国立台湾师范大学	National Taiwan Normal University
+国立成功大学	National Cheng Kung University
+国立中兴大学	National Chung Hsing University
+国立阳明交通大学	National Yang Ming Chiao Tung University
+国立中央大学	National Central University
+国立中山大学	National Sun Yat-sen University
+国立台湾海洋大学	National Taiwan Ocean University
+国立中正大学	National Chung Cheng University
+国立高雄师范大学	National Kaohsiung Normal University
+国立彰化师范大学	National Changhua University of Education
+国立台北大学	National Taipei University
+国立嘉义大学	National Chiayi University
+国立高雄大学	National University of Kaohsiung
+国立东华大学	National Dong Hwa University
+国立暨南国际大学	National Chi Nan University
+国立台湾科技大学	National Taiwan University of Science and Technology
+国立云林科技大学	National Yunlin University of Science & Technology
+国立屏东科技大学	National Pingtung University of Science and Technology
+国立台北科技大学	National Taipei University of Technology
+国立台北艺术大学	Taipei National University of the Arts
+国立台湾艺术大学	National Taiwan University of Arts
+国立台东大学	National Taitung University
+国立宜兰大学	National Ilan University
+国立联合大学	National United University
+国立虎尾科技大学	National Formosa University
+国立台南艺术大学	Tainan National University of the Arts
+国立台南大学	National University of Tainan
+国立台北教育大学	National Taipei University of Education
+国立台中教育大学	National Taichung University of Education
+国立澎湖科技大学	National Penghu University of Science and Technology
+国立勤益科技大学	National Chin-Yi University of Technology
+国立体育大学	National Taiwan Sport University
+国立台北护理健康大学	National Taipei University of Nursing and Health Sciences
+国立高雄餐旅大学	National Kaohsiung University of Hospitality and Tourism
+国立金门大学	National Quemoy University
+国立台湾体育运动大学	National Taiwan University of Sport
+国立台中科技大学	National Taichung University of Science and Technology
+国立台北商业大学	National Taipei University of Business
+国立屏东大学	National Pingtung University
+国立高雄科技大学	National Kaohsiung University of Science and Technology
+国立台湾戏曲学院	National Taiwan College of Performing Arts
+国立台南护理专科学校	National Tainan Junior College of Nursing
+国立台东专科学校	National Taitung Junior College
+国立空中大学	National Open University
+东海大学	Tunghai University
+辅仁大学学校财团法人辅仁大学	Fu Jen Catholic University
+东吴大学	Soochow University
+中原大学	Chung Yuan Christian University
+淡江大学学校财团法人淡江大学	Tamkang University
+中国文化大学	Chinese Culture University
+逢甲大学	Feng Chia University
+静宜大学	Providence University
+长庚大学	Chang Gung University
+元智大学	Yuan Ze University
+中华大学学校财团法人中华大学	Chung Hua University
+大叶大学	Da-Yeh University
+华梵大学	Huafan University
+义守大学	I-Shou University
+世新大学	Shih Hsin University
+铭传大学	Ming Chuan University
+实践大学	Shih Chien University
+朝阳科技大学	Chaoyang University of Technology
+高雄医学大学	Kaohsiung Medical University
+（台湾）南华大学	Nanhua university
+真理大学	Aletheia University
+大同大学	Tatung University
+南台学校财团法人南台科技大学	Southern Taiwan University of Science and Technology
+昆山科技大学	Kun Shan University
+嘉药学校财团法人嘉南药理大学	Chia Nan University of Pharmacy & Science
+树德科技大学	Shu-Te University
+慈济学校财团法人慈济大学	Tzu Chi University
+台北医学大学	Taipei Medical University
+中山医学大学	Chung Shan Medical University
+龙华科技大学	Lunghwa University of Science and Technology
+辅英科技大学	Fooyin University
+明新学校财团法人明新科技大学	Minghsin University of Science and Technology
+长荣大学	Chang Jung Christian University
+弘光科技大学	Hungkuang University
+中国医药大学	China Medical University
+健行学校财团法人健行科技大学	Chien Hsin University of Science and Technology
+正修学校财团法人正修科技大学	Cheng Shiu University
+万能学校财团法人万能科技大学	Vanung University
+玄奘大学	Hsuan Chuang University
+建国科技大学	Chienkuo Technology University
+明志科技大学	Ming Chi University of Technology
+高苑科技大学	Kao Yuan University
+大仁科技大学	Tajen University
+圣约翰科技大学	St. John’s University
+岭东科技大学	Ling Tung University
+中国科技大学	China University of Technology
+中台科技大学	Central Taiwan University of Science and Technology
+亚洲大学	Asia University
+开南大学	Kainan University
+佛光大学	Fo Guang University
+台南家专学校财团法人台南应用科技大学	Tainan University of Technology
+远东科技大学	Far East University
+光宇学校财团法人元培医事科技大学	Yuanpei University of Medical Technology
+景文科技大学	Jinwen University of Science and Technology
+中华医事科技大学	Chung Hwa University of Medical Technology
+东南科技大学	Tungnan University
+德明财经科技大学	Takming University of Science and Technology
+明道学校财团法人明道大学	MingDao University
+南开科技大学	Nan Kai University of Technology
+中华学校财团法人中华科技大学	China University of Science and Technology
+侨光科技大学	Overseas Chinese University
+广亚学校财团法人育达科技大学	Yu Da University of Science and Technology
+美和学校财团法人美和科技大学	Meiho University
+吴凤科技大学	WuFeng University
+环球学校财团法人环球科技大学	TransWorld University
+修平学校财团法人修平科技大学	Hsiuping University of Science and Technology
+长庚学校财团法人长庚科技大学	Chang Gung University of Science and Technology
+城市学校财团法人台北城市科技大学	Taipei City University of Science and Technology
+大华学校财团法人敏实科技大学	Minth University of Science and Technology
+醒吾学校财团法人醒吾科技大学	Hsing Wu University of Science and Technology
+文藻学校财团法人文藻外语大学	Wenzao Ursuline University of Languages
+华夏学校财团法人华夏科技大学	Hwa Hsia University of Technology
+慈济学校财团法人慈济科技大学	Tzu Chi University of Science and Technology
+致理学校财团法人致理科技大学	Chihlee University of Technology
+康宁学校财团法人康宁大学	University of Kang Ning
+宏国学校财团法人宏国德霖科技大学	Hungkuo Delin University of Technology
+东方学校财团法人东方设计大学	TungFang Design University
+崇右学校财团法人崇右影艺科技大学	Chungyu University of Film and Arts
+台北海洋学校财团法人台北海洋科技大学	Taipei University of Marine Technology
+亚东学校财团法人亚东科技大学	Asia Eastern University of Science and Technology
+中信金融管理学院	CTBC Business School
+大汉学校财团法人大汉技术学院	Dahan Institute of Technology
+南亚科技学校财团法人南亚技术学院	Nanya Institute of Technology
+黎明技术学院	Lee-Ming Institute of Technology
+德育学校财团法人德育护理健康学院	Deh Yu College of Nursing and Health
+大同技术学院	Tatung Institute of Technology
+马偕学校财团法人马偕医学院	MacKay Medical College
+法鼓学校财团法人法鼓文理学院	Dharma Drum Institute of Liberal Art
+马偕学校财团法人马偕医护管理专科学校	MacKay Junior College of Medicine, Nursing, and Management
+仁德医护管理专科学校	Jen-Teh Junior College of Medicine, Nursing and Management
+树人医护管理专科学校	Shu-Zen Junior College of Medicine and Management
+慈惠医护管理专科学校	TZU HUI Institute of Technology
+耕莘健康管理专科学校	Cardinal Tien Junior College of Healthcare and Management
+敏惠医护管理专科学校	Min-Hwei Junior College of Health Care Management
+育英医护管理专科学校	Yuh-Ing Junior College of Health Care & Management
+圣母医护管理专科学校	St. Mary's Junior College of Medicine, Nursing and Management
+新生学校财团法人新生医护管理专科学校	Hsin Sheng Junior College of Medical Care and Management
+崇仁医护管理专科学校	Chung-Jen Junior College of Nursing, Health Sciences and Management
+学校财团法人中华浸信会基督教台湾浸会神学院	Taiwan Baptist Christian Seminary
+台北基督学院	Christ's College Taipei
+财团法人一贯道天皇基金会一贯道天皇学院	I-Kuan Tao College
+台神学校财团法人台湾神学研究学院	Taiwan Graduate School of Theology
+一贯道崇德学院	I.K.T. Chong-De School
+台湾基督长老教会南神神学院	Tainan Theological College
+中华福音神学研究学院	China Evangelical Graduate School of Theology
+唯心圣教学院	Weixin Shengjiao College
+台北市立大学	University of Taipei
+高雄市立空中大学	Open University of Kaohsiung
