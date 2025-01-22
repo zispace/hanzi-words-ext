@@ -57,3 +57,5 @@
 - 公司和机构名语料库 https://github.com/wainshine/Company-Names-Corpus
 - THUOCL 中文词库（IT、财经、成语、地名、历史名人、诗词、医学、饮食、法律、汽车、动物等类）https://github.com/thunlp/THUOCL, http://thuocl.thunlp.org
 - 领域词汇知识库（涵盖 68 个领域、共计 916 万词） https://github.com/liuhuanyong/DomainWordsDict
+- 刘邵博词典360万（个人整理）.txt https://github.com/fkxxyz/chinese-dictionary-3.6million
+- Gboard输入法的中文词库 https://github.com/Konne06/Gboard-Pinyin
