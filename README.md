@@ -40,6 +40,9 @@
 - 单手笔顺输入法码表: <https://gitee.com/yq-ysy/one-hand_code> <https://github.com/YQ-YSY/stroke-seq_MB>
 - 自建拼音输入法词库（Fcitx5/GBoard） https://github.com/wuhgit/CustomPinyinDictionary
 - Gboard 词库语料库 https://github.com/entr0pia/corpus-of-gboard_dict_3
+- 单手笔顺输入法（码表） <https://gitee.com/yq-ysy/one-hand_code>, <https://github.com/YQ-YSY/stroke-seq_MB>
+- 小麥注音輸入法 <https://github.com/openvanilla/McBopomofo/>
+
 
 ### 通用词库
 
