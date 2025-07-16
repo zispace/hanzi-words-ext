@@ -8,8 +8,6 @@ todo/
 temp/
 trash/
 
-*.*
-
-!.gitignore
-!*.txt
-!*.md
+*.zip
+*.tsv
+*.csv
