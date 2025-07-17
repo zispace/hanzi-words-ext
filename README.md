@@ -7,6 +7,9 @@
 
 - 常用规范词表和专名词见：<https://github.com/zispace/hanzi-words>
 - 搜狗词库见：<https://github.com/zispace/dict-scel>; 官网<https://pinyin.sogou.com/dict/>
+- 类似项目：
+  - https://github.com/yanghao5/lexicon
+  - https://github.com/liuhuanyong/DomainWordsDict
 
 ## 数据集
 
